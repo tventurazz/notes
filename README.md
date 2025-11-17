@@ -19,5 +19,5 @@
 [6](https://github.com/tventurazz/notes/blob/main/image/SINDPPD006.jpg)
 ) do SINDPPD/RS persegue e ameaça vítimas com o propósito de coagí-las e intimidá-las.
 
-
+🔺 Ismael Homem de Oliveira exerce a atividade criminosa de cafetinagem agenciando garotas de programa e travestis para membros do sindicato.
 
