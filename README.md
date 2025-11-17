@@ -28,3 +28,7 @@
 🔺 Ismael Homem de Oliveira e seus comparsas fazem uso da identidade de Augusto Sherman Cavalcanti, Ministro-Substituto do Tribunal de Contas da União (TCU).
 
 🔺 Ismael Homem de Oliveira e seus comparsas produzem e distribuem montagenes videográficas e fotográficas com cenas de sexo explícito com crianças e adolescentes.
+
+🔺 Ismael Homem de Oliveira e seus comparsas alegam possuir vínculos com Mark Torronteguy Núnez Weber, Procurador da República do Ministério Público Federal - RS, que por sua vez recebe suborno para arquivar notícias de fato e denúncias.
+
+🔺 Promoção de Arquivamento MPF - Mark Weber
