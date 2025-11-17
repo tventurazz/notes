@@ -34,3 +34,13 @@
 🔺 Promoção de Arquivamento MPF - Mark Weber
 
 🔺 Ismael Homem de Oliviera e seus comparsas fazem uso de um equipamento militar de espionagem de uso exclusivo da OTAN para conduzirem atividades criminosas, coagir e torturar vítimas.
+
+🔺 Invadem rede militar de inteligência e se identificam como:
+1) Funcionários do MPF;
+2) Agentes do Departamento de Polícia Federal;
+3) Procuradores da república;
+4) Ministros de Estado;
+5) Chefes de Estado;
+6) Vítimas;
+7) Militares do Exército Brasileiro;
+8) Cognomes (Casio/Salbego/Monstrão/Julinho/Psiconauta/Victor)
