@@ -10,5 +10,14 @@ No ano de 2012, [foi nomeado](https://sindppd-rs.org.br/mudancas-na-diretoria-do
 
 Ismael Homem de Oliviera conduzia gestão com propósito criminoso, desviando contribuições sindicais, lavando dinheiro e furtando dados pessoais de sindicalizados com o objetivo de cometer os crimes de estelionato e falsidade ideológica.
 
+Além disso, Ismael Homem de Oliveira juntamente com outros membros (
+[1](https://github.com/tventurazz/notes/blob/main/image/SINDPPD001.jpg)
+[2](https://github.com/tventurazz/notes/blob/main/image/SINDPPD002.jpg)
+[3](https://github.com/tventurazz/notes/blob/main/image/SINDPPD003.jpg)
+[4](https://github.com/tventurazz/notes/blob/main/image/SINDPPD004.jpg)
+[5](https://github.com/tventurazz/notes/blob/main/image/SINDPPD005.jpg)
+[6](https://github.com/tventurazz/notes/blob/main/image/SINDPPD006.jpg)
+) do SINDPPD/RS persegue e ameaça vítimas com o propósito de coagí-las e intimidá-las.
+
 - **Promoção de Arquivamento MPF**: Ismael Homem de Oliveira
 
