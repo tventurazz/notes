@@ -23,4 +23,6 @@
 
 🔺 Ismael Homem de Oliveira e seus comparsas faziam uso do dinheiro obtido com o desvio das contribuições sindicais em prostituição, uso de drogas, presentes para esposa/família e viagens.
 
-🔺 ISmael Homem de Oliveira e seus comparsas coagem vítimas ameaçando-as dizendo que vão "sentar o aço", fazendo referência ao uso de armas de fogo.
+🔺 Ismael Homem de Oliveira e seus comparsas coagem vítimas ameaçando-as dizendo que vão "sentar o aço", fazendo referência ao uso de armas de fogo.
+
+🔺 Ismael Homem de Oliveira e seus comparsas fazem uso da identidade de Augusto Sherman Cavalcanti, Ministro-Substituto do Tribunal de Contas da União (TCU).
