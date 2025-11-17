@@ -32,3 +32,5 @@
 🔺 Ismael Homem de Oliveira e seus comparsas alegam possuir vínculos com Mark Torronteguy Núnez Weber, Procurador da República do Ministério Público Federal - RS, que por sua vez recebe suborno para arquivar notícias de fato e denúncias.
 
 🔺 Promoção de Arquivamento MPF - Mark Weber
+
+🔺 Ismael Homem de Oliviera e seus comparsas fazem uso de um equipamento militar de espionagem de uso exclusivo da OTAN para conduzirem atividades criminosas, coagir e torturar vítimas.
