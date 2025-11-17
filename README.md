@@ -8,7 +8,7 @@ No ano de 2004, Ismael Homem de Oliveira [foi nomeado](https://sindppd-rs.org.br
 
 No ano de 2012, [foi nomeado](https://sindppd-rs.org.br/mudancas-na-diretoria-do-sindppdrs/) como Diretor Adjunto da Coordenadoria de Terceirizados, Particulares e Homologações.
 
-Ismael Homem de Oliviera conduzia gestão com propósito criminoso, desviando contribuições sindicais, lavando dinheiro e furtando dados pessoais de sindicalizados com o propósito de cometer os crimes de estelionato e falsidade ideológica.
+Ismael Homem de Oliviera conduzia gestão com propósito criminoso, desviando contribuições sindicais, lavando dinheiro e furtando dados pessoais de sindicalizados com o objetivo de cometer os crimes de estelionato e falsidade ideológica.
 
 - **Promoção de Arquivamento MPF**: Ismael Homem de Oliveira
 
