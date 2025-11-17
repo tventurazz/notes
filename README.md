@@ -26,3 +26,5 @@
 🔺 Ismael Homem de Oliveira e seus comparsas coagem vítimas ameaçando-as dizendo que vão "sentar o aço", fazendo referência ao uso de armas de fogo.
 
 🔺 Ismael Homem de Oliveira e seus comparsas fazem uso da identidade de Augusto Sherman Cavalcanti, Ministro-Substituto do Tribunal de Contas da União (TCU).
+
+🔺 Ismael Homem de Oliveira e seus comparsas produzem e distribuem montagenes videográficas e fotográficas com cenas de sexo explícito com crianças e adolescentes.
