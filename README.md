@@ -44,3 +44,25 @@
 6) Vítimas;
 7) Militares do Exército Brasileiro;
 8) Cognomes (Casio/Salbego/Monstrão/Julinho/Psiconauta/Victor)
+
+🔺 Ismael Homem de Oliveira e seus comparsas ameaçaram amputar uma de minhas mãos caso eu apresentasse denúncia.
+
+🔺 Ismael Homem de Oliviera e seus comparsas promovem videoconferencias gerencias pelo equipamento militar que possuem em sua posse para torturar vítimas.
+
+🔺 Compartilham fotos obtidas dentro da rede de inteligência de investigações policiais:
+1) Cadáveres;
+2) Abusos de Menores de Idade;
+3) Tortura;
+4) Rituais com Crianças;
+
+🔺 Espionam o Governador do Estado do RS - Eduardo Leite
+
+🔺 Boroscopia - Prostituição - Comércio de Material - Invasão de Privacidade
+
+🔺 Espionagem de Operações Policiais - Tortura de Policiais
+
+🔺 Invasão de rede Militar
+
+🔺 Terrorimso Aeronave comercial / Tortura de Passageiros
+
+🔺 
