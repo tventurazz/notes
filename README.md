@@ -21,3 +21,4 @@
 
 🔺 Ismael Homem de Oliveira exerce a atividade criminosa de cafetinagem agenciando garotas de programa e travestis para membros do sindicato.
 
+🔺 Ismael Homem de Oliveira e seus comparsas faziam uso do dinheiro obtido com o desvio das contribuições sindicais em prostituição, uso de drogas, presentes para esposa/família e viagens.
