@@ -106,17 +106,17 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Tanques de Combustível - Explosões e Incêndio
 
-🔺 Filmes Fotográficos - Fotos e Radiografias, por exemplo.
+🔺 Filmes Fotográficos - Destruição de Fotos e Radiografias antes de serem reveladas, por exemplo.
 
 🔺 Interferência Eletromagnética (Jammer)
 
-🔺 GPS Mocking 
+🔺 GPS - Mocking ou Inoperância 
 
 🔺 Marca Passo
 
-🔺 Smart Cards (Cartões Bancários)
+🔺 Smart Cards (Destruição de cartões Bancários)
 
-🔺 SIM Cards 
+🔺 SIM Cards (Destruição)
 
 🔺 USB Stick/SD Cards (Data Loss)
 
