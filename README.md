@@ -98,3 +98,4 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 A OTAN proibe que informações de inteligência que dizem respeito a organização circule na rede, tornando impossível a produção de informações de inteligência relacionadas a OTAN.
 
+🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
