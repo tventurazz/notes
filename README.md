@@ -86,6 +86,10 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 3) Civis - Não acessa/produz informações de inteligencia segredo de estado (PF, Min. Defesa, ABIN)
 
+🔺 As unidades especiais da OTAN se tratam de um equipamento de comunicação via satelite portátil que podem ser montados e operado de qualquer lugar no mundo.
+
+🔺 As unidades especiais da OTAN possuem recursos capazes de conduzir um processo de lavagem cerebral em um ser humano bem como sugestioná-lo a pensar em contextos determinados, e em alguns casos, induzí-lo a agir conforme esse contexto.
+
 
 
 
