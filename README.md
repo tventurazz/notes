@@ -61,9 +61,9 @@
 
 🔺 Espionagem de Operações Policiais - Tortura de Policiais
 
-🔺 Invasão de rede Militar - Invadem rede militar de inteligência para obter informações privilegiadas e fazer uso de tais informações para  
-usar tais informações para chantagear, ameaçar, extorquir, intimidar vítimas e autoridades responsaveis pela investigação. 
-(ameaça revelar informações de inteligência que são consideradas segredos de estado para intimidar autoridades e governos)
+🔺 Invasão de rede Militar - Invadem rede militar de inteligência para obter informações privilegiadas e fazer uso de tais informações para chantagear, ameaçar, extorquir, intimidar vítimas e autoridades responsaveis pela investigação. 
+
+Tortura crianças, gestantes, idosos, deficientes físicos, pacientes em hospitais fazendo uso da infraestrutura aeroespacial ameaça revelar informações de inteligência que são consideradas segredos de estado para intimidar autoridades e governos.
 
 🔺 Invadem a privacidade de suas vítimas pois possuem aceso a uma infraestrutura aeroespacial militar composta por satelites espiões fazendo uso do equipamento militar que está em posse de Ismael Homem de Oliveira. 
 
