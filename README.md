@@ -61,8 +61,11 @@
 
 🔺 Espionagem de Operações Policiais - Tortura de Policiais
 
-🔺 Invasão de rede Militar
+🔺 Invasão de rede Militar - Invadem rede militar de inteligência para obter informações privilegiadas e fazer uso de tais informações para  
+usar tais informações para chantagear, ameaçar, extorquir, intimidar vítimas e autoridades responsaveis pela investigação. 
+(ameaça revelar informações de inteligência que são consideradas segredos de estado para intimidar autoridades e governos)
 
-🔺 Terrorimso Aeronave comercial / Tortura de Passageiros
+🔺 Invadem a privacidade de suas vítimas pois possuem aceso a uma infraestrutura aeroespacial militar composta por satelites espiões fazendo uso do equipamento militar que está em posse de Ismael Homem de Oliveira. 
 
-🔺 Usam infraestrutura aeroespacial militar composta por satelites espiões. 
+🔺 São capazes de atacar passageiros a bordo de aeronaves comerciais em pleno voo (Terrorimso Aeronave comercial / Tortura de Passageiros)
+
