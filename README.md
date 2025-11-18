@@ -140,4 +140,9 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência;
 
+🔺 Inflamação/Rompimento do Apêndice - dores, liberar conteúdo infeccioso na cavidade abdominal podendo levar à peritonite
+
+🔺 Glândulas Salivares - Sede, Salivação;
+
+🔺 Estômago/Esofago - Vômitos, gastrite, úlceras, má digestão;
 
