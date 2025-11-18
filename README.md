@@ -124,7 +124,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Sistema Circulatório - Ataca veias e artérias - Isquemia, Irrigação sanguinea no cerébro, vertigem, irigação capilar das extremidadas de membros inferiores e superiores.
 
-🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos.
+🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos, simula sintomas de doenças
 
+🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele
 
-
+🔺 Feridas - Ataca feridas preexistentes amplificando a sensação de dor, aumenta a gravidade da ferida, não permite a coagulação do sangue, retarda a regeneração
