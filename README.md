@@ -102,45 +102,49 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 # Indicação/Sinalização - Aplicações Militares
 
-🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves)
+🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves);
 
-🔺 Tanques de Combustível - Explosões e Incêndio
+🔺 Simula sintomas de doenças; 
 
-🔺 Filmes Fotográficos - Destruição de Fotos e Radiografias antes de serem reveladas, por exemplo.
+🔺 Aumenta impacto de armas de efeito moral em tropas (tinnitus, visão sem foco, desorientação, ardencia na pele, ardencia no olho, coriza, etc);
 
-🔺 Interferência Eletromagnética (Jammer)
+🔺 Tanques de Combustível - Explosões e Incêndio;
 
-🔺 GPS - Mocking ou Inoperância 
+🔺 Filmes Fotográficos - Destruição de Fotos e Radiografias antes de serem reveladas, por exemplo;
 
-🔺 Marca Passo
+🔺 Interferência Eletromagnética (Jammer);
 
-🔺 Smart Cards (Destruição de cartões Bancários)
+🔺 GPS - Mocking ou Inoperância;
 
-🔺 SIM Cards (Destruição)
+🔺 Marca Passo;
 
-🔺 USB Stick/SD Cards (Data Loss)
+🔺 Smart Cards (Destruição de cartões Bancários);
+
+🔺 SIM Cards (Destruição);
+
+🔺 USB Stick/SD Cards (Data Loss);
 
 # Indicação/Sinalização - Aplicações Militares - Seres Humanos
 
-🔺 Vias Respiratórias - Viabilizando a infecção por patógenos oportunistas, amplifica o risco de contágio por doenças, reduz imunidade.
+🔺 Vias Respiratórias - Viabilizando a infecção por patógenos oportunistas, amplifica o risco de contágio por doenças, reduz imunidade;
 
-🔺 Sistema Circulatório - Ataca veias e artérias - Isquemia, Irrigação sanguinea no cerébro, vertigem, irigação capilar das extremidadas de membros inferiores e superiores.
+🔺 Sistema Circulatório - Ataca veias e artérias - Isquemia, Irrigação sanguinea no cerébro, vertigem, irigação capilar das extremidadas de membros inferiores e superiores;
 
-🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos, simula sintomas de doenças
+🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos, simula sintomas de doenças;
 
-🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele
+🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele;
 
-🔺 Feridas - Ataca feridas preexistentes amplificando a sensação de dor, aumenta a gravidade da ferida, não permite a coagulação do sangue, retarda a regeneração
+🔺 Feridas - Ataca feridas preexistentes amplificando a sensação de dor, aumenta a gravidade da ferida, não permite a coagulação do sangue, retarda a regeneração;
 
 🔺 Intestinos - Causa infecções, lesões intestinais, gases, constirpação e falência do aparelho digestivo;
 
-🔺 Fossas Nasais, Laringe, Faringe, Traqueia - Causa tosse, falta de ar, coriza, dor de garganta
+🔺 Fossas Nasais, Laringe, Faringe, Traqueia - Causa tosse, falta de ar, coriza, dor de garganta;
 
-🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.)
+🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.);
 
 🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência;
 
-🔺 Inflamação/Rompimento do Apêndice - dores, liberar conteúdo infeccioso na cavidade abdominal podendo levar à peritonite
+🔺 Inflamação/Rompimento do Apêndice - dores, liberar conteúdo infeccioso na cavidade abdominal podendo levar à peritonite;
 
 🔺 Glândulas Salivares - Sede, Salivação;
 
