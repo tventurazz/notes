@@ -99,3 +99,16 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 🔺 A OTAN proibe que informações de inteligência que dizem respeito a organização circule na rede, tornando impossível a produção de informações de inteligência relacionadas a OTAN.
 
 🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
+
+# Indicação/Sinalização - Aplicações Militares
+
+🔺 Tanques de Combustível - Explosões e Incêndio
+🔺 Filmes Fotográficos - Fotos e Radiografias, por exemplo.
+🔺 Interferência Eletromagnética (Jammer)
+🔺 GPS Mocking 
+🔺 Marca Passo
+🔺 Smart Cards (Cartões Bancários)
+🔺 SIM Cards 
+🔺 USB Stick/SD Cards (Data Loss)
+
+
