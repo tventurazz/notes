@@ -63,7 +63,7 @@
 
 🔺 Invasão de rede Militar - Invadem rede militar de inteligência para obter informações privilegiadas e fazer uso de tais informações para chantagear, ameaçar, extorquir, intimidar vítimas e autoridades responsaveis pela investigação. 
 
-Tortura crianças, gestantes, idosos, deficientes físicos, pacientes em hospitais fazendo uso da infraestrutura aeroespacial ameaça revelar informações de inteligência que são consideradas segredos de estado para intimidar autoridades e governos.
+🔺 Tortura crianças, gestantes, idosos, deficientes físicos, pacientes em hospitais e ameaça revelar informações de inteligência que são consideradas segredos de estado fazendo uso da infraestrutura aeroespacial da UMV para intimidar autoridades e governos. Ato Terrorista.
 
 🔺 Invadem a privacidade de suas vítimas pois possuem aceso a uma infraestrutura aeroespacial militar composta por satelites espiões fazendo uso do equipamento militar que está em posse de Ismael Homem de Oliveira. 
 
