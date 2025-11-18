@@ -1,4 +1,4 @@
-# SINDPPD/RS
+# ▶️ SINDPPD/RS
 
 🔺 Ismael Homem de Oliveira possui ligações com Sindicato dos Trabalhadores em Processamento de Dados do estado do Rio Grande do Sul (SINDPPD/RS) exercendo cargos e funções nas diretorias do orgão. Participou ativamente junto ao orgão, participou de várias eleições como componente da chapa [Independência, Luta e Compromisso](https://sindppd-rs.org.br/eleicoes-sindppdrs-duas-chapas-inscritas-no-processo-eleitoral/).
 
@@ -68,4 +68,9 @@
 🔺 Invadem a privacidade de suas vítimas pois possuem aceso a uma infraestrutura aeroespacial militar composta por satelites espiões fazendo uso do equipamento militar que está em posse de Ismael Homem de Oliveira. 
 
 🔺 São capazes de atacar passageiros a bordo de aeronaves comerciais em pleno voo (Terrorimso Aeronave comercial / Tortura de Passageiros)
+
+# ▶️ OTAN (Organização do Tratado do Atlântico Norte)
+
+🔺 
+
 
