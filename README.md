@@ -150,5 +150,6 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Arcada Dentária/Gengiva - Dor de dente, feridas; 
 
-🔺 Musculos da Face/Olhos - Provação de Sono;
+🔺 Músculos da Face/Olhos - Privação de Sono;
 
+🔺 Articulações - Reduz força, precisão motora, flexiblidade, cansaço
