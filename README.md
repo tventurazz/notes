@@ -124,6 +124,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Sistema Circulatório - Ataca veias e artérias - Isquemia, Irrigação sanguinea no cerébro, vertigem, irigação capilar das extremidadas de membros inferiores e superiores.
 
+🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos.
 
 
 
