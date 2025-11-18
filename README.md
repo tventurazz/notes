@@ -148,5 +148,5 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Glândulas Salivares - Sede, Salivação;
 
-🔺 Estômago/Esofago - Vômitos, gastrite, úlceras, má digestão;
+🔺 Estômago/Esofago - Vômitos, gastrite, úlceras, má digestão, induz/intensifica sensação de fome;
 
