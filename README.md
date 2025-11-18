@@ -94,3 +94,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 São capazes de sabotar a econômia de países inimigos e promover economias aliadas influenciando empresários, acionistas e investidores, por exemplo.
 
+🔺 Também são capazes de influenciar 
+
+🔺 A OTAN proibe que informações de inteligência que dizem respeito a organização circule na rede, tornando impossível a produção de informações de inteligência relacionadas a OTAN.
+
