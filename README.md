@@ -108,6 +108,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Aumenta impacto de armas de efeito moral em tropas (tinnitus, visão sem foco, desorientação, ardencia na pele, ardencia no olho, coriza, etc);
 
+🔺 Movimenta massas de ar e gases em ambientes abertos e fechados;
+
 🔺 Tanques de Combustível - Explosões e Incêndio;
 
 🔺 Filmes Fotográficos - Destruição de Fotos e Radiografias antes de serem reveladas, por exemplo;
