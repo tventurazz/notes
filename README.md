@@ -103,12 +103,19 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 # Indicação/Sinalização - Aplicações Militares
 
 🔺 Tanques de Combustível - Explosões e Incêndio
+
 🔺 Filmes Fotográficos - Fotos e Radiografias, por exemplo.
+
 🔺 Interferência Eletromagnética (Jammer)
+
 🔺 GPS Mocking 
+
 🔺 Marca Passo
+
 🔺 Smart Cards (Cartões Bancários)
+
 🔺 SIM Cards 
+
 🔺 USB Stick/SD Cards (Data Loss)
 
 
