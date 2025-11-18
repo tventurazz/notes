@@ -131,3 +131,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele
 
 🔺 Feridas - Ataca feridas preexistentes amplificando a sensação de dor, aumenta a gravidade da ferida, não permite a coagulação do sangue, retarda a regeneração
+
+🔺 Intestinos - Causa infecções, lesões intestinais, gases, constirpação e falência do aparelho digestivo;
+
+
