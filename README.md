@@ -138,3 +138,6 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.)
 
+🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência;
+
+
