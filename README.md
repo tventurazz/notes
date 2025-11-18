@@ -92,5 +92,5 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Países submetidos a infraestrutura aeroespacial da rede estão vulneráveis a manipulação econômica e política da OTAN pois as unidades da OTAN são as responsáveis pelo monitoramento de empresários, acionistas, parlamentares, chefes de estado, eleitores, jornalistas, consumidores, enfim, todo e qualquer ser humano.
 
-🔺 São capazes de sabotar a econômia de países inimigos e promover economias aliadas influenciando empresários, acionistas e investidores submetidos ao controle de unidades da OTAN.
+🔺 São capazes de sabotar a econômia de países inimigos e promover economias aliadas influenciando empresários, acionistas e investidores, por exemplo.
 
