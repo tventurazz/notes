@@ -122,5 +122,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Vias Respiratórias - Viabilizando a infecção por patógenos oportunistas, amplifica o risco de contágio por doenças, reduz imunidade.
 
+🔺 Sistema Circulatório - Ataca veias e artérias - Isquemia, Irrigação sanguinea no cerébro, vertigem, irigação capilar das extremidadas de membros inferiores e superiores.
+
+
 
 
