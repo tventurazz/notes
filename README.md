@@ -71,6 +71,21 @@
 
 # ▶️ OTAN (Organização do Tratado do Atlântico Norte)
 
-🔺 
+🔺 Disponibilizam uma rede de pesquisa, inteligência e operações militares para países signatários de um tratado internacional homologado pelas Organinzações das Nações Unidas (ONU).
+
+🔺 O acesso a infraestrutura de satelites espiões é controlada por unidades especiais de controle exclusivo da OTAN.
+Dentro da rede, todas as forças Armadas de todos os países signatários do tratado só produzem e/ou confirmam informações de inteligência acessando essas unidades especiais.  
+
+🔺 As unidades especiais da OTAN tem acesso completo e total a TODA informação de inteligência produzida no mundo sem restrições. Os países signatários possuem acesso a informações de inteligência em ambito global, inclusive de países não signatários do tratado.
+
+🔺 Tipos de Unidade:
+
+1) OTAN - Tem exclusividade no acesso de recursos e funcionalidades disponíveis na rede.
+
+2) Militares - Guardião das informações segredos de estado na rede (Exército Brasileiro, FAB)
+
+3) Civis - Não acessa/produz informações de inteligencia segredo de estado (PF, Min. Defesa, ABIN)
+
+
 
 
