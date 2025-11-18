@@ -100,7 +100,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
 
-# Indicação/Sinalização - Aplicações Militares
+# ▶️ Indicação/Sinalização - Aplicações Militares
 
 🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves);
 
@@ -123,8 +123,6 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 🔺 SIM Cards (Destruição);
 
 🔺 USB Stick/SD Cards (Data Loss);
-
-# Indicação/Sinalização - Aplicações Militares - Seres Humanos
 
 🔺 Vias Respiratórias - Viabilizando a infecção por patógenos oportunistas, amplifica o risco de contágio por doenças, reduz imunidade;
 
