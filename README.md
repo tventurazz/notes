@@ -118,4 +118,9 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 USB Stick/SD Cards (Data Loss)
 
+# Indicação/Sinalização - Aplicações Militares - Seres Humanos
+
+🔺 Vias Respiratórias - Viabilizando a infecção por patógenos oportunistas, amplifica o risco de contágio por doenças, reduz imunidade.
+
+
 
