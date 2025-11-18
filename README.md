@@ -65,4 +65,4 @@
 
 🔺 Terrorimso Aeronave comercial / Tortura de Passageiros
 
-🔺 
+🔺 Usam infraestrutura aeroespacial militar composta por satelites espiões. 
