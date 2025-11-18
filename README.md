@@ -134,4 +134,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Intestinos - Causa infecções, lesões intestinais, gases, constirpação e falência do aparelho digestivo;
 
+🔺 Fossas Nasais, Laringe, Faringe, Traqueia - Causa tosse, falta de ar, coriza, dor de garganta
+
+🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.)
 
