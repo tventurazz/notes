@@ -102,6 +102,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 # Indicação/Sinalização - Aplicações Militares
 
+🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves)
+
 🔺 Tanques de Combustível - Explosões e Incêndio
 
 🔺 Filmes Fotográficos - Fotos e Radiografias, por exemplo.
