@@ -104,7 +104,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
 
-🔺 Possuem a tecnologia e mantém a rede UMV desde os anos 80, possuem informações de inteligencia (analise multimodal de emoções, diálogos, comunicação eletrônica, etc) de cidadões do mundo inteiro desde o seu nascimento (monitora crianças);
+🔺 Possuem a tecnologia e mantém a rede UMV desde os anos 80, possuem informações de inteligencia (analise multimodal de emoções, padrões cerebrais, diálogos, interações sociais, comunicação eletrônica, etc) de cidadões do mundo inteiro desde o seu nascimento (monitora crianças);
 
 # ▶️ Indicação/Sinalização - Aplicações Militares
 
