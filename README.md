@@ -104,6 +104,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
 
+🔺 Possuem a tecnologia e mantém a rede UMV desde os anos 80, possuem informações de inteligencia (owning completo) de cidadões do mundo inteiro desde o seu nascimento (monitora crianças);
+
 # ▶️ Indicação/Sinalização - Aplicações Militares
 
 🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves);
@@ -192,6 +194,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Rede UMV como Sociedade Secreta Fascista;
 - Lyvia "fofoca" na rede UMV e convida suas colegas prostitutas para participarem do owning;
 - Ismael convida amigos do SINDPPD para fazerem piadas e agem como palhaços em um circo;
+- Controle de transações com criptomoedas;
+- 
 
 # :feelsgood: Fascismo
 
