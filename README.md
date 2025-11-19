@@ -110,6 +110,13 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Simula sintomas de doenças; 
 
+🔺 Associa sensações desconfortáveis causadas pelo uso da funcionalidade com o propósito de *adestrar* o ser humano, tais como:
+
+- Consumo de determinados alimentos (Ex. Dores Abdominais, Gastrite, Reações alérgicas);
+- Comportamento/Atividade Específica (Ex. Dores musculares, Dores nas Articulações);
+- Uso de roupas/uniformes/calçados (Ex. Queimaduras, Irritações, Sensação de Calor);
+- Uso de medicamentos/fármacos (Ex. Insônia, Cefaléia)
+
 🔺 Aumenta impacto de armas de efeito moral em tropas (tinnitus, visão sem foco, desorientação, ardencia na pele, ardencia no olho, coriza, etc);
 
 🔺 Movimenta massas de ar e gases em ambientes abertos e fechados;
@@ -136,7 +143,9 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Sistema Muscular - Tendões e Músculos - Causa dor e lesões musculares dificultando mobilidade e precisão de movimentos, simula sintomas de doenças;
 
-🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele;
+🔺 Pele/Couro cabeludo - Causa Prurido Extremo, simula alergias, causa queimaduras, simula doenças de pele, ressecamento;
+
+🔺 Lábios - Causa ressecamento, ardência extrema, 
 
 🔺 Feridas - Ataca feridas preexistentes amplificando a sensação de dor, aumenta a gravidade da ferida, não permite a coagulação do sangue, retarda a regeneração;
 
