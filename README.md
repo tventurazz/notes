@@ -106,6 +106,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Possuem a tecnologia e mantém a rede UMV desde os anos 80, possuem informações de inteligencia (analise multimodal de emoções, padrões cerebrais, diálogos, interações sociais, comunicação eletrônica, etc) de cidadões do mundo inteiro desde o seu nascimento (monitora crianças);
 
+🔺 Fazem piada que Ismael Homem de Oliveira possui "poderes mágicos";
+
 # ▶️ Indicação/Sinalização - Aplicações Militares
 
 🔺 Reduz a eficiência de Tropas (Motorizada, Mecanizada e Leves);
@@ -208,6 +210,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Ismael convida amigos do SINDPPD para fazerem piadas e agem como palhaços em um circo;
 - Controle de transações com criptomoedas;
 - Lyvia se reune em igreja evangélica com seu grupo criminoso; (ז')
+- Ismael - Homicídio de Arzinoé Ribeiro Costa
+- Ismael - Suposta conspiração para se apropriar da garagem vizinha ao Cond. Ed. Portal (Garage Portal - 87.660.270/0001-07)
 - 
 
 # :feelsgood: Fascismo
