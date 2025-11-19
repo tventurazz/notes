@@ -77,6 +77,8 @@
 
 🔺 Batizaram Ismael Homem de Oliveira como "O HOMEM DA TERMAL" - Uma figura sem rosto, sem nome, que faz as pessoas se sentirem mal.
 
+🔺 Fazem piada que Ismael Homem de Oliveira possui "poderes mágicos";
+
 # ▶️ OTAN (Organização do Tratado do Atlântico Norte)
 
 🔺 Disponibilizam uma rede de pesquisa, inteligência e operações militares para países signatários de um tratado internacional homologado pelas Organinzações das Nações Unidas (ONU).
@@ -113,8 +115,6 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 🔺 A violação das regras do uso da rede pelos operadores de países signatários é punível de forma extremamente severa.
 
 🔺 Possuem a tecnologia e mantém a rede UMV desde os anos 80, possuem informações de inteligencia (analise multimodal de emoções, padrões cerebrais, diálogos, interações sociais, comunicação eletrônica, etc) de cidadões do mundo inteiro desde o seu nascimento (monitora crianças);
-
-🔺 Fazem piada que Ismael Homem de Oliveira possui "poderes mágicos";
 
 # ▶️ Indicação/Sinalização - Aplicações Militares
 
