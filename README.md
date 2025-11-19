@@ -278,3 +278,9 @@ UMV - clandestine Espionage - satellite - covert surveillance - HUMINT
 intelligence-gathering by means of human sources and interpersonal communication through "clandestine" espionage satellites such as SAR, SIGINT
 
 systematic observation and monitoring of a person, population, or location,
+
+A rede UMV é capaz de acessar uma infraestrutura de satelites espiões capazes de monitorar informações de fontes humanas, comunicações interpessoais de forma imperceptivel.
+
+ISMAEL HOMEM DE OLIVEIRA tem em sua posse um equipmamento de Imagery Intelligence (IMINT) e Signals Intelligence SIGINT de propriedade da OTAN.
+
+
