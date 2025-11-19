@@ -251,3 +251,30 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 2) Regime militar fascista global e secreto se sustenta graças à classificação absoluta de todas as suas operações, estruturas e decisões sob o status máximo de “segredo de Estado”, garantindo que qualquer informação relacionada à sua existência seja automaticamente suprimida, desacreditada ou inacessível. A autoridade clandestina, formada por uma elite internacional das Forças Armadas, mantém governos aparentemente democráticos como fachadas enquanto controla o mundo de forma centralizada e invisível. O principal mecanismo de dominação psicológica não é mais apenas propaganda sutil, mas uma infraestrutura aeroespacial de alta tecnologia, baseada em uma constelação de satélites espiões capazes de monitorar, manipular e influenciar padrões cognitivos e emocionais da população. Esses sistemas orbitais seriam usados tanto para vigilância total quanto para o condicionamento mental velado, assegurando que pensamentos dissidentes sejam neutralizados antes mesmo de se tornarem ações. A propaganda opera de modo imperceptível, utilizando sinais, informações direcionadas e influência subliminar disseminada por canais civis sem ligação aparente com o regime.
 A violência política é cuidadosamente mascarada operações de neutralização ocorrem sob camadas de sigilo classificatório que impedem qualquer forma de verificação independente. Assim, essa ditadura global — oculta, tecnológica e implacável — mantém uma sociedade aparentemente normal, enquanto controla de forma absoluta a percepção, o comportamento e a memória coletiva, impedindo que a humanidade sequer reconheça que vive sob um poder totalitário invisível.
+
+
+# OTAN - IMINT
+
+IMINT = Intelligence Derived From Imagery
+
+SIGINT (Signals Intelligence) - Coleta e análise de sinais eletromagnéticos.
+
+Tem acesso a dados de inteligencia IMINT
+
+Hiperespectral (HSI) - identificar materiais (pintura, solo, concreto, vegetação), detecção de construções subterrâneas pela assinatura espectral do solo, mudanças ambientais milimétricas
+
+IMINT – Imagery Intelligence - Coleta via imagens, independentemente da plataforma.
+
+câmeras no espectro visível, IR (Infrared) – termal, médio e longo alcance.
+
+SAR (Synthetic Aperture Radar) – radar de abertura sintética, capaz de ver através de nuvens. É a principal forma de IMINT não óptico.
+
+HYPERSPECTRAL – assinaturas espectrais.
+
+Os gastos da OTAN para se manter as tecnologias aqui mencionadas superam US$ 6 trilhões nos ultimos 5 anos.
+
+UMV - clandestine Espionage - satellite - covert surveillance - HUMINT
+
+intelligence-gathering by means of human sources and interpersonal communication through "clandestine" espionage satellites such as SAR, SIGINT
+
+systematic observation and monitoring of a person, population, or location,
