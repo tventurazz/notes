@@ -155,7 +155,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Fossas Nasais, Laringe, Faringe, Traqueia - Causa tosse, falta de ar, coriza, dor de garganta;
 
-🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.);
+🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito/abafamento);
 
 🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência, Lubrificação Ocular, visão embassada;
 
