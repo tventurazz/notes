@@ -241,6 +241,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Ismael - Suposta conspiração para se apropriar da garagem vizinha ao Cond. Ed. Portal (Garage Portal - 87.660.270/0001-07)
 - Owning - acesso nã invasivo ao Lobo Temporal (associado as funçoes cognitivas tais como Audição, Memória, reconhecimento, compreensão da fala)
 - Possui acesso remoto a sistemas operacionais Android com privilegios de administrador (root). Consegue extrair arquivos, modificar arquivos e gravar arquivos em sistemas operacionais de telefones/tablets conectados a rede móvel;
+- Países signatarios do tratado internacional da UMV renunciam a propria soberania ao depender diretamente da OTAN para se obter informaões de inteligência e conduzir operações militares em favor da segurança nacional;
 
 # :feelsgood: Fascismo
 
