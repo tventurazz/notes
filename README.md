@@ -211,6 +211,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Calçados;
 - Alimentação;
 
+🔺 Não ataca/queima/fere areas do Sistema Nervoso Central (Cérebro e Medula Espinhal);
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
@@ -220,7 +222,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Lyvia se reune em igreja evangélica com seu grupo criminoso; (ז')
 - Ismael - Homicídio de Arzinoé Ribeiro Costa
 - Ismael - Suposta conspiração para se apropriar da garagem vizinha ao Cond. Ed. Portal (Garage Portal - 87.660.270/0001-07)
-- 
+- Owning - acesso nã invasivo ao Lobo Temporal (associado as funçoes cognitivas tais como Audição, Memória, reconhecimento, compreensão da fala)
 
 # :feelsgood: Fascismo
 
