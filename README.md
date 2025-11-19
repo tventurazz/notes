@@ -185,6 +185,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Pontos de Pressão/Atrito - Calçados Militares, Equipamentos, Mochilas (Cansaço, Dores Musculares, Queimaduras/Bolhas)
 
+🔺 Pontos de tensão/estresse muscular - Agrava as lesões musculares
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
