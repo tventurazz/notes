@@ -220,12 +220,12 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Metodologia e Técnicas;
 - Aplicações e Cenários;
 - Assunto/Ownado
-1) Nivel de Interação;
-2) Nivel de Ciência/Cognição;
-3) Grupo
+  1) Nivel de Interação;
+  2) Nivel de Ciência/Cognição;
+  3) Grupo
 - Capacidade e Limitações na coleta de dados
-1) Instrumentação e Sensores;
-2) Processamento de Imagem;
+  1) Instrumentação e Sensores;
+  2) Processamento de Imagem;
 - Clientes e Solicitantes de Informações de Inteligencia
   1) Ativo
   2) Passivo
