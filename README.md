@@ -191,6 +191,16 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Lavagem Cerebral (esquecimento) - Reduz estresse em tropas aliadas, reduz eficiencia de tropas inimigas, ajuda ocultar a presença da OTAN;
 
+🔺 Oportunismo para realizar um ataque imperceptível:
+
+- Pós-operatório;
+- Clima;
+- Traje/Uniforme/Roupas;
+- Equipamentos/Mochilas;
+- Feridas;
+- Calçados;
+- Alimentação;
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
