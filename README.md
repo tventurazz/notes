@@ -181,6 +181,10 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Simular anemia grave;
 - Simular distúrbios hormonais (hipotireoidismo, por exemplo);
 
+🔺 Hiperaquecimento de Uniformes Militares - Desconforto, Sudorese, Desidratação
+
+🔺 Pontos de Pressão/Atrito - Calçados Militares, Equipamentos, Mochilas (Cansaço, Dores Musculares, Queimaduras/Bolhas)
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
