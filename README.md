@@ -155,7 +155,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Canal auricular, aparelho auditivo, Orelha - Causa Otite, Cerume Impactado, feridas, sangramentos, tinnitus (zunido/apito.);
 
-🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência;
+🔺 Globo Ocular, Pálpebras, Musculatura Ocular - Dores atrás do globo ocular, ardência, fadiga ocular, sonolência, Lubrificação Ocular, visão embassada;
 
 🔺 Inflamação/Rompimento do Apêndice - dores, liberar conteúdo infeccioso na cavidade abdominal podendo levar à peritonite;
 
@@ -190,6 +190,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
+- Lyvia "fofoca" na rede UMV e convida suas colegas prostitutas para participarem do owning;
+- Ismael convida amigos do SINDPPD para fazerem piadas e agem como palhaços em um circo;
 
 # :feelsgood: Fascismo
 
