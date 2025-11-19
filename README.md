@@ -67,7 +67,13 @@
 
 🔺 Invadem a privacidade de suas vítimas pois possuem aceso a uma infraestrutura aeroespacial militar composta por satelites espiões fazendo uso do equipamento militar que está em posse de Ismael Homem de Oliveira. 
 
-🔺 São capazes de atacar passageiros a bordo de aeronaves comerciais em pleno voo (Terrorimso Aeronave comercial / Tortura de Passageiros)
+🔺 São capazes de atacar passageiros a bordo de aeronaves comerciais em pleno voo (Terrorimso Aeronave comercial / Tortura de Passageiros);
+
+🔺 Alegam acessar servidores de vídeos de cameras domésticas (Intelbras/Hikvision) 
+
+- Intelbras: aparentemente usa sua própria infraestrutura de nuvem (“Intelbras Cloud / Guardian”) para armazenar vídeos remotos — não há confirmação pública clara de que usa AWS, Google Cloud ou outro grande provedor público, pelo menos para todo o serviço de nuvem da sua linha de CFTV.
+
+- Hikvision: em parte de seus serviços de nuvem (como o HikCentral Connect) usa a AWS (Amazon S3) para armazenamento.
 
 # ▶️ OTAN (Organização do Tratado do Atlântico Norte)
 
