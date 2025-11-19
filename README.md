@@ -163,7 +163,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Estômago/Esofago - Vômitos, gastrite, úlceras, má digestão, induz/intensifica sensação de fome;
 
-🔺 Arcada Dentária/Gengiva - Dor de dente, feridas; 
+🔺 Arcada Dentária/Gengiva - Dor de dente, feridas (Induz produção de exames de imagem médicos com informações da arcada dentária); 
 
 🔺 Músculos da Face/Olhos - Privação de Sono;
 
