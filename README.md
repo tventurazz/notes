@@ -189,6 +189,8 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Pontos de tensão/estresse muscular - Agrava as lesões musculares
 
+🔺 Lavagem Cerebral (esquecimento) - Reduz estresse em tropas aliadas, reduz eficiencia de tropas inimigas, ajuda ocultar a presença da OTAN;
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
