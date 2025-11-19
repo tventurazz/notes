@@ -213,6 +213,23 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 
 🔺 Não ataca/queima/fere areas do Sistema Nervoso Central (Cérebro e Medula Espinhal);
 
+# 📖 Organização
+
+- Ciclo/Fluxo da produção de informações de inteligencia;
+- Atores/Papeis;
+- Metodologia e Técnicas;
+- Aplicações e Cenários;
+- Assunto/Ownado
+1) Nivel de Interação;
+2) Nivel de Ciência/Cognição;
+3) Grupo
+- Capacidade e Limitações na coleta de dados
+1) Instrumentação e Sensores;
+2) Processamento de Imagem;
+- Clientes e Solicitantes de Informações de Inteligencia
+  1) Ativo
+  2) Passivo
+
 # :bulb: MISC
 
 - Rede UMV como Sociedade Secreta Fascista;
