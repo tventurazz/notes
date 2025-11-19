@@ -243,6 +243,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Possui acesso remoto a sistemas operacionais Android com privilegios de administrador (root). Consegue extrair arquivos, modificar arquivos e gravar arquivos em sistemas operacionais de telefones/tablets conectados a rede móvel;
 - Países signatarios do tratado internacional da UMV renunciam a propria soberania ao depender diretamente da OTAN para se obter informaões de inteligência e conduzir operações militares em favor da segurança nacional;
 - Ismael torturou Ícaro Ventura nas vias respiratórias para induzir tosse até que médicos sugeriram a extração das amigdalas como solução; durante procedimento cirurgico (amigdalectomia) Ismael torturou os médicos e o paciente;
+- MESMA APÓS MINHA DENÚNCIAS, Forças Armadas de Todo Mundo estão suprimindo informações de inteligência alegando serem segredo de estado para não expor a rede UMV e seus propósitos;
 
 # :feelsgood: Fascismo
 
