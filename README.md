@@ -77,6 +77,10 @@
 Dentro da rede, todas as forças Armadas de todos os países signatários do tratado só produzem e/ou confirmam informações de inteligência acessando essas unidades especiais.  
 
 🔺 As unidades especiais da OTAN tem acesso completo e total a TODA informação de inteligência produzida no mundo sem restrições. Os países signatários possuem acesso a informações de inteligência em ambito global, inclusive de países não signatários do tratado.
+*Aplicação: Inteligência, Espionagem*
+
+🔺 Fazem uso da funcionalidade de sinalização/indicação para simular sintomas diversos com o propósito de induzir a pessoa monitorada a procurar atenção médica para produzir laudos médicos, exames de imagem, exames laboratoriais (hemogramas/biopsias), etc.
+*Aplicação: Inteligência, Pesquisa Científica*
 
 🔺 Tipos de Unidade:
 
