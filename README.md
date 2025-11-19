@@ -75,6 +75,8 @@
 
 - Hikvision: em parte de seus serviços de nuvem (como o HikCentral Connect) usa a AWS (Amazon S3) para armazenamento.
 
+🔺 Batizaram Ismael Homem de Oliveira como "O HOMEM DA TERMAL" - Uma figura sem rosto, sem nome, que faz as pessoas se sentirem mal.
+
 # ▶️ OTAN (Organização do Tratado do Atlântico Norte)
 
 🔺 Disponibilizam uma rede de pesquisa, inteligência e operações militares para países signatários de um tratado internacional homologado pelas Organinzações das Nações Unidas (ONU).
