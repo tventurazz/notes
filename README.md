@@ -168,3 +168,15 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 🔺 Músculos da Face/Olhos - Privação de Sono;
 
 🔺 Articulações - Reduz força, precisão motora, flexiblidade, cansaço
+
+🔺 Causa dormência/formigamento no membros superiores, inferiores e nas mãos com o propósito de dificultar a oporação de equipamentos, manuseio de armamentos, condução de veículos, deslocamento.
+
+🔺 Calafrios - Simular sintomas de diversas condições:
+
+- Simular exposição ao frio intenso;
+- Simular queda súbita de glicose (hipoglicemia);
+- Simular crises de ansiedade ou pânico;
+- Simular reações alérgicas;
+- Simular reações a medicamentos;
+- Simular anemia grave;
+- Simular distúrbios hormonais (hipotireoidismo, por exemplo);
