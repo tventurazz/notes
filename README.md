@@ -283,4 +283,4 @@ A rede UMV é capaz de acessar uma infraestrutura de satelites espiões capazes 
 
 ISMAEL HOMEM DE OLIVEIRA tem em sua posse um equipmamento de Imagery Intelligence (IMINT) e Signals Intelligence SIGINT de propriedade da OTAN.
 
-
+Os recursos de Intelligence Derived From Imagery (IMINT) controlados e mantidos pela OTAN são, em parte, baseados em satelites equipados com sensores SAR (Synthetic Aperture Radar), HSI (Hiperspectral Image) e Térmico (Infra-Red) e possuem um altissímo poder de penetração, sendo capaz de produzir imagens de tuneis subterraneos, interior de construções de concreto armado, orgãos internos de animais e seres humanos.
