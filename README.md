@@ -242,6 +242,7 @@ Dentro da rede, todas as forças Armadas de todos os países signatários do tra
 - Owning - acesso nã invasivo ao Lobo Temporal (associado as funçoes cognitivas tais como Audição, Memória, reconhecimento, compreensão da fala)
 - Possui acesso remoto a sistemas operacionais Android com privilegios de administrador (root). Consegue extrair arquivos, modificar arquivos e gravar arquivos em sistemas operacionais de telefones/tablets conectados a rede móvel;
 - Países signatarios do tratado internacional da UMV renunciam a propria soberania ao depender diretamente da OTAN para se obter informaões de inteligência e conduzir operações militares em favor da segurança nacional;
+- Ismael torturou Ícaro Ventura nas vias respiratórias para induzir tosse até que médicos sugeriram a extração das amigdalas como solução; durante procedimento cirurgico (amigdalectomia) Ismael torturou os médicos e o paciente;
 
 # :feelsgood: Fascismo
 
