@@ -39,4 +39,15 @@ technologies for the purposes of enhancing Warfighter cognitive performance.*
 - https://www.nato.int/content/dam/nato/legacy-wcm/media_pdf/2022/4/pdf/2021-NATO-STO-Highlights-web.pdf
 
 
+:pushpin: **Mitigating and Responding to Cognitive Warfare**
 
+*For NATO to have the capability to acquire and preserve Decision and Cognitive Superiority over their
+adversaries and across the conflict spectrum, scientific based knowledge is needed to support and increase
+NATO’s operational readiness to respond to CogWar. CogWar is not necessarily new but has emerged
+as a product of the integration and confluence of many technological advances and as availability and access
+to information and technology has increased. CogWar takes well-known methods within warfare to a new level
+by attempting to alter and shape the way humans think, react, and make decisions. CogWar has emerged
+replete with security challenges due to its invasive, intrusive, and invisible nature and where the goal is to
+exploit facets of cognition to disrupt, undermine, influence, or modify human decisions (proposed by ET-356).*
+
+- https://publications.sto.nato.int/publications/STO%20Technical%20Reports/STO-TR-HFM-ET-356/$$TR-HFM-ET-356-ALL.pdf
