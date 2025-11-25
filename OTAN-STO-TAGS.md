@@ -1,0 +1,5742 @@
+# OTAN-STO Tags
+- (Psycho)-sociotechnical
+- 1-D
+- 1D / 2D / 3D
+- 2-D
+- 2-D Flash imaging
+- 2008 Great Recession
+- 2D-ISAR
+- 3D audio display
+- 3D conformal display
+- 3D imaging
+- 3D Modelling
+- 3D printing
+- 3D Scanning
+- 3D unsteady separation
+- 3D Urban mapping
+- 9 Item framework
+- A-List Set of TICs
+- A2/AD
+- ABACUS
+- ABDR (Aircraft Battle Damage Repair)
+- Abilities
+- Absolute protection requirement
+- Absorber
+- Absorption
+- Abuse testing
+- Accelerated learning
+- acceleration stresses (physiology)
+- acceleration tolerance
+- accelerometers
+- Acceptance
+- Access
+- Acclimation & acquired tolerance
+- acclimatization
+- Accommodative intraocular lens
+- accounting
+- Accreditation
+- accuracy
+- acoustic
+- Acoustic antenna
+- Acoustic detection
+- Acoustic detectors
+- Acoustic installation effects
+- Acoustic liners
+- acoustic measurement
+- Acoustic signature
+- Acoustic signatures
+- Acoustic stealth
+- Acoustic trauma
+- acoustics
+- Acquisition
+- Acquisition model
+- Acquisition process
+- Acquisitions process
+- Actionable
+- active control
+- Active defense
+- Active detection
+- Active ECM array design
+- Active electro-optic imaging system
+- Active electronically scanned arrays
+- Active flow control
+- Active imaging
+- Active layered defence
+- Active Noise Reduction (ANR)
+- Active phased-array
+- Active Protective Systems (APS)
+- Active sensors
+- Active suspension
+- Active towed decoys
+- Active vibration control
+- actuators
+- Acupuncture
+- Acute radiation syndrome
+- Ad hoc
+- Ad hoc network
+- Adapt
+- Adaptability
+- Adaptive camouflage
+- Adaptive instruction
+- Adaptive interfaces
+- Adaptive middleware
+- Adaptive optics
+- Adaptive processing
+- Adaptive radar
+- Adaptive signal processing
+- Adaptive systems
+- Adaptive transmission systems
+- Adaptiveness
+- Added power
+- Additive manufacturing
+- ADDITIVES
+- Advanced distributed learning
+- Advanced flares
+- Advanced medical technology
+- Advanced power sources
+- Advanced vehicles
+- Advanced weapons
+- Adversarial cyber operations
+- Adversarial information campaigns
+- Adversarial intent
+- Adversary cyber capability
+- Adverse health effects
+- Adverse weather
+- Advertising
+- Advice to Senior Decision Makers
+- Advisory group
+- Aerial delivery
+- aerial reconnaissance
+- Aerial warfare
+- aeroacoustics
+- aerodynamic characteristics
+- aerodynamic configurations
+- Aerodynamic design
+- aerodynamic loads
+- aerodynamic stability
+- AERODYNAMICS
+- Aeroelastic
+- Aeroelastic design
+- Aeroelastic optimization
+- Aeroelastic stability methods
+- Aeroelastic tailoring
+- aeroelasticity
+- Aeroelastics
+- Aeromedical evacuation
+- aeronautics
+- aeroservoelasticity
+- aerosols
+- Aerospace engineering
+- Aerospace environment
+- AEROSPACE MEDICINE
+- Aerostat
+- aerothermodynamics
+- AESA
+- AF 03 (ARRCADE FUSION 2003)
+- Afghanistan
+- After action review
+- AFV (Armoured Fighting Vehicle)
+- Agent
+- Agent Containing Particle per Liter of Air (ACPLA)
+- Agile aircraft design
+- Agile C2
+- Agility
+- Agility and adaptation
+- Agility maps
+- Aging
+- aging (biology)
+- aging (metallurgy)
+- Aging aircraft
+- Aging systems
+- Aging tests (materials)
+- Agreements
+- Aided Target Recognition (ATR)
+- Air
+- Air C2 approach
+- Air data systems
+- Air defence
+- Air defence systems
+- air defense
+- air drop operations
+- air flow
+- Air force operations
+- Air force training
+- AIR INTAKES
+- Air mission effectiveness
+- air pollutants
+- Air portability
+- Air power paradigm
+- Air sampling
+- Air surveillance
+- air traffic control
+- Air traffic ID: friend or foe
+- Air transportable equipment
+- air transportation
+- Air vehicle
+- Air Vehicles
+- Air wake surfing
+- Air warfare
+- airborne
+- Airborne armament equipment
+- Airborne computers
+- Airborne early warning
+- airborne equipment
+- Airborne EW
+- Airborne laser systems
+- airborne operations
+- Airborne particles
+- airborne radar
+- Airborne systems
+- Airborne systems flight testing
+- Airborne Warning and Control System (AWACS)
+- AIRCRAFT
+- aircraft antennas
+- Aircraft Autonomous Integrity Augmentation
+- Aircraft availability
+- aircraft carriers
+- Aircraft Coupling (APC)
+- AIRCRAFT DESIGN
+- aircraft detection
+- AIRCRAFT ENGINES
+- Aircraft finishes
+- Aircraft in-flight icing
+- aircraft instruments
+- aircraft maintenance
+- aircraft noise
+- Aircraft PIO (Pilot Induced Oscillations)
+- Aircraft signatures
+- Aircraft Structural Integrity Process (ASIP)
+- AIRCRAFT STRUCTURES
+- Aircraft wake turbulence
+- Aircraft/stores compatibility
+- Aircrafts
+- Aircrew training
+- Airfoil
+- airfoils
+- AIRFRAMES
+- Airspace integration
+- Airwake computation
+- Airwake experimentation
+- airworthiness
+- AiTR (Aided Target Recognition)
+- Al Qaeda
+- Alarms
+- Alcohol use
+- Algorithm
+- Algorithm evaluation
+- algorithms
+- All encrypted network
+- All weather
+- All weather operations
+- ALLIANCE
+- Alliance Future Surveillance and Control (AFSC)
+- Allostatic load
+- Allyship
+- Alternative
+- Alternative fuel
+- Alternative fuels
+- Alternative materials
+- Alternative medicine
+- Alternative navigation
+- Alternative technology
+- Alternatives
+- altitude acclimatization
+- Altitude illness
+- Altitude sickness
+- ambient noise
+- ammunition
+- Ammunition storage
+- Amphibious operations
+- AMSP-04
+- AMVE (Augmented
+- Anaerobic infections
+- Anaesthesia
+- Analgesia
+- Analog cancellation circuit
+- analysis
+- Analysis and evaluation framework
+- Analysis Models
+- Analysis of alternatives
+- Analysis of Defence Acquisition Processes
+- Analysis requirements
+- Analysis support
+- Analytic
+- Analytical framework
+- Analytical methods
+- Analytical simulation
+- Analytical support
+- Analytical support to strategic planning
+- Analytical tools
+- Analytics
+- Analytics architectures
+- Anatomy
+- Anemometer placement
+- angle of attack
+- Animal models
+- ANN (Artificial Neural Network)
+- Antenna
+- antenna arrays
+- Antenna couplers
+- Antenna isolation
+- Antenna vibrations
+- Antennas
+- Anthropology
+- Anthropometry
+- Anthropomorphic Test Device (ATD)
+- Anti-access area denial
+- Anti-missile defence
+- Anti-monopulse ECM
+- Anti-personnel ammunition
+- Anti-personnel landmines
+- Anti-Ship Missile
+- ANTI-SHIP MISSILE DEFENCE
+- Anti-Ship Missile Defence (ASMD)
+- Anti-ship missiles
+- Anti-skid
+- Anti-terrorism / Counter-terrorism
+- Anti-terrorism/Counter-terrorism
+- Anti-vehicular mines
+- Antiaircraft guns
+- Anticipatory Policy
+- Antidotes
+- Antimicrobial fabrics
+- Antimissile defence
+- antimissile defense
+- Antipersonnel ammunition
+- Antipersonnel mines
+- Antipersonnel weapons
+- Antiradiation missiles
+- Antiship missiles
+- antisubmarine warfare
+- Antitank mines
+- AP blast effects
+- AP landmines
+- Aperture synthesis
+- Apparel
+- Apparent mass
+- Apparent temperature
+- Application level protection
+- Applications
+- Applied energy technology
+- Applied technology
+- Aptitude tests
+- architecture
+- Architecture (SOA)
+- Architectures
+- Archives
+- Arctic
+- area clearance
+- Area defense
+- area denial
+- Arid land
+- Armed forces (Russia)
+- armed forces procurement
+- Armor piercing ammunition
+- Armored vehicles
+- Armour
+- Armoured platform
+- Armoured vehicles
+- Arms control
+- Arms proliferation
+- Array
+- Array dimensioning
+- ARRC
+- ARRC (Allied Rapid Reaction Corps)
+- Arsenic
+- Article V
+- Artificial Intelligence
+- Artificial satellites
+- artillery
+- Ash
+- aspect ratio
+- Assessment
+- Assessment and metrics
+- Assessment methods
+- Assessment tool
+- assessments
+- Asset and task allocation
+- Asset visibility
+- ASTM D7566
+- Asymmetric advantage
+- Asymmetric threats
+- Asymmetrical warfare
+- ATI (Automatic Target Identification)
+- Atmosphere
+- atmospheric attenuation
+- Atmospheric compensation
+- Atmospheric disturbances
+- atmospheric effects
+- Atmospheric impacts
+- Atmospheric motion
+- Atmospheric obscurants
+- Atmospheric physics
+- atmospheric propagation
+- Atmospheric propagation and mitigation
+- Atmospheric research
+- Atmospheric scattering
+- Atmospheric structure constant
+- atmospheric turbulence
+- Atmospherics
+- Atomic clocks
+- ATR
+- ATR (Automatic Target Recognition)
+- ATR performance metrics
+- ATTAS
+- Attention
+- Attenuation
+- attitude control
+- Attitude indicators
+- Attitude surveys
+- Attitudes
+- Attraction
+- Attribution
+- Attrition (personnel)
+- auditory defects
+- Auditory fitness for duty
+- auditory perception
+- Augmentation systems
+- Augmented reality
+- Auroral and polar cap phenomena
+- Authentication
+- Authoring languages
+- Authoring systems
+- Authoring tools
+- Authority sharing
+- Authorization
+- Auto-calibration
+- Auto-Encoders
+- Autoinjector
+- Automated language processing
+- Automated Speech Recognition (ASR)
+- Automatic control
+- Automatic gain control
+- Automatic speech recognition
+- Automatic Target Recognition
+- automatic target recognition (ATR)
+- Automatic test systems
+- automation
+- Automation technology
+- autonomous
+- Autonomous air operations
+- Autonomous behavior technology
+- Autonomous behaviour technology
+- Autonomous forces
+- autonomous navigation
+- Autonomous operation
+- Autonomous operations
+- Autonomous robots
+- Autonomous systems
+- Autonomous vehicles
+- Autonomous-navigation
+- autonomy
+- Autoregressive Distributed Lag (ARDL)
+- AUV (Autonomous Underwater Vehicles)
+- Auxiliary electric power units
+- Auxiliary power plants
+- Availability
+- Availability based contracting
+- aviation accidents
+- Aviation efficiency
+- Aviation fuels
+- Aviation history
+- Aviation related laser incidents
+- aviation safety
+- Avionic architectures
+- avionics
+- Avionics integration
+- AWACS
+- Awareness
+- AWWCG
+- Axial flow compressors
+- BABT (Behind Armor Blunt Trauma)
+- Background
+- background discrimination
+- Backstage
+- Bacteria
+- Bad pixel
+- Balanced score card
+- Balkans
+- Ballistic
+- Ballistic impact
+- ballistic missiles
+- Ballistic protection
+- Baltic region
+- Baltic sea
+- Baltic states
+- Bank effects
+- Barrier shielding method
+- Barriers
+- Barriers and obstacles
+- Base flows
+- Basic training
+- Batch processing
+- Batteries
+- Battery
+- Battery charger
+- Battery fire
+- Battery Management System
+- Battery modelling
+- Battery research
+- Battle damage repair
+- Battle management
+- Battle-dress uniforms
+- Battledress uniforms
+- Battlefield surveillance
+- battlefields
+- Bayes network
+- BBABT (Behind Body Armor Blunt Trauma)
+- behavior
+- Behavioural change
+- behaviours
+- Benchmark
+- Benchmarking
+- Benchmarks
+- Benefit
+- Benefit cost analysis
+- Best practices
+- Best practices guide
+- Best-practice
+- BHEA
+- Bi-directional Reflectance
+- Big data
+- Binders (materials)
+- Bio-inspired
+- Bio-mimetic
+- Bio-mimetic sensing
+- Bioaerosol
+- Bioaerosols
+- Biodegradable chemical paint strippers
+- Biodiesel
+- Biodosimetry
+- bioengineering
+- Bioethics
+- Biofuel
+- Biojet
+- biological
+- Biological aerosols
+- Biological agent detection
+- biological agents
+- Biological and clinical dosimetry
+- Biological indicators
+- Biological systems
+- Biological warfare agents
+- Biological weapons
+- Biomanufacturing
+- Biomarker
+- Biomarkers
+- Biomarkers of exposure
+- Biomechanics
+- Biomedical measurement
+- Biometrics
+- Bioscavengers
+- Biosecurity
+- biosensing
+- Biosensors
+- biotechnology
+- bistatic
+- Bistatic land clutter
+- Bistatic radar
+- Bistatic sea clutter
+- Bistatic Synthetic Aperture Radar (BSAR)
+- Bitmap image format
+- Black core
+- Blade design
+- Blade stall
+- Blade tip clearance
+- Blade tip timing
+- Blankets
+- Blast
+- Blast characteristics
+- Blast effects
+- Blast ejecta protection
+- Blast exposures
+- Blast injuries
+- Blast injury
+- Blast injury research
+- blast loads
+- Blast model coupling
+- Blast physics
+- Blast simulation
+- Blue force tracking
+- Blunt bodies
+- Blunt body entry vehicles
+- Blunt trauma
+- BMD (Ballistic Missile Defense)
+- Body armor
+- Body dimensions
+- Bold Avenger / Trial Quest
+- Bonnland
+- Boot inserts/instrumented insoles
+- Border security
+- Border Surveillance
+- Bots
+- Boundary Avoidance Tracing (BAT)
+- Boundary Control
+- Boundary Controllers
+- Boundary layer
+- boundary layer flow
+- boundary layer separation
+- boundary layer transition
+- boundary layers
+- Boundary Protection
+- Brain injuries
+- Brake
+- BRDF
+- BRDF (Bidirectional Reflectance Distribution Function)
+- breathing apparatus
+- Briefings
+- Broad band antenna array
+- broadband
+- Brownout landing
+- Brownout mitigation
+- Brownout symbology
+- Buddy help
+- Budget constraints
+- Budgeting
+- Budgeting and Execution (PPBE)
+- Buffet
+- buffeting
+- Building
+- Buildings
+- Builtup areas
+- Bulk carrier
+- Bullet test
+- Bullying
+- Buried objects
+- burning rate
+- Burning time
+- Burst transmission
+- Business case
+- Business process models
+- C-BML
+- C-EOB
+- C2
+- C2 Agility
+- C2 Agility metrics
+- C2 Approach
+- C2 Approach space
+- C2 Assessment knowledge base
+- C2 Conceptual reference model
+- C2 Doctrine
+- C2 Maneuver
+- C2 Manoeuvre
+- C2 Maturity
+- C2 Measurement/assessment gaps
+- C2 Performance assessment
+- C2 Performance effectiveness
+- C2 Performance evaluation
+- C2 Performance measurement
+- C2 systems
+- C2 Theory
+- C2-systems compound
+- C2SIM
+- C3 taxonomy
+- C3I
+- C4I
+- C4ISR
+- CAD models
+- Cadmium replacement
+- calibrating
+- calibration
+- CAMAELEON software
+- Camera
+- camouflage
+- Camouflage clothing
+- Camouflage evaluation
+- Camouflage patterns
+- Camouflage systems
+- Campaign Analysis
+- Campaign Assessment
+- Campaign of experiments
+- Canted configuration
+- Capabilities
+- Capability
+- Capability assessment
+- Capability badge
+- Capability Based Planning (CBP)
+- Capability breakdown
+- Capability costing
+- Capability Development
+- Capability game card
+- Capability gap
+- Capability Maturity Framework
+- Capability planning
+- Capability Readiness Level
+- Capability shortfalls
+- Capability taxonomies
+- Capability taxonomy
+- Capability-Based Planning
+- Capacitor
+- Capacity building
+- Capital investment
+- Capital investment prioritization
+- carbon dioxide
+- carbon footprint
+- Carbon nanotubes
+- Cargo transportation
+- Carrier Phase GPS
+- Carrier suitability testing
+- Case studies
+- Case study
+- CASEVAC
+- casualties
+- Casualty evacuation
+- Catalogue
+- Catalysts
+- Catalytic heating
+- Catamaran
+- Catamarans
+- Causality
+- Cavitation
+- Cavities
+- CAX
+- CAX (Computer Assisted Exercises)
+- CBRN
+- CBRN defence
+- CBRN defence capabilities
+- CBRN protection
+- CBRN scenarios
+- CBRNE/IED
+- CCD (Camouflage Concealment and Deception)
+- CeAG
+- Cellular mobile telecommunications
+- Cellular telephones
+- Center for Army Analysis (CAA)
+- Centralised power
+- Centralized management
+- Centralized power
+- Centralized processing
+- Centre of gravity analysis
+- Ceramic
+- certification
+- Certification testing
+- Cervical
+- Cetane
+- CFAV Quest
+- CFBLNet
+- CFD modelling
+- CFD simulation
+- CFD Validation
+- CGF (Computer Generated Forces)
+- CGSB-3.24
+- Chaff
+- Chalcogenide fibers
+- Challenge
+- Challenge-response
+- challenges
+- Chameleon
+- Change detection
+- Change detection and categorization
+- Change management
+- Channel
+- Channel flows
+- Chaotic signals
+- Character
+- characteristics
+- characterization
+- Characterization of the ionosphere
+- chemical
+- Chemical agent detection
+- Chemical hazards
+- Chemical properties
+- chemical reactions
+- Chemical spills
+- Chemical weapons
+- Child soldiers
+- Child warriors
+- Children
+- Chips (electronics)
+- Chromium replacement
+- Chronic diseases
+- CIGI
+- CIMIC
+- Circulation control
+- CIS (Communication and Information System)
+- CIS (Communication and Information Systems)
+- Civil affairs
+- Civil society
+- Civil Standards
+- Civil-military exercise
+- Civil-military interaction
+- Civilian casualties / Collateral damage
+- Civilian contractors
+- Civilian personnel
+- Civilianization
+- civilians
+- classification
+- Classification trees
+- Classifiers
+- cleaning
+- climate
+- Climate change
+- Climate Changes
+- Clinical prediction
+- Clinical tools
+- Cloaking
+- Close support
+- Closed networks predictive analysis
+- Clothing fit
+- Clothing sizing
+- Cloud
+- Cloud computing
+- clustering
+- clutter
+- Clutter suppression
+- Co-channel interference
+- Co-development
+- Co-location
+- Co-ordination
+- Co-production
+- Coalition
+- Coalition deployments
+- Coalition information sharing
+- Coalition interoperability
+- Coalition mission training
+- Coalition operations
+- Coalition teamwork
+- Coalition Warfare
+- COAP
+- Coatings
+- COBP (Code of Best Practice)
+- COBP (Code of Best Practices)
+- cockpits
+- Code of Best Practice (CoBP)
+- Cognition
+- Cognitive
+- Cognitive aids
+- Cognitive analysis
+- Cognitive assistance
+- Cognitive cooperation
+- cognitive load
+- Cognitive modeling
+- cognitive neuroscience
+- cognitive performance
+- Cognitive radar
+- Cognitive radio
+- Cognitive Radio & Networks
+- Cognitive radio networks
+- Cognitive skills training
+- Cognitive systems
+- Cognitive systems engineering
+- Cognitive task analysis (CTA)
+- Cognitive testing
+- Cognitive warfare
+- Coherent jamming
+- Coherent processing
+- coherent radiation
+- Cointegration
+- Cold injury
+- Cold shock
+- Cold stress
+- Cold tolerance
+- Collaboration
+- Collaborative processes
+- Collaborative work environment
+- Collateral damage
+- Collation
+- Collection methods
+- Collective training
+- color
+- color vision
+- Colors (materials)
+- Colour displays
+- Colour vision
+- COMAO
+- Combat air vehicle noise
+- Combat aircraft
+- Combat aircraft design
+- Combat casualties
+- Combat casualty care
+- Combat casualty care training
+- combat effectiveness
+- Combat modelling
+- Combat net radio
+- Combat platforms
+- Combat rations
+- Combat related injuries
+- Combat service support
+- Combat suit
+- Combat surveillance
+- Combat Training Centre (CTC)
+- Combat trauma training
+- Combat vehicles
+- Combating terrorism
+- Combined injury
+- Combined scenario
+- Combined/Joint Operations
+- combustion
+- combustion efficiency
+- combustion stability
+- Combustors
+- command and control
+- Command and Control (C2)
+- Command and control C3I
+- Command and control capability
+- Command control communications
+- Command PE
+- Command posts
+- Command Team Effectiveness (CTEF)
+- Command wire detection
+- Command wire detector
+- Command wire detectors
+- commercial aircraft
+- Commercial components
+- Commercial equipment
+- Commercial Off-The-Shelf
+- Commercial-Off-The-Shelf
+- Commitment
+- Common distributed databases
+- Common effort exercise
+- Common ground
+- Common operating picture.
+- Common Operational Picture (COP)
+- commonality
+- COMMUNICATION
+- Communication ability
+- Communication and radio systems
+- communication equipment
+- communication networks
+- Communication parameter characterization
+- communication satellites
+- Communications
+- Communications management
+- Communications networks
+- Community
+- Community noise
+- Community noise assessment
+- Community of Interest (COI)
+- Community of Practice (CoP)
+- Compact range
+- Comparative study
+- Comparison
+- Compatibility
+- Compatibility of career and family
+- Compatibility report
+- Compensation
+- Competition continuum
+- Complementary and alternative medicine
+- Complementary navigation
+- Complex clutter
+- Complex endeavors
+- Complex enterprises
+- Complex environment
+- Complex networks
+- Complex operations
+- Complex organisations
+- complex systems
+- Complex terramechanics
+- Complex trauma
+- Complexity
+- Component temperature measurement
+- Composability
+- Composite
+- composite materials
+- Composite rocket propellants
+- composite structures
+- Composite tracking
+- Composites
+- Compound helicopter
+- Comprehensive approach
+- Comprehensive defence
+- Compressibility
+- Compressive imaging
+- Compressive sensing
+- Compressor blade erosion
+- compressor blades
+- computation
+- Computational
+- Computational Aeroacoustics (CAA)
+- Computational aeroelasticity
+- Computational electromagnetics
+- computational fluid dynamics
+- Computational fluid dynamics (CFD)
+- Computational imaging
+- Computational tools
+- COMPUTER AIDED DESIGN
+- Computer architecture
+- Computer Assisted eXercise (CAX)
+- Computer codes
+- computer graphics
+- computer information security
+- Computer modelling
+- computer networks
+- Computer program verification
+- COMPUTER PROGRAMS
+- Computer security
+- Computer systems
+- Computer systems hardware
+- computer systems programs
+- Computer-assisted instruction
+- Computer-mediated environments
+- computerized simulation
+- Computerized simulation CFD (Computational Fluid Dynamics)
+- Computerized testing
+- computers
+- Concealment
+- Concealment and Deception (CC&D)
+- concept
+- Concept definition
+- concept development
+- Concept Development and Experimentation
+- Concept Development Assessment Game (CDAG)
+- Concept exploration
+- Concept maps
+- Concept of employment
+- Concept of Operations
+- Concept of use
+- Concept refinement
+- Concept-comparison
+- Concepts
+- concepts STANAG 4569
+- Conceptual design
+- Conceptual military framework
+- Conceptual modeling process-specification
+- Conceptual modeling product-specification
+- Conceptual-modeling
+- Concussion
+- Condition based maintenance
+- Condition monitoring
+- Condition-based maintenance
+- Conditions of service
+- Conducting soft OA study
+- Conductive fibers
+- Confidence interval
+- Confidentiality
+- Conflict
+- Conformal antennas
+- Conformal structures
+- Confusion matrices
+- Connected forces initiative
+- Connected Forces Initiative (CFI)
+- Connectivity
+- Consequence
+- Consequence management
+- Consolidate and Transition)
+- Conspicuity
+- Constellations
+- Constraint model
+- Constructive (LVC)
+- Constructive (LVC) Modelling
+- Constructive simulation
+- Constructive simulations
+- Consultative Committee for Space Data Systems (CCSDS)
+- Consumption
+- Contact currents
+- Container ship
+- contamination
+- Contested cyberspace environment
+- Context
+- contingency
+- Continuing airworthiness
+- Continuity of service
+- Continuous friction measuring equipmentMu
+- Contrast enhancement
+- Contrast reduction
+- control
+- Control channel
+- Control device design
+- Control device effectiveness
+- control equipment
+- control surfaces
+- control systems
+- control theory
+- Controllable signatures
+- conventional warfare
+- Converged network
+- Convolutional Neural Network (CNN)
+- COO (Cost of Ownership)
+- Cooper-Harper-Rating Scale (CHR)
+- Cooperation
+- Cooperation and collaboration
+- Cooperative Demonstration of Technologies
+- Cooperative Demonstration of Technology (CDT)
+- Cooperative electronic threats
+- Cooperative multi-UAV mission management
+- Cooperative Navigation
+- Cooperative target tracking
+- Coordination
+- COP (Common Operational Picture)
+- Core temperature
+- Corneal ectasia
+- Corneal epithelium
+- Corneal haze
+- Corneal refractive surgery
+- Corneal stroma
+- Corner point
+- Corona Discharge
+- correlation
+- Correlation reception
+- Correlation techniques
+- corrosion
+- Corrosion control
+- Corrosion fatigue
+- Corrosion policy
+- corrosion prevention
+- COSIMA (CO-located SImultaneous Multi-band-radar Analysis)
+- COSMO-SkyMed
+- Cost
+- cost analysis
+- Cost benefit analysis
+- Cost comparison
+- cost effectiveness
+- Cost efficiency
+- Cost efficient
+- Cost engineering
+- Cost escalation
+- Cost estimates
+- Cost estimating
+- Cost growth
+- Cost methods
+- Cost model
+- Cost models
+- Cost related data collection
+- Cost risk
+- Cost-benefit analyses
+- Cost-drivers
+- Cost-effectiveness
+- Cost-effectiveness analysis
+- Cost-efficiency analysis
+- Cost-saving factors
+- Cost–benefit analysis
+- Costing
+- COSTS
+- COTS
+- COTS (Commercial Off The Shelf)
+- COTS (Commercial Off-The Shelf)
+- COTS (Commercial Off-The-Shelf)
+- Counseling
+- Counter Improvised Explosive Device (C-IED)
+- Counter intelligence
+- Counter radicalization
+- counter terrorism
+- Counter-countermeasure
+- Counter-insurgency
+- Counter-RCIED
+- Counter-small Unmanned Aircraft Systems (C-sUAS)
+- Counter-Surveillance
+- Counter-Terrorism
+- Counter-UAS
+- Counter-UAS technologies
+- Counter-Unmanned Aircraft Systems (C-UAS)
+- Countercountermeasures
+- Countering Violent Extremism
+- Counterinsurgency
+- Countermeasure
+- countermeasures
+- Countermine operations
+- Countermining
+- Counterpiracy
+- Countersurveillance
+- Counterterrorism
+- Counterterrorism)
+- coupling circuits
+- Course curriculum
+- Course evaluation
+- Course keeping
+- Course of Action
+- Course-keeping
+- Courses of action
+- Courses of action analysis
+- Coverings
+- Covert operation
+- Covert operations
+- Covert surveillance
+- COVID-19
+- COYOTE Lightly Armoured Reconnaissance Vehicle
+- CPU-GPU processing
+- Crack growth
+- crack initiation
+- Crack nucleation
+- cracking (fracturing)
+- cracks
+- cranial electrotherapy stimulation
+- crashworthiness
+- Credentials
+- Credibility
+- Crimea
+- Crisis
+- Crisis management
+- CRISPR
+- criteria
+- Critical capabilities
+- Critical commander information requirements
+- critical infrastructure
+- Critical materials
+- Critical systems
+- Critical technologies
+- Critical technologies for ECM
+- Critical technologies for ESM
+- Critical thinking
+- Critical values
+- Croatia
+- Croatian Defence Academy
+- CRONOS
+- Cross domain security
+- Cross eye jamming
+- Cross layering
+- Cross Platform
+- Cross-domain solutions
+- Cross-eye technique
+- Cross-layer design
+- Cross-layer middleware
+- Cross-layering
+- Cross-mission Comparison
+- Crosstalk
+- Cruise missiles
+- Cryptography
+- CSSM
+- CTEF (Command Team Effectiveness)
+- Cubesat
+- CUBI
+- Cueing
+- Cultural
+- Cultural awareness
+- Culture
+- culture (social sciences)
+- Culture change
+- Culture of belonging
+- Culture systems
+- Culvert inspection
+- Cumulative effects
+- Cumulative probability curve
+- Curvature
+- Cutaneous radiation syndrome
+- CWE (Common Working Environment)
+- CWIX
+- Cyanide
+- Cyber
+- Cyber analytics
+- Cyber attack scenario
+- Cyber attacks
+- Cyber awareness education
+- Cyber C2
+- Cyber decision support
+- Cyber defence
+- Cyber effects modelling
+- Cyber exercises
+- Cyber federated object model
+- Cyber glossary
+- Cyber OODA loop
+- Cyber ranges
+- Cyber resilience
+- Cyber Risk to Mission (CRM)
+- Cyber security
+- Cyber situation awareness
+- Cyber situational awareness
+- Cyber training
+- Cyber Warfare
+- Cyberattacks
+- Cybersecurity
+- Cybersickness
+- Cyberspace domain
+- Cycle codes
+- cyclic loads
+- Cytokine therapy
+- D&D (Denial and Deception)
+- D1655
+- D1766
+- D4054
+- DACDAM
+- damage
+- Damage accumulation
+- damage assessment
+- damage tolerance
+- Damage-tolerance methodology
+- DAT
+- Data
+- DATA ACQUISITION
+- Data analysis
+- Data analysis tools
+- Data analytics
+- data association
+- Data base
+- data bases
+- Data bases C3I
+- Data capturing
+- Data collection
+- Data collection processes
+- Data distribution services
+- Data Distribution Services (DDS)
+- Data Envelopment Analysis (DEA)
+- Data farming
+- Data fusion
+- Data Handling
+- data integration
+- Data link
+- data links
+- Data logger
+- Data loggers
+- data management
+- data mining
+- Data overload
+- DATA PROCESSING
+- Data processing security
+- Data quality
+- Data replication
+- data retrieval
+- Data science
+- Data security
+- Data Services Environment (DSE)
+- Data sets
+- Data sharing
+- Data Standards
+- data transmission
+- Data transport
+- Data visualisation
+- Data-centric
+- Data-driven decision support
+- Database
+- Database Characterization
+- Databases
+- DataCards
+- Datalinks
+- Datasets
+- Dazzle laser
+- DDES
+- Deactivation
+- Decentralized processing
+- Deception
+- Deception detection
+- Deception jamming
+- Decision Aiding
+- Decision aids
+- Decision analysis
+- Decision conferencing
+- Decision frame
+- Decision makers
+- Decision making
+- Decision quality
+- Decision rights
+- Decision Superiority
+- Decision Support
+- Decision Support Systems
+- Decision Support Systems (DSS)
+- Decision unit
+- Decision-making
+- Decision-making process
+- Decision-support
+- Deck motion limits
+- decontamination
+- Decoupling resonator
+- Decoy flares
+- Decoys
+- Decreased defence spending
+- deep learning
+- Deep machine learning
+- Def Stan 91-091
+- Defence
+- Defence Acquisition Process
+- Defence analyst
+- Defence and security
+- Defence architecture
+- Defence budgets
+- Defence decision-making
+- Defence innovation
+- Defence management
+- Defence organisations
+- Defence planner
+- Defence planning
+- Defence Procurement
+- Defence programmes
+- Defence resource management practices
+- Defence Specific Cost Escalation (DSCE)
+- Defence specific inflationForce structure
+- Defence spending
+- Defence strategies
+- Defence team
+- Defense economics
+- Defense systems
+- Defensive Aid Suites (DAS)
+- Deficiencies
+- Definitions
+- Deformable
+- Deformation
+- Degaussing
+- Degradation factor (imagery multiplication factor)
+- Degraded environment
+- Degraded visual environment
+- Delegation interfaces
+- delta wings
+- Demand for Military Expenditures
+- Demilitarisation
+- Demining
+- Demonstration
+- Demonstrator
+- Denial and Deception (D&D)
+- Denial of service attacks
+- Deployable laboratory
+- Deployable Multi-band Passive/Active Radar (DMPAR)
+- Deployable multiband passive/active radar
+- Deploying military robots
+- deployment
+- Deployment cycle
+- Deployment of civilians
+- Deployments
+- Depolarisation
+- depolarization
+- Deradicalization
+- Dermal exposure hazards
+- Descriptive statistics
+- Desert Shield/Storm
+- Deserts
+- Design
+- Design criteria
+- Design for disposal
+- Design loads
+- Design of experiments
+- Design optimization
+- Design Pattern
+- Design process
+- Design Study
+- Design trade space
+- Detect and measure
+- Detectability
+- DETECTION
+- Detection and Recognition (D&R)
+- Detection and tracking
+- Detection Distributed
+- Detection methods
+- Detection performance
+- Detection probability
+- detection range
+- Detection response task
+- Detection techniques
+- Detection technologies
+- Detector
+- detectors
+- Deterioration
+- Determinant plots
+- deterrence
+- development
+- Device penetration rate
+- DF antennas
+- DF techniques
+- DFCS (Digital Flight Control Systems)
+- DFTOP
+- DGPS (Differential Global Positioning System)
+- DGPS Data Quality
+- DGPS Performance
+- DGPS/INS
+- diagnosis
+- Diagnostic equipment
+- Diagnostics
+- Dialogue decision process
+- Diamond wing
+- dictionaries
+- Dictionary
+- Dielectric barrier discharge
+- Diesel
+- Diesel engines
+- diesel fuels
+- Differential scattering
+- Digital Cancellation software
+- Digital communications
+- Digital image correlation
+- Digital imaging sensors
+- Digital modelling and fabrication
+- Digital receiver (DRx)
+- Digital signal processor
+- digital simulation
+- Digital Simulations
+- digital systems
+- digital techniques
+- Digital terrain elevation data
+- Digital transformation
+- Digital working group
+- DIL
+- DIRCM
+- DIRCM (Directed Infrared Countermeasure)
+- Direct digital (frequency) synthesis
+- Direct energy weapons
+- Direct Fire Weapon Effects System (DFWES)
+- Direct Numerical Simulation (DNS)
+- direct power generators
+- Direct sequence signals
+- Direct simulation Monte Carlo
+- Directed countermeasures
+- Directed Energy
+- Directed Energy Weapon
+- Directed energy weapons
+- Directed Energy Weapons (DEW)
+- direction finding
+- Direction finding (DF)
+- DIS (Distributed Interactive Simulation)
+- Disability
+- Disadvantaged grid
+- Disadvantaged Grids
+- Disadvantaged network
+- Disaster
+- Disaster analysis
+- Discover
+- Discreet events
+- Discrimination
+- Disengagement
+- Disinformation
+- Dismount detection
+- Dismounted
+- Dismounted combat
+- Dismounted soldier system
+- Dispersion modelling
+- display devices
+- Display systems
+- Disruption
+- Disruptive effect
+- Disruptive technologies
+- Disruptive technology
+- Disruptive Technology Assessment Game (DTAG)
+- Disruptiveness
+- Distance conversion factor
+- distance measuring equipment
+- Distributed
+- Distributed control architecture
+- Distributed EW
+- Distributed laboratories
+- Distributed management
+- Distributed networked simulations
+- Distributed Simulation
+- Distributed systems
+- Distributed training and exercises
+- Distributed training environment
+- Distribution Function (BRDF)
+- Distributive collaboration
+- ditching (landing)
+- diversity
+- Diving accident treatment
+- DMPAR
+- DMT (Distributed Mission Training)
+- DOA
+- Doctrine
+- DoD Discovery Metadata Specification (DDMS)
+- Domain-modelling
+- Domains
+- Dome heating
+- Donbas
+- Doppler
+- Doppler spread clutter cancelation
+- Dosage
+- Dose model
+- Dose reconstruction
+- Dosing strategies
+- DOTMLPFI
+- Doublet lattice aerodynamics
+- drag
+- Drawbar pull test
+- DRFM (Digital RF Memory)
+- Drift (instrumentation)
+- Drivers for change
+- Driving
+- Drone
+- drone aircraft
+- Drones
+- Drowning
+- Drug development
+- Drug therapy
+- drugs
+- DSEEP
+- Dual band imaging
+- Dual mode seekers
+- Dual use
+- Dual-band
+- Dual-band radar co-located
+- Dual-band radars
+- Dual-use of military/civilian technology
+- dummies
+- Duplex coatings
+- durability
+- dust
+- DVB-T
+- Dye-sensitized solar cells
+- Dynamic
+- Dynamic adaptation
+- Dynamic airborne networking
+- Dynamic features
+- Dynamic frequency management
+- Dynamic interface
+- Dynamic interface simulation
+- Dynamic lift
+- DYNAMIC LOADS
+- Dynamic motion
+- dynamic pressure
+- Dynamic range
+- dynamic response
+- Dynamic spectrum access
+- Dynamic spectrum allocation
+- Dynamic spectrum management
+- Dynamic stall
+- Dynamic Synthetic Environment
+- Dynamic targets
+- Dynamic waveform modification
+- Dynamic wind tunnel testing
+- Dynamics
+- E-Learning
+- ear protectors
+- Early and late effects
+- Early warning
+- Early warning radar
+- Early warning system
+- Early warning systems
+- Early-career
+- Earmuffs
+- Earplugs
+- Earth
+- ECM architecture
+- ECM techniques
+- Economic
+- Economic costs
+- Economic development
+- Economic factors
+- Economic gains
+- Economic life analysis
+- Economic models
+- Economies of scale
+- Edge scattering
+- EDTs
+- Education
+- Effect prediction point-of-care
+- Effective
+- effectiveness
+- Effector
+- Effects
+- Effects-based approach to operations
+- Effects-Based Approach to Operations (EBAO)
+- Effects-based operations
+- efficiency
+- EGNOS (European Geostationary Navigation Overlay System)
+- ejection
+- Elastomer
+- Electric batteries
+- Electric brakes
+- Electric drives
+- Electric power
+- Electric power demand
+- Electric power generation
+- electric propulsion
+- Electric signature
+- Electric vehicles
+- Electrical power
+- Electrical wiring interconnect system
+- Electro magnetics
+- Electro optic signatures
+- Electro optics
+- Electro-chromes
+- Electro-magnetic
+- Electro-mechanical system
+- Electro-Optic/Infrared Sensing
+- Electro-optical
+- Electro-Optical (EO)
+- Electro-optical countermeasure concepts
+- Electro-optical propagation
+- Electro-optical sensors
+- Electro-optical systems
+- electro-optics
+- Electro-textiles
+- electroencephalography
+- Electromagnetic band gap
+- electromagnetic compatibility
+- Electromagnetic environment
+- Electromagnetic Environment (EME)
+- Electromagnetic environments
+- ELECTROMAGNETIC INTERFERENCE
+- Electromagnetic Operation.
+- Electromagnetic Pulse
+- electromagnetic pulses
+- electromagnetic radiation
+- Electromagnetic spectra
+- Electromagnetic spectrum
+- Electromagnetic susceptability
+- Electromagnetic susceptibility
+- Electromagnetic transmission
+- Electromagnetic wave
+- Electromagnetic wave propagation
+- Electromagnetic weapons
+- Electromagnetics
+- Electron Density Assimilative Model (EDAM)
+- Electron energy distribution function
+- Electronic Attack
+- Electronic Attack (EA)
+- Electronic band gap materials
+- Electronic Counter Measures (ECM)
+- Electronic Counter-Counter Measures
+- electronic countermeasures
+- Electronic CounterMeasures (ECM)
+- Electronic Defence (ED)
+- electronic equipment
+- Electronic noise jammers
+- Electronic protection
+- Electronic protective measures
+- Electronic Protective Measures (EPM)
+- Electronic security
+- Electronic signatures
+- Electronic support
+- Electronic Support (ES)
+- Electronic support measures
+- electronic warfare
+- Electronic Warfare (EW)
+- Electronic warfare support
+- Electronic warfare support measures
+- Electronic warfare Support Measures (ESM)
+- electronics detection
+- Electrooptics
+- Electrophysiologic recording
+- electrostatics
+- Elevation data
+- Elicit experiments
+- ELINT
+- Elliptic hydrofoil
+- ELSEI (Ethical
+- EM modelling
+- Embedded sensors
+- Embedded systems
+- Embedded training
+- Embedded virtual reality
+- Emergencies
+- Emergency response
+- Emerging security challenges
+- Emerging technologies
+- Emerging threats
+- Emission control
+- Emission products
+- Emissions
+- Emissivity
+- Emitted fluid
+- Employment
+- En route care
+- Enabling technology
+- Encryption
+- Endeavor space
+- Endeavors space
+- Enemy Capabilities
+- Enemy personnel
+- Energetic materials
+- Energetics
+- Energetics disposal
+- Energetics dissolution
+- Energy
+- Energy efficiency
+- Energy expenditure
+- Energy harvesting
+- Energy recovery
+- energy security
+- Energy storage
+- Energy-constrained network
+- Engage
+- Engagement
+- Engagement modelling
+- Engagement simulation
+- Engine
+- Engine health management
+- Engine health monitoring
+- Engine integration
+- Engines
+- Enhanced forward presence
+- Enhancement
+- Ensemble modeling
+- Enterprise resource management
+- Enterprise resource planning
+- Enthalpy
+- Environment
+- Environment dataset
+- Environment modelling
+- Environment models
+- Environmental
+- Environmental and embedded sensor
+- Environmental characterization
+- Environmental compliance
+- Environmental data
+- Environmental Effects on Sensor Performance
+- environmental impact
+- Environmental Implications
+- Environmental pressures
+- Environmental samples
+- Environmental sampling protocols
+- Environmental sensors
+- Environmentally assisted cracking
+- Environmentally compliant coating technology
+- ENVIRONMENTS
+- Enzymatic decontamination assurance spray
+- EO
+- EO/IR Countermeasure
+- EO/IR countermeasuresGeneric target
+- EO/IR imaging Missile
+- EOB
+- EOIR sensor system
+- EOIR spectroscopy
+- EPA 8300b
+- epidemiology
+- EPM
+- Epoxy coatings
+- equations of motion
+- Equipment
+- Equipment health monitoring
+- Equipment planning
+- Equipment shortfalls
+- Equipment testing
+- Equivalent Retreating Tip Speed (ERiTS)
+- ERICA
+- ERP considerations
+- Errors
+- Escalation/de-escalation
+- escape (abandonment)
+- escape systems
+- ESD (Evolutionary Software Development)
+- ESM
+- ESM architecture
+- ESM receivers
+- Estimates
+- ETEE
+- Ethic
+- Ethical
+- Ethics
+- Ethics training
+- Ethnic groups
+- Ethnic inclusion
+- Ethnic intolerance
+- Ethnicity
+- EU space policy
+- Euromaiden
+- EuroSID
+- evaluation
+- Evaluation criteria
+- Event prediction
+- Evidence based interventions
+- Evidence-based
+- Evidence-based practice
+- EvidenceBase
+- Evolutionary algorithm
+- Evolutionary technology
+- EW Support
+- ExB transport
+- Excimer laser
+- Execution Process (FEDEP)
+- Exercise
+- Exercise precise response
+- Exercises
+- Exercises observations
+- Exertion
+- Exfoliation
+- Exhaust detection
+- Exhaust emissions
+- exhaust gases
+- exhaust nozzles
+- exhaust systems
+- Expectations
+- Expeditionary operations
+- Expenses
+- Experience levels
+- Experiences
+- Experiment
+- Experimental capabilities
+- experimental data
+- Experimental design
+- Experimental Fluid Dynamics (EFD)
+- Experimental testbed
+- experimentation
+- Experimentation information infrastructure
+- Experiments
+- Explainability
+- exploitation
+- Exploratory visual analytics
+- Explosion
+- Explosion effects
+- Explosive charges
+- Explosive detection
+- explosives
+- exposure
+- Exposure dose
+- Exposure guidelines
+- Exposure scenario
+- Extended air defence
+- Extensible Mark-up Language (XML)
+- External / internal contamination
+- External aerodynamics
+- External and internal barriers
+- external stores
+- External/internal contamination
+- Extrapolation
+- Extreme intensities
+- Extremism
+- eye (anatomy)
+- Eye modelling
+- Eye movements
+- Eye scatter simulation
+- Eye-safe lasers
+- F-34
+- F-63
+- fabrication
+- Failure
+- failure analysis
+- failure modes
+- False
+- False targets
+- Family
+- Fast emitter location
+- Fast multipole boundary element method
+- Fate
+- Fatigue
+- fatigue (materials)
+- fatigue life
+- Fatigue of personnel
+- Fatigue of structure
+- Fatty Acid Methyl Esters (FAME)
+- fault tolerance
+- Fault tolerant adaptive control
+- Fault tolerant reconfigurable control
+- Feasibility
+- Feature extraction
+- Feature library
+- Federal budgets
+- Federate
+- federate object model
+- Federated
+- Federated communications
+- Federated data
+- Federated mission network
+- Federated sensor planning
+- Federation
+- Federation Development and
+- Federation integration
+- Federation integration knowledge
+- Federation of simulations
+- Federations
+- Females
+- Femtosecond laser
+- Fermat point
+- Fiber coupled terahertz systems
+- Fiber lasers
+- Fiber materials
+- Fiber Optic gyroscopes
+- fiber optics
+- Fidelity metrics
+- Field equipment
+- Field experiment
+- Field methods
+- field of view
+- Field parameter estimation
+- Field performance
+- Field programmable gate array
+- Field study
+- Field testing
+- Field tests
+- Field trial
+- Field trials
+- Fieldwork
+- Fighter
+- Fighter aircraft
+- Fighter plane laser weapon
+- Figures of Merit (FoM)
+- Filtered Rayleigh scattering
+- Finance
+- Financial
+- Financial constraint
+- Financial crisis
+- Financial incentives
+- Financial management
+- Financial mathematics
+- Finite element analysis
+- Finite element structural model
+- Finlandization
+- Firewalls
+- Firing tests (ordnance)
+- First percentile
+- Fitness
+- Fitness assessment
+- Fitness for job
+- Fitness for marine operations
+- Fixed costs
+- Flapping
+- Flapping wing
+- Flare
+- Flare effectiveness
+- Flares
+- Flashblindness
+- Flashjet paint removal
+- FLEURUS
+- flexibility
+- Flexible levels of automation
+- flight characteristics
+- flight control
+- flight control systems
+- flight crews
+- Flight Deck Qualification
+- Flight decks
+- Flight dynamics
+- Flight dynamics stability and control
+- Flight experiments
+- Flight loads
+- Flight management
+- Flight maneuvers
+- Flight manoeuvers
+- Flight mechanics assessment
+- Flight performance
+- flight safety
+- flight simulation
+- Flight simulation model update
+- flight simulators
+- Flight termination system
+- Flight test
+- Flight test data processing
+- Flight Test Instrumentation
+- Flight test methods
+- Flight test preparation
+- Flight test programs
+- Flight Test Risk Management
+- Flight Test Safety
+- Flight Test Safety Management
+- Flight test techniques
+- Flight testing
+- flight tests
+- Flight trajectory
+- FLIR92/Acquire
+- Flooding
+- Flow control
+- flow distribution
+- flow measurement
+- Flow physics
+- Flow separation
+- Flow structure
+- flow visualization
+- fluid dynamics
+- fluid flow
+- Fluid-structure interaction
+- Fluidic thrust vectoring
+- fluorescence
+- Fluoride fiber
+- Fluoride fibers
+- Fluoride glass
+- flutter
+- Flutter prediction
+- Flutter suppression
+- Flying Qualities (FQ)
+- Flying wing
+- FMECA
+- Focal plane array
+- Focal plane arrays
+- Foliage Penetration
+- Food safety
+- Force application
+- Force development
+- Force enhancer
+- Force Health Protection
+- Force Mix
+- force multiplier
+- Force Protection
+- force structure planning
+- Forced oscillations
+- Forecasting
+- foreign bodies
+- Foreign Fighters
+- Foreign Object Damage (FOD)
+- Foresight
+- Foresight framework
+- Foresight methods
+- Foresight project
+- Formal support
+- Formation flight
+- Formation flying
+- Forward looking infrared
+- Forward scatter radar
+- Foveal vision
+- Foveated optics
+- Fractographic examination
+- fracture mechanics
+- fragmentation
+- Fragments
+- Framework
+- Framework for semantic interoperability
+- Free flight trajectories
+- Freeform optics
+- Frequency allocations
+- Frequency conversion
+- Frequency hopping
+- Frequency management cell
+- Frequency management offices
+- frequency measurement
+- Frequency planning
+- Frontstage
+- FTIR
+- Fuel
+- Fuel additives
+- Fuel approval
+- Fuel cell
+- Fuel cell electrolytes
+- Fuel cell systems
+- Fuel cells
+- Fuel properties
+- Fuel saving
+- Fuel specifications
+- Fuel system
+- Fuel tanks
+- fuels
+- Full diurnal cycle
+- Full-duplex radio
+- functional analysis
+- Functional Architecture
+- functional magnetic resonance imaging
+- Functional near infrared spectroscopy
+- Functional performance simulation
+- Functional specification
+- Fusions
+- Future
+- Future C2
+- Future EW systems
+- Future outlook
+- Future self protection
+- Futuristic weapons
+- Fuzzy networks
+- GALILEO
+- game theory
+- Games
+- Gamification
+- Gaming
+- Gaming models
+- Gaps
+- Gas
+- gas dynamics
+- Gas path temperature measurement
+- Gas releases
+- Gas turbine
+- Gas turbine engine noise
+- gas turbine engines
+- Gas turbine rotors
+- gas turbines
+- Gateway
+- Gateways
+- Gating (synchronizing)
+- Gel propulsion
+- Gender
+- Gender integration
+- Gender perspectives
+- Gene drives
+- Generic allotment
+- Generic design
+- Genetic engineering
+- Genomics
+- GEO
+- Geo-pairing
+- GEOINT
+- Geolocation
+- Geolocation pixel accuracy
+- Geospatial
+- Geospatial Information Systems (GIS)
+- Geosynchronous Earth Orbit (GEO)
+- GIS maps
+- GLC (Gray Level Co-occurrence)
+- Glide path landing systems
+- Global leadership relationships
+- global positioning system
+- Global Public Health Strategy
+- Gloss
+- GMTI
+- GMTI (Ground Moving Target Indicator)
+- GNSS
+- GNSS (Global Navigation Satellite System)
+- goggles
+- Goniometers
+- Goniometry
+- Governance
+- Government policies
+- GPR (Ground Penetrating Radar)
+- GPR signal processing
+- GPS
+- GPS (Global Positioning System)
+- GPS Hardware and Software
+- GPS/INS
+- Graduated risk
+- Green munitions
+- greenhouse gas
+- Ground Attack Test Equipment (GRATE)
+- Ground control station
+- Ground effect
+- Ground impedance
+- Ground penetrating radar
+- Ground Penetrating Radar (GPR)
+- Ground segment antenna
+- Ground surveillance
+- Ground testing
+- ground tests
+- Ground vehicles
+- Ground wave
+- Ground-based air defence
+- Ground-moving target imaging
+- Ground-water sampling
+- Grounded decision making
+- Groundwater
+- Groundwater sampling
+- Group dynamics
+- Group feeding
+- Group modeling
+- Group of experts
+- Guaranteed services
+- guidance
+- guidance and control
+- Guidebook
+- Guided missile signatures
+- Guided missiles
+- Guided wave sources
+- Guideline
+- Guidelines
+- Gulf War syndrome
+- Guns (ordnance)
+- Gust encounter
+- gust loads
+- Gust response
+- gyroscopes
+- Hacking
+- HALE (High Altitude Long Endurance)
+- Hall effect thruster
+- Hand-held GPR
+- handbooks
+- Handling qualities
+- Handling Qualities (HQ)
+- Handling Qualities During Tracking (HQDT)
+- Haptic control
+- Harassment
+- Harbor protection
+- Hardening (materials)
+- Hardening (systems)
+- Hardiness
+- Hardkill systems
+- HARDKILL/SOFTKILL CO-ORDINATION
+- Hardkill/softkill coordination
+- hardware
+- Hardware security
+- Hardware-in-the-loop
+- harmonic radar
+- Harmonization
+- Harmonization options
+- Hateful conduct
+- Hazard
+- Hazard management
+- Hazardous environments
+- hazardous materials
+- hazards
+- HCF (High Cycle Fatigue)
+- head (anatomy)
+- Head supported mass properties
+- Head up displays
+- Head-up displays
+- health
+- Health affections
+- Health effects
+- Health impact assessment
+- Health Issues
+- Health management
+- Health monitoring
+- Health outcome
+- Health risk behaviours
+- Health risk communication
+- Healthcare professionals
+- hearing
+- Hearing damage
+- Hearing damage risk criteria
+- Hearing education
+- Hearing in noise
+- Hearing in soldiers
+- Hearing loss
+- Hearing prevention
+- Hearing protection
+- Hearing readiness
+- Hearing rehabilitation
+- Heart rate variability
+- Heat exchangers
+- Heat illness
+- Heat stress
+- heat transfer
+- Heavy metals
+- Heavy weather
+- Helicopter
+- Helicopter flight tests
+- Helicopter flight training
+- Helicopter operations
+- Helicopter/Ship Clearance
+- Helicopter/Ship Qualification
+- HELICOPTERS
+- Helmet-mounted displays
+- helmets
+- Heterogeneous C2
+- Heterogeneous network
+- Heterogeneous networks
+- Heterogeneous systems
+- Heutagogy
+- HEV (Hybrid Electric Vehicle)
+- HF band
+- HF propagation
+- HF radars
+- HIGH ALTITUDE
+- High altitude rotary wing flight test
+- High assurance guards
+- High availability
+- High electron mobility transistor
+- High integrity control
+- High integrity robust C3
+- High Level Architecture
+- High Level Architecture (HLA)
+- High Level ArchitectureVerification
+- High level radiation
+- High level reference architecture
+- High Level Technical Concepts (HLTC)
+- High lift devices
+- High north
+- High performance aircraft
+- High performance computing
+- High Power Microwave (HPM)
+- High Power Microwaves
+- High Powered Microwaves (HPM)
+- High pressure water jets
+- High Range Resolution (HRR)
+- High Range Resolution Profile (HRRP)
+- High range resolution radar
+- High resolution
+- High resolution imaging
+- High resolution radar
+- High resolution radar imaging
+- high reynolds number
+- high speed
+- High speed inlets
+- High strength steel
+- high temperature
+- High tempo operations
+- High-level radiation
+- High-peak-power ultra-short pulsed electromagnetic fields
+- High-precision targeting
+- High-precision weapon
+- High-range resolution radar
+- High-Velocity Oxygen-Fuel (HVOF) coatings
+- Higher Level Architecture (HLA)
+- Historical analysis
+- HLA
+- HLA (High Level Architecture)
+- HLA (High-Level Architecture)
+- HLA Certification
+- HLA federation
+- HMD (Hyperspectral Mine Detection)
+- Home on Jam tracking
+- Home-Grown Terrorism
+- homing devices
+- Horizon scan
+- Hostile fire indication
+- Hostile target identification
+- Hot-film
+- Hot-wire
+- HPM (High Power Microwaves)
+- HQ
+- HRM data issues
+- HRM framework model
+- HRM in NATO
+- HRM models and methodologies
+- HSF (High Sulphur Fuels)
+- HSI (HyperSpectral Imaging)
+- Hull accelerometers
+- Hull-form optimization
+- Hulls (structures)
+- Human
+- Human activity
+- Human and robotic exploration of space
+- Human augmentation
+- Human Augmentation.
+- Human autonomy teaming
+- human behavior
+- Human behavior representation
+- Human behaviour modelling
+- Human computer interaction
+- Human computer interface
+- Human effectiveness
+- Human enhancement
+- Human factor
+- Human factors
+- HUMAN FACTORS ENGINEERING
+- Human health
+- Human information processing
+- Human metrics
+- Human perception
+- human performance
+- Human performance improvement
+- Human performance metrics
+- Human performance optimization
+- Human performance technology
+- Human resources
+- Human Resources Management (HRM)
+- Human response
+- Human security
+- Human Systems Integration
+- Human Systems Integration (HSI)
+- Human systems interaction
+- Human task performance
+- Human terrain
+- Human View (HV)
+- Human visual processing
+- Human-automation interaction
+- Human-in-the-loop
+- Human-machine interface
+- Human-machine teaming
+- Human-machineinterfaces’ Insiders’ threat
+- Human-RAS interaction
+- Human-robot cooperation
+- Human-robot interface
+- Humanitarian demining
+- Humans
+- Hybrid
+- Hybrid / Grey zone
+- Hybrid electric
+- Hybrid electric systems
+- Hybrid electric technology
+- Hybrid III
+- Hybrid III Mannequin
+- Hybrid laminar flow control
+- Hybrid power sources
+- Hybrid propulsion
+- Hybrid RANS-LES
+- Hybrid Warfare
+- Hybrid-electric vehicles
+- Hydration
+- Hydrides
+- Hydrodynamic optimization
+- Hydrodynamic pressure signature
+- hydrodynamics
+- Hydrogen
+- hydrogen embrittlement
+- Hydrogen fuel cells
+- Hyper-spectral
+- Hyper-spectral imager
+- Hyperbaric medicine
+- Hyperbaric Oxygen Therapy (HBO)
+- Hypernode
+- Hypernodes
+- Hypersonic
+- HYPERSONIC AIRCRAFT
+- hypersonic characteristics
+- hypersonic flight
+- hypersonic flow
+- Hypersonic laminar-turbulent transition
+- Hypersonic test vehicles
+- Hypersonic vehicles
+- Hypersonic weapon systems
+- Hyperspectral
+- Hyperspectral imager
+- Hyperspectral imaging
+- Hyperspectral Imaging (HSI)
+- Hyperspectral sensing
+- Hyperspectral sensors
+- hypervelocity wind tunnels
+- Hypobaric hypoxia
+- hypothermia
+- I2
+- IAMD(M)
+- ICCRTS
+- ice
+- Ice accretion
+- Ice Detection Systems
+- ice formation
+- Ice Protection Systems
+- Ice shape
+- Ice-Phobic Coatings
+- Ice-Phobic Surfaces
+- ICEPAC
+- Icing
+- Icing codes
+- Icing Computational Modelling & Simulation
+- Icing Flight Testing
+- Icing Numerical Simulation.
+- Icing Wind Tunnels
+- IDDES
+- Idea of system
+- Idea of System (IoS)
+- Idea of system card
+- Identification
+- Identification range
+- Identification systems
+- Identity
+- Ideology
+- IDS (Intrusion Detection System)
+- IDS (Intrusion Detection Systems)
+- IDS generic models
+- IED networks
+- IED/UXO
+- IEDs
+- IEG (Information Exchange Gateway)
+- IFOR (Implementation Force)
+- Igniters
+- ILS (Integrated Logistics Support)
+- Image
+- Image and data compression
+- Image and video processing
+- Image format
+- image fusion
+- Image generator
+- Image intensifier
+- image processing
+- image quality
+- Image quality metric
+- Image reconstruction
+- ImageJ
+- Imageprocessing
+- Imager modelling
+- Imager simulation
+- Imagery
+- Images
+- Imaging
+- Imaging Infrared (IIR) seeker technology
+- Imaging of concealed weapons
+- Imaging radar
+- Imaging radars
+- Imaging Seeker Surrogate
+- Imaging Seeker Surrogate (ISS)
+- Imaging seekers
+- Imaging sensors
+- IMCAVS (Integrated Multispectral Camouflage for Armoured Vehicle Systems)
+- IMINT
+- Immersion suit
+- impact
+- Impact analysis
+- Impact assessment
+- Impairment
+- Imperfect information
+- Implementation plan
+- Implications to the users
+- Improvised explosive device
+- Improvised Explosive Device (IED)
+- Improvised Explosive Devices
+- Improvised Explosive Devices (IED)
+- Improvised Explosive Devices (IEDs)
+- Improvised Explosives Device (IED)
+- Impulse
+- Impulse energy reduction
+- Impulse noise
+- Impulse noise protection
+- IMU (Inertial Measurement Units)
+- In vitro
+- In vivo
+- In-band full-duplex
+- In-Field production capability
+- In-house
+- In-house provision
+- In-service surveillance
+- In-theatre planning
+- Incapacitation
+- Incentivization
+- Incident Response
+- Inclusion
+- Inclusive leadership
+- Incompressible
+- Increased effectiveness
+- Indicators
+- Individual differences
+- Individual equipment
+- Individual protection
+- Individual rations
+- Indoor
+- Indoor navigation
+- Industrial base
+- Industrial pollutants
+- Inertial loads
+- inertial navigation
+- Inertial Navigation System
+- Inertial navigation units
+- Infantry
+- Infantry soldier
+- Infectious Disease
+- Influence
+- Influence Activities
+- Influence operations
+- Influencing
+- Informal support
+- information
+- Information activities
+- Information analysis
+- Information Assurance
+- Information collection management
+- Information confrontation
+- Information content
+- Information credibility
+- Information domain
+- Information environment
+- Information evaluation
+- Information Exchange Gateway Scenario D (IEG-D)
+- INFORMATION FLOW
+- Information Forensics
+- information fusion
+- information management
+- Information Maneuvers
+- Information operations
+- Information Operations (IO)
+- Information processing
+- Information requirement management
+- Information requirements
+- Information security
+- Information security continuous monitoring
+- Information sharing
+- Information systems
+- Information technology
+- information theory
+- information transfer
+- Information visualisation
+- Information warfare (IW)
+- Infra-red
+- Infrared
+- Infrared (IR)
+- Infrared camera
+- Infrared camouflage
+- Infrared Counter Countermeasure (IRCCM)
+- Infrared countermeasures
+- Infrared decoys
+- Infrared detection
+- infrared detectors
+- Infrared equipment
+- Infrared expendable decoys
+- Infrared flares
+- Infrared frequencies
+- Infrared homing
+- Infrared hyperspectral sensing
+- Infrared imager
+- Infrared images
+- Infrared imaging
+- Infrared jammers
+- Infrared jamming
+- Infrared lasers
+- Infrared sensor
+- infrared signatures
+- Infrared spectroscopy
+- Infrared suppression
+- Infrared suppressors
+- infrared tracking
+- infrastructure
+- Inhalation hazards
+- Initial entry
+- Initial Implementation Plan (IIP)
+- Initiative
+- injuries
+- Injury assessment
+- Injury Assessment Reference Value (IARV)
+- Injury criteria
+- Inkjet printing
+- Inlets
+- Innovation
+- Innovations
+- INS (Inertial Navigation Systems)
+- InSAR
+- inspection
+- Installation effects
+- Installed system test facilities
+- Instigator
+- Institutionalise
+- Instructional strategies
+- instrument landing systems
+- instruments
+- Insulations
+- Insurgents
+- Intake design
+- Integrated
+- Integrated air and missile defence
+- integrated circuits
+- Integrated health management
+- Integrated logistic support
+- Integrated millimeter-wave circuit
+- Integrated mission management systems
+- Integrated Mission System design
+- Integrated mission systems
+- Integrated Navigation Systems
+- Integrated optics
+- INTEGRATED SHIP DEFENCE
+- integrated systems
+- Integrated vehicle health management
+- Integration
+- Integration Algorithms
+- Integration environment
+- Integration of ESM and ECM functions
+- Integrative health and healing
+- Integrative medicine
+- Integrity
+- Integrity Augmentation
+- Intellectual property
+- Intellectual Property Rights
+- Intelligence
+- Intelligence analysis
+- Intelligence assessment
+- Intelligence cycle
+- Intelligence process
+- Intelligence processing
+- Intelligence production
+- Intelligent agents
+- Intelligent gent
+- Intelligent knowledge base systems
+- Intelligent sensors
+- Intelligent support
+- Intelligent systems
+- Intelligent tutor
+- Intelligent Tutoring Systems (ITS)
+- Intelligent understanding of complex situations
+- intelligibility
+- Inter-agency collaboration
+- Inter-organisation trust
+- Inter-team coordination
+- Interaction
+- Interaction between live and simulation
+- Interaction Pattern
+- interactions
+- Interactive text exploitation
+- Interdisciplinary technology evaluation
+- Interface standards
+- interfaces
+- Interference
+- Interference cancellation
+- Interference management
+- interferometers
+- Intergranular corrosion
+- Intermediate force capabilities
+- Internal aerodynamics
+- Internal ballistics
+- internal combustion engines
+- International
+- international cooperation
+- International cooperation.
+- International crisis
+- international law
+- International Maritime Organisation (IMO)
+- international relations
+- International Security Assistance Force (ISAF)
+- International survey
+- Internet
+- Internet of things
+- Internet-of-Things
+- Interoperability
+- Interoperability Profiles (IOP)
+- Interoperability Standards
+- Interoperable open architecture
+- Interoperable simulations
+- Interpretation
+- Intervention
+- Intrusion
+- Intrusion alarm system
+- Intrusion alarms
+- Intrusion detectors
+- Inventory control
+- Inventory management
+- Inverse simulation
+- inverse synthetic aperture radar
+- Inverse Synthetic Aperture Radar (ISAR)
+- Investigations
+- Investment
+- Investment appraisal
+- Ionizing radiation bioeffects
+- Ionosonde
+- Ionospheric irregularities
+- Ionospheric plasma
+- IONOSPHERIC PROPAGATION
+- Ionospheric research
+- Ionospheric storms
+- Ionospheric troughs
+- IoT
+- IPB
+- IPNDV
+- IPsec
+- IPv6
+- IR
+- IR signature
+- IRA
+- Iraq
+- IRFPAs (Infrared Focal Plane Arrays)
+- IRIG-106 chapter 10
+- Irradiance
+- ISAR
+- ISAR signal processing
+- Isolated roughness
+- ISR
+- ISR-sensors
+- ISS (Imaging Seeker Surrogate)
+- ISTAR (Intelligence Surveillance Target Acquisition and Reconnaissance)
+- IVCT
+- jammer
+- jamming
+- JEM (Jet Engine Modulation)
+- Jet
+- Jet engine inlets
+- Jet Engine Modulation (JEM)
+- jet engines
+- Jet fuel
+- JetStar
+- JEWCS
+- JISR CD&E
+- JO 2030
+- JO 2030 Capability Set
+- JO 2030 Themes
+- Job analysis
+- Job attitudes
+- Joint Architecture for Unmanned Systems (JAUS)
+- Joint Fires
+- Joint Intelligence Surveillance and Reconnaissance (JISR)
+- Joint mission planning
+- Joint operations
+- Joint Operations 2030
+- Joint scenario
+- Joint Tactical Radio System (JTRS)
+- JP8 and other petroleum products
+- Judgement-based analysis
+- Judgment
+- Jungle
+- Juste retour
+- JWC
+- k-epsilon turbulence model
+- Kalman Filtering
+- Keratectomy
+- Keratomileusis
+- Keratoplasty
+- Kevlar
+- Key performance indicators
+- KeywordsAnalytics
+- KFOR
+- KGPS (Kinematic GPS)
+- Kill chain
+- Kill probabilities
+- Kinetic energy
+- Kinetics and modelling
+- knowledge
+- Knowledge base development
+- Knowledge base systems
+- Knowledge based methods
+- Knowledge bases
+- Knowledge development
+- knowledge discovery
+- Knowledge dissemination
+- Knowledge engineering
+- Knowledge exploitation
+- Knowledge generation
+- Knowledge management
+- Knowledge network
+- Knowledge repository
+- knowledge representation
+- Knowledge-aided Adaption
+- Knowledge-based systems
+- KORA/OA
+- L1-norm minimization
+- LAAS (Local Area Augmentation System)
+- Lab test procedures
+- Lab testing
+- Labelling
+- Labels
+- Laboratory assessment
+- Laboratory NDI
+- Laboratory testing
+- LADAR
+- laminar boundary layer
+- laminar flow
+- Laminar flow control
+- Laminar-turbulent transition
+- LAN (Local Area Network)
+- LAN (Local Area Networks)
+- Land
+- Land armaments
+- Land Equipment
+- Land mine detection
+- Land mine warfare
+- Land mines
+- Land operation environment
+- Land operations
+- Land platform
+- Land remediation
+- Land vehicle signatures
+- Land Vehicles
+- Land warfare
+- landing gear
+- Landmine characterisation
+- Landmine detection
+- Landmine warfare
+- Landmines
+- Language identification
+- Language recognition
+- Languages
+- Large format battery
+- Laser
+- laser anemometers
+- Laser beam
+- Laser beam focusing
+- Laser beam propagation
+- Laser countermeasures
+- Laser dazzle
+- Laser dazzling
+- Laser doppler velocimetry
+- Laser epithelial keratomileusis
+- Laser equipment
+- Laser eye damage
+- Laser eye dazzle
+- Laser guided weapons
+- Laser gyroscopes
+- laser induced fluorescence
+- laser materials
+- Laser modelling
+- Laser paint removal
+- Laser performance
+- Laser pointer
+- Laser power trends
+- Laser protection
+- Laser pulse source
+- Laser radar
+- Laser range finder
+- Laser safety
+- Laser scattering
+- Laser spectroscopy
+- Laser target designator
+- Laser technology
+- Laser test range
+- Laser threat
+- Laser warner
+- Laser weapon cost size and weight
+- Laser weapon effects
+- Laser weapon safety
+- Laser weapon system considerations
+- Laser weapons
+- Laser-assisted in situ keratomileusis
+- lasers
+- Late effects
+- Launch
+- Launch and recovery
+- Lead nation
+- Lead-acid batteries
+- Leadership
+- Leading edge vortex
+- Leading edges
+- Learner competency
+- Learning from experience
+- LED technology
+- Legacy power systems
+- Legacy systems
+- Legal
+- Legislation
+- LEO
+- lessons learned
+- Lethality
+- Level dependent
+- Levels of autonomy
+- Levels of conceptual interoperability model
+- Levels of psychological support
+- Library
+- LIDAR
+- life (durability)
+- Life cycle analysis
+- Life cycle costing
+- Life cycle costs
+- Life cycles
+- Life determination
+- Life raft
+- life support systems
+- Life-cycle costs
+- Life-cycle management
+- Lifejacket
+- lift
+- Ligaments
+- light (visible radiation)
+- light scattering
+- light transmission
+- Light-weight materials.
+- Lightweight materials
+- Line-of-sight
+- Linguistics
+- Link analysis
+- Link level protection
+- Liquid crystal
+- List One Set of TFAs
+- List One Set of TICs
+- Lithium batteries
+- Lithium ion batteries
+- Lithium-ion
+- Lithium-ion battery
+- Littoral
+- Littoral environment
+- littoral zone
+- Live
+- Live observation trial
+- Live simulation
+- Live tissue training
+- LNG terminal
+- LoAC (Law of Armed Conflict)
+- Load monitoring systems
+- Loads
+- loads (forces)
+- Local energy
+- Local orientation
+- Localization
+- Localized corrosion
+- Log files
+- logistics
+- Logistics force generation
+- Logistics infrastructure
+- Logistics management
+- Logistics planning
+- Logistics support
+- Logistics support analysis
+- Long term
+- Long Term Aspect (LTA)
+- Long term capability requirements
+- Long term defence planning
+- Long term planning
+- Long-Term Capability Requirements
+- Long-term defence planning
+- Long-Term Scientific Study
+- Longwave infrared
+- loran
+- Low
+- low altitude
+- Low aspect ratio
+- Low bandwidth
+- low cost
+- Low Earth Orbit (LEO)
+- Low intensity conflict
+- Low level radiation
+- Low light imaging
+- Low light level viewing
+- Low metal mines
+- Low observables
+- Low Probability of Exploitation (LPE)
+- Low Probability of Intercept (LPI)
+- Low probability of intercept radars
+- Low probability of interception
+- low reynolds number
+- Low-discrepancy sequence sampling
+- Low-level radiation
+- Low-power radars
+- Lower leg
+- LPI (Low Probability of Intercept)
+- LTCRs
+- LTE
+- LTSS
+- Lubricity
+- LUCIE (Laser Underwater Camera Image Enhancer)
+- Luminance
+- Lung damaging agent
+- LVC
+- LWIR
+- LWIR (Long Wave Infrared)
+- M&S
+- M&S (Modelling & Simulation)
+- M&S (Modelling and Simulation)
+- M&S as a service
+- M&S Catalog
+- M&S Catalogue
+- M&S Library
+- M&S Repository
+- M&S Reuse
+- M&S Services
+- M&S Tools
+- M&S validation
+- MAC
+- mach number
+- machine learning
+- machine translation
+- Machine vision
+- Machinery health monitoring
+- Macroeconomics
+- Magnetic anomaly detection
+- Magnetic materials
+- magnetic properties
+- magnetic resonance sensors
+- Magnetic signature
+- Magnetometer
+- Magnification
+- Main capabilities areas
+- maintainability
+- maintenance
+- Maintenance and repair
+- Maintenance-free operating period
+- males
+- Man computer interface
+- Man machine interface
+- Man machine systems
+- Man-in-the-loop
+- man-made object detection
+- Managed information exchange
+- management
+- Management analysis
+- management planning
+- management systems
+- Manager’s guide
+- MANET
+- MANET/mesh
+- Maneuver performance
+- maneuverability
+- Maneuvering
+- Maneuvering in wave
+- Manmade radiofrequency interference
+- Manned-unmanned Teaming
+- Manned/Unmanned collaboration
+- Manoeuvring
+- Manoeuvring in Waves
+- Manportable
+- Manpower
+- Manpower planning
+- Manpower utilization
+- manuals
+- Manufacturer
+- MANUFACTURING
+- Manufacturing / Producibility
+- Manufacturing capacities
+- Manufacturing technologies
+- Manwearable
+- marine propulsion
+- Marine robotics
+- Marine safety equipment
+- maritime
+- Maritime Domain Awareness
+- Maritime environment
+- Maritime operations
+- maritime security
+- Maritime Security Architecture
+- Maritime situation awareness
+- Maritime situational awareness
+- maritime surveillance
+- Maritime warfare
+- Markers
+- marketing
+- Mass destruction weapons
+- Massive datasets
+- Material
+- Material characterization
+- Material properties
+- materials
+- Materials handling
+- Materiel
+- Materiel solutions
+- Mathematical modelling
+- mathematical models
+- mathematical prediction
+- MATRIX 2005 workshop
+- MAV (Micro Air Vehicles)
+- MBWCS
+- MCDA
+- MCG/8
+- Meaconing
+- Measurement
+- Measurement and monitoring
+- Measurement campaigns
+- Measurement facilities
+- Measurement Of Effectiveness (MOE)
+- Measurements
+- Measures of Effect
+- Measures of effectiveness
+- Measures of effectiveness (MOE)
+- Measures of merit
+- Measures of Merit (MoM)
+- Measures of Performance
+- Measuring
+- measuring instruments
+- mechanical properties
+- Mechanical scanner
+- Mechanical system
+- Mechanical systems
+- Mechanical waves
+- Mechanisms
+- Medevac
+- Median
+- Mediation
+- Medical
+- Medical care
+- Medical chain
+- Medical conditions
+- Medical countermeasures
+- Medical education
+- Medical evacuation
+- Medical management
+- Medical officers
+- Medical personnel
+- Medical profile
+- Medical recording tools
+- medical services
+- Medical technologies
+- Medical treatment
+- Medical unexplained physical symptoms
+- Meditation/mindfulness
+- Medium Earth Orbit (MEO)
+- meetings
+- MEMS
+- MEMS (Micro-Electro-Mechanical System)
+- MEMS (Microelectromechanical Systems)
+- MEMS sensors
+- Mental
+- Mental disorders
+- mental health
+- Mental health training
+- Mental performance
+- Mental resources
+- Mental skills training
+- Mental workload
+- Message-Oriented Middleware
+- Messaging infrastructure
+- Meta-analysis
+- Metadata
+- Metadata Catalog
+- metal detector
+- Metamaterial
+- Metamaterials
+- Metamodels
+- Meteorological instruments
+- meteorology
+- Methanol
+- Methodologies
+- methodology
+- Methods
+- Methods and tools
+- Metric transition
+- metrics
+- Metrics generation
+- metrology
+- MFRF (MultiFunctional Radio Frequency)
+- Micro air vehicle
+- Micro Air Vehicle (MAV)
+- Micro Air Vehicles (MAV)
+- Micro ribonucleic acid
+- Micro-Doppler
+- Micro-Electro-Mechanical Systems (MEMS)
+- Micro-Optical-Electro-Mechanical Systems (MOEMS)
+- Micro-propulsion
+- Micro-scanned thermal images
+- Microaggressions
+- Microbial diversity
+- microelectronics
+- microprocessors
+- Microsensors
+- Microsoft Excel computer program
+- Microstrip antennas
+- Microsystems
+- Microtechnology
+- Microturbine
+- Microwave
+- microwave equipment
+- microwave frequencies
+- Microwave landing systems
+- Microwave Sources
+- Microwave transmission
+- microwaves
+- Mid-infrared
+- Mid-Infrared components
+- Midwave infrared
+- MIL-DTL-83133
+- MIL-HDBK-510A
+- MIL-LX
+- Militant jihad
+- military
+- Military acquisition
+- Military Acquisition Process
+- Military adaptation
+- military aircraft
+- Military aircraft risk
+- Military application of USPL
+- Military applications
+- Military benefits
+- Military capabilities
+- Military capability
+- military chemical agents
+- Military children
+- Military communication
+- Military culture
+- Military doctrine
+- Military education
+- Military effectiveness
+- Military engineering
+- Military equipment
+- Military exercises
+- Military families
+- Military family readiness
+- Military health and performance
+- Military human resource models
+- Military hybrid electric vehicles
+- Military impact analysis
+- Military intelligence
+- Military law
+- Military leaders
+- Military lifestyle
+- Military logistics
+- Military medical personnel
+- Military medical services
+- Military medicine
+- Military model
+- Military occupations
+- military operations
+- Military organizations
+- Military personnel
+- Military personnel modelling
+- Military personnel policy
+- military planning
+- Military Platforms
+- Military professionalism
+- Military psychology
+- Military requirements
+- military research
+- Military robots
+- Military search
+- Military sociology
+- Military strategy
+- Military survey
+- Military systems
+- Military training
+- Military training range
+- Military transition
+- Military use of space systems
+- Military vehicle
+- military vehicles
+- Military working dog
+- Military-strategic planning
+- Millennials
+- millimeter waves
+- Millimeter-wave
+- Millimetre wave technology
+- MILS (Multiple Independent Levels of Security)
+- MIM
+- MIMEX database
+- MIMO radar
+- MIMO-processing
+- MIMO.
+- Mine
+- Mine blast
+- Mine countermeasures
+- Mine detectors
+- mine hunting
+- Mine neutralisation
+- Mine neutralization
+- Mine threat
+- Mine warfare ships
+- Minefield neutralization
+- Minefields
+- Mineral resources
+- Minesweepers (ships)
+- Minesweeping
+- Miniaturization
+- Minority
+- MIOP
+- Misinformation
+- Miss distance
+- Missile
+- Missile countermeasures
+- missile defense
+- missile detection
+- Missile launchers
+- Missile plumes
+- missile propulsion
+- Missile seeker hardware
+- missile signatures
+- Missile tracking
+- Missile trajectories
+- missiles
+- Mission
+- Mission Accomplishment
+- Mission Assessment
+- Mission assurance
+- Mission capabilities
+- Mission command
+- mission critical
+- Mission effectiveness
+- Mission engineering
+- Mission management
+- Mission oriented research
+- Mission performance
+- mission planning
+- mission profiles
+- Mission Simulation
+- Mission training through distributed simulation
+- Missionland
+- Missions
+- Mitigation
+- Mitigation measures
+- Mitigation of non-compliance
+- Mitigator
+- Mixed and Virtual Environments)
+- MLS (Multi-Level Security)
+- MMIC
+- mmW Radar
+- MMW technology
+- Mobile
+- Mobile ad hoc network
+- Mobile Ad-Hoc Network (MANET)
+- Mobile Ad-hoc Networks (MANET)
+- Mobile camouflage
+- Mobile camouflage systems
+- Mobile equipment
+- Mobile learning
+- Mobile network
+- Mobile systems
+- Mobilisation
+- mobility
+- Model
+- Model assessment
+- Model driven architecture
+- Model instantiation
+- Model representation
+- Model Sharing
+- Model tests
+- model validation
+- Model verification
+- Model-based design
+- Model-repositories
+- Modeling
+- Modeling and Simulation
+- Modeling and Simulation (M&S)
+- Modeling and simulation enterprise
+- Modelling
+- Modelling & Simulation (M&S)
+- Modelling and Simulation
+- Modelling and Simulation (M&S)
+- Modelling and Simulation as a Service (MSaaS)
+- Modelling and Simulation as a Service (MSaaS) M&S Services
+- Modelling and simulation.
+- Modelling andsimulation
+- Modelling capabilities
+- Models
+- Modern camouflage
+- Modernization programme
+- Modular
+- Modular ESM equipment
+- Modular EW
+- Modular Federation Object Model (FOM)
+- Modular soldier system
+- MoE (Measures of Effectiveness)
+- MOM (Measures of Merit)
+- Monitor
+- Monitoring
+- Monitoring and Evaluation
+- Monitors
+- Monovision
+- Monte-Carlo
+- MoP (Measures of Performance)
+- MoR (Measures of Response)
+- Moral decisions
+- Moral dilemmas
+- Moral injury
+- Morale
+- Morale assessment
+- More electric aircraft initiative
+- Morphological analysis
+- Mortar
+- Mortars (weapons)
+- Motion
+- Motion capture
+- motion compensation
+- motion sickness
+- Motion studies
+- Motivation
+- Mountain sickness
+- Mounted
+- Movement
+- Movement detection
+- Moving target indication
+- moving target indicators
+- MQTT
+- MRTD
+- MRTD (Minimum Resolvable Temperature Difference)
+- MSaaS
+- MSDF (Multi-Sensor Data Fusion)
+- MSDF (Multi-Source Data Fusion)
+- MSDL
+- MSI (MultiSpectral Imaging)
+- MTDS
+- MTDS (Mission Training through Distributed Simulation)
+- MTF (Modulation Transfer Function)
+- MULDICON
+- MULDICON configuration
+- Multi increment sampling
+- Multi-agent systems
+- Multi-band
+- Multi-band radar
+- Multi-channel learning
+- Multi-channel radar
+- Multi-constellation
+- Multi-Cultural
+- Multi-disciplinary design
+- Multi-disciplinary optimization
+- Multi-disciplinary performance assessment
+- Multi-domain command and control (C2)
+- Multi-domain operations
+- Multi-fidelity
+- Multi-focal intraocular lens
+- Multi-frequency
+- Multi-functional
+- Multi-functional RF structures
+- Multi-increment sampling
+- Multi-Instrument Data Analysis System (MIDAS)
+- Multi-lateration
+- Multi-level information fusion
+- Multi-modal
+- Multi-modal interfaces
+- Multi-National
+- Multi-national coalitions
+- Multi-national operations
+- Multi-nationality
+- multi-objective optimization
+- Multi-omics
+- Multi-pass interferometry
+- Multi-physics
+- Multi-robot systems
+- multi-sensor data fusion
+- Multi-sensor data processing and communications
+- Multi-sensor personnel detection
+- Multi-sensor system
+- Multi-sensor systems
+- Multi-spectral
+- Multi-static
+- Multi-static radar
+- Multi-team systems
+- Multi-teams
+- Multi-vehicle cooperative operations
+- Multiband radar
+- Multiband radar multistatic processing
+- Multibody Dynamics
+- Multidisciplinary
+- Multidisciplinary Design
+- Multifidelity
+- Multifunctional components
+- Multilateral forces
+- Multilayer conformal and planar arrays
+- Multilingualism
+- Multimedia analytics
+- Multimedia visualisation
+- multinational
+- Multinational logistics
+- Multinational military operations
+- Multinational research collaboration
+- Multinational tests
+- Multipath
+- Multiple digital receiver
+- Multiple ECM reactions
+- Multiple sensor fusion
+- Multiple UAS
+- Multiple UAVs
+- Multiple vehicle control
+- Multiple-Input Multiple-Output (MIMO)
+- Multiresolution
+- Multiscale
+- Multisensors
+- Multispectral
+- multistatic
+- Multistatic radar
+- Munition health management
+- Munitions
+- Munitions constituents
+- Munitions corrosion
+- Munitions disposal
+- Munitions environmental footprint
+- Munitions environmental impacts
+- Munitions health management
+- Muscles
+- Muscular strength
+- Musculoskeletal injury
+- musculoskeletal system
+- Mustard agents
+- Muzzle blast
+- MWIR
+- MWIR (Medium Wave Infrared)
+- NACCS
+- Nail test
+- Namespace
+- Nano air vehicle
+- Nanoelectronics
+- Nanomaterials
+- Nanostructures
+- Nanotechnology
+- Narrative
+- NASA-TLX
+- NASMDEF
+- National
+- National Security Strategic Review
+- nato
+- NATO agreements
+- NATO Architecture Framework
+- NATO Biometrics Programme Coordination Group (NBPCG)
+- NATO C3 Classification Taxonomy
+- NATO C3 Taxonomy
+- NATO Compliance
+- NATO Comprehensive Approach (CA)
+- NATO Core Services QoS
+- NATO Data Fusion Demonstrator
+- NATO Defence Planning Process
+- NATO Defence Planning Process (NDPP)
+- NATO Discovery Metadata Specification (NDMS)
+- NATO Education and Training Network
+- NATO exercise
+- NATO field camp
+- nato forces
+- NATO leadership
+- NATO logistics
+- NATO Long-Term Capability Requirements
+- NATO Long-Term Scientific Study
+- NATO M&S Master Plan (NMSMP)
+- NATO Network-Enabled Capability (NNEC)
+- NATO Network-Enabling Capability (NNEC)
+- NATO operations
+- NATO outline model
+- NATO Reference mobility model
+- NATO Reference Mobility Model (NRMM)
+- NATO Simulation Resource Library (NSRL)
+- NATO space
+- NATO standard
+- NATO standards and interoperability
+- NATO Support and Procurement Agency (NSPA)
+- NATO Virtual Institute
+- NATO XML Management Services Working Group (NXMLSWG)
+- Natural disaster
+- Naval aircraft
+- Naval Electronic Warfare Maritime Operational (NEMO) TrialsNavy
+- Naval fleet
+- Naval intelligence
+- Naval mine detection
+- Naval mine warfare
+- Naval operations
+- Naval ranges
+- Naval ship design
+- Naval ships
+- Naval surface combatant
+- NAVIGATION
+- Navigation gap
+- navigation satellites
+- Navigational aids
+- Navigational sensors
+- Navigational warfare
+- NAVWAR
+- NBC
+- NCID (Non-Cooperative Identification)
+- NCTI (Non-Cooperative Target Identification)
+- NCTR
+- NDT (Non-Destructive Testing)
+- Near earth object
+- Near infrared
+- Near-real-time
+- NEC (Network Enabled Capability)
+- Neck (anatomy)
+- Neck pain
+- Negative index materials
+- NEMO
+- NEOTAM (NATO Electro-Optical Target Model)
+- Nerve agent
+- Nerve agents
+- NET
+- Net assessment
+- Net-centric
+- Net-Centric Data Strategy (NCDS)
+- NETN FAFD
+- Nets
+- network
+- Network analysis
+- Network analysis (management)
+- Network centric operations
+- Network centric warfare
+- Network dynamics
+- Network Enabled Capability
+- Network Enabled Capability (NEC)
+- Network level protection
+- Network management
+- Network security
+- network synthesis
+- Network theory
+- Network visualisation
+- Network-centric operations
+- Network-centric warfare
+- Network-enabled capabilities
+- Network-Enabled Capability
+- Network-Enabled Capability (NEC)
+- Networked
+- Networked ESM
+- Networked robots
+- Networked sensors
+- Networking
+- Networks
+- Neurodiversity
+- Neuroenhancement
+- neurofeedback
+- Neurophysiological Accelerometry Electrocardiography
+- Neuropsychological measures
+- Neuroscience
+- Neurotoxicological
+- Neutralisation techniques
+- Neutralization
+- New Generation War
+- New materials
+- New START
+- New-generation war
+- Next Generation NATO Reference Mobility Model (NG-NRMM)
+- Next-Generation NATO Reference Mobility Model (NG-NRMM)
+- NG-NRMM
+- NGVA
+- Nickel cadmium batteries
+- night
+- Night sky
+- night vision
+- Night vision devices
+- Night vision goggles
+- NIHL (Noise-Induced Hearing Loss)
+- NIR
+- NIR (Near Infrared)
+- NLP
+- NLW (Non-Lethal Weapons)
+- NNEC
+- NODD
+- Node
+- Noise
+- noise (sound)
+- Noise calculation
+- Noise characteristics
+- Noise exposure
+- Noise floor
+- noise measurement
+- Noise mitigation
+- noise prediction
+- Noise propagation
+- Noise protection
+- Noise radar
+- Noise radar technology
+- noise reduction
+- Noise regulations
+- Non-Article 5 Crisis Response Operations
+- Non-compliance
+- Non-conformance
+- Non-cooperative illuminators
+- Non-Cooperative Target Identification (NCTI)
+- Non-Cooperative Target Imaging (NCTI)
+- Non-Cooperative Target Recognition (NCTR)
+- Non-Cooperative TargetRecognition (NCTR)
+- Non-Destructive Evaluation
+- Non-destructive inspection
+- Non-destructive tests
+- Non-dominated sorting genetic algorithm
+- Non-Equilibrium
+- Non-freezing cold injuries
+- Non-governmental organisations
+- Non-Human Intelligent Collaborators (NIC)
+- Non-Intrusive measurement methods
+- non-lethal weapons
+- Non-linear frequency conversion
+- Non-linear junction detector
+- Non-linear optics
+- Non-Linear Warfare
+- Non-materiel solutions
+- Non-metallic mines
+- Non-penetrating projectiles
+- Non-state actors
+- Non-warfighting
+- Nonlinear frequency conversion
+- Nonlinear propagation
+- Nonproliferation
+- Novel processing
+- Novel surface treatments
+- NSG-163
+- NSHQ
+- Nuclear
+- Nuclear (CBRN)
+- Nuclear disarmament
+- Nuclear weapons
+- Numeric simulation
+- numerical analysis
+- numerical models
+- Numerical simulatio
+- Numerical Simulation
+- Numerically controlled oscillator
+- nutrition
+- NVG (Night Vision Goggles)
+- NVTherm
+- Nyquist stability criteria
+- OBIS/GP3
+- Object classification
+- Objectives Risk Risk analysis
+- Oblique flow
+- Obscurant
+- Obscuration
+- Observation
+- Observe-Orient-Decide-Act (OODA) Loop
+- Observer performance
+- Observer trials
+- Obsolescence
+- obstacle avoidance
+- Obstacle detection
+- Occupant
+- Occupant loading
+- Occupant loading protection
+- Occupational classification systems
+- Occupational demands
+- Occupational health and safety
+- Occupational health and safety standards
+- OCD
+- Ocean basin
+- Ocean surveillance
+- Off route mines
+- Officer generic reference curriculum
+- Officer personnel
+- Oil
+- Oil flow
+- Omega navigation
+- On-board energy
+- On-board sensors
+- On-board signature assessment
+- On-board/off-board correlation
+- Onboarding
+- Online testing
+- Ontologies
+- Ontology
+- Ontology-alignment
+- OODA loop
+- OOTW (Operation Other Than War)
+- OOTW (Operations Other Than War)
+- Open air ranges
+- Open architecture framework
+- Open source
+- Operating costs
+- Operation Assessment
+- Operation Enduring Freedom (OEF)
+- Operation planning
+- Operational
+- operational analysis
+- Operational analysis executive education
+- Operational analyst
+- Operational aviation medicine
+- Operational capability
+- Operational Concerns
+- Operational conditions
+- operational effectiveness
+- Operational energy
+- Operational needs
+- Operational planning
+- operational problems
+- Operational readiness
+- Operational records
+- Operational requirements
+- operational research
+- Operational research and analysis
+- Operational risk
+- Operational safety
+- Operational scenarios
+- Operational shortfalls
+- Operational support
+- Operational usage
+- Operational Wargaming System (OWS)
+- Operations
+- Operations analysis
+- Operations Assessment
+- Operations other than war
+- Operations Planning
+- Operations research
+- Operations Research and Analysis
+- Operator interface
+- Operator life cycle
+- Operator workload
+- Operators (personnel)
+- OPSTEMPO
+- Optical characterisation
+- Optical communications and architectures
+- Optical correlators
+- Optical countermeasures
+- Optical detection
+- optical equipment
+- Optical materials
+- optical measurement
+- Optical measuring instruments
+- Optical parametric processes
+- Optical processing
+- optical properties
+- optical radar
+- Optical resonators
+- Optical sensors
+- Optical systems
+- Optical turbulence
+- Optics detection
+- Optimisation techniques
+- optimization
+- Optimum operator/vehicle ratio
+- Orbit determination
+- Orbit Determination (OD)
+- Orbits
+- Order of battle
+- Organisation
+- Organisational effectiveness
+- Organization
+- Organization theory
+- Organizational attraction
+- Organizational culture
+- Organizational modeling
+- organizations
+- Orientation
+- ORM (Off-Route Mines)
+- Ornithopter
+- Outdoor
+- Over-the-horizon radar
+- Overarching Space Policy (OSP)
+- Overhaul
+- Overlap
+- Overpressure
+- OWL
+- Ownership cost
+- Owning environment
+- oxidation
+- Oximes
+- Oximetry Training
+- p-value
+- Pain
+- Paint removers
+- paints
+- Pandemic
+- Panoramic
+- Parachuting
+- Paragliders
+- Parallel robotics
+- Parametric modelling
+- Parasite
+- Partially Observed Markov Decision Processes (POMDP)
+- particle image velocimetry
+- Particle Imaging Velocimetry (PIV)
+- Particle swarm optimization
+- Particulates
+- Passive
+- Passive bistatic radar
+- Passive Bistatic Radar (PBR)
+- Passive coherent location
+- Passive Coherent Location (PCL)
+- Passive Covert Radar (PCR)
+- Passive defence
+- Passive defense
+- Passive detection
+- Passive ESM tracking
+- Passive ESM Tracking (PET)
+- Passive imaging
+- Passive MMW imaging
+- Passive noise protection
+- Passive Radar
+- Passive sensors
+- Passive sonar threat
+- PATHFINDER
+- Pathfinder programmes
+- Pathogen
+- Pathophysiology
+- Patient centered care
+- pattern recognition
+- Patterns
+- PCL (Passive Coherent Location)
+- PCN
+- Peace and security agenda
+- Peace enforcement
+- Peace support
+- Peace support operations
+- peacekeeping
+- Pedagogy
+- Penetration
+- Penetration aids (military tactics)
+- Perception
+- Perception experiments
+- Perceptual fidelity
+- Performance
+- performance analysis
+- performance assessment
+- Performance based maintenance
+- Performance categories
+- Performance enhancement
+- Performance evaluation
+- Performance improvement
+- Performance in high stress situations
+- Performance management
+- Performance measurement
+- performance metrics
+- Performance metrics and assessment
+- Performance modeling
+- Performance modelling
+- Performance of present SAR-missions
+- performance prediction
+- Performance psychology
+- Performance standards
+- Performance sustainment
+- performance tests
+- Perimeter security
+- Periodic health assessment
+- Peripheral cold monitoring
+- Periscope
+- Permethrins
+- Persistence
+- Personality
+- Personalized medicine
+- Personalized performance
+- personnel
+- Personnel detection
+- Personnel detection and characterization
+- personnel development
+- personnel management
+- Personnel modelling
+- personnel selection
+- Personnel shortages
+- PERSTEMPO
+- Petroleum
+- Pharmacodynamics
+- Pharmacogenomics
+- Pharmacokinetics
+- pharmacology
+- Phased arrays
+- Phased-array antennas
+- Phenomenology
+- photobiomodulation
+- Photon counting
+- Photonic band gap materials
+- Photonic crystals
+- Photorefractive keratectomy
+- Photosimulation
+- PHY
+- Physical
+- Physical conditioning
+- Physical employment standards
+- physical fitness
+- Physical interactions
+- Physical performance
+- PHYSICAL PROPERTIES
+- Physical Unclonable Function
+- Physics based modelling
+- Physics-based design
+- Physics-based model
+- Physics-based models
+- Physiological adaptations
+- physiological effects
+- Physiological monitoring
+- Physiotherapy
+- PIE
+- Pillowing
+- pilot training
+- Pilot-In-the-Loop Oscillations (PIO)
+- Pilots (personnel)
+- piracy
+- Pitching
+- Pitting
+- Pitting corrosion
+- planning
+- Planning decision support
+- Plasma
+- Plasma actuation
+- Plasmonics
+- plastics
+- Platform
+- Platform certification
+- Platform integration
+- PLC
+- PLT
+- Plug nozzles
+- Plume detection
+- Plunging
+- PNT
+- POB (Probability of Detection)
+- POC
+- Point
+- Point detection
+- Polarimetric
+- Polarimetric camera
+- Polarimetric radar
+- Polarimetric signature
+- Polarimetric techniques
+- polarimetry
+- polarization
+- Polarized light camera
+- policies
+- Policy
+- Policy direction
+- Political science
+- Political violence
+- Political warfare
+- Polymer electrolyte membrane
+- Polymer LED
+- Polymerase Chain Reaction (PCR)
+- Polynomial chaos
+- Polyurethane resins
+- Pooling
+- Portability
+- Portable equipment
+- Portfolio analysis
+- portfolio constraints
+- portfolio decision process
+- Portfolio decisions
+- portfolio objectives
+- Portfolio Selection
+- Portfolios
+- POS/NAV.
+- position (location)
+- Position finding
+- Possible solutions
+- Post traumatic stress
+- Post-concussion syndrome
+- Post-Deployment Syndrome (PDS)
+- Post-flight inspection
+- Post-partum
+- Post-processing
+- Post-traumatic stress disorder
+- Post-Traumatic Stress Disorder (PTSD)
+- Post-traumatic stress disorders
+- Posttraumatic stress
+- Postvention
+- potential flow
+- Power sources
+- Power supplies
+- Power systems
+- Pre-deployment
+- Pre-deployment planning
+- precision
+- Precision bombing
+- precision guided munitions
+- Precision medicine
+- Predict
+- Prediction
+- Prediction capabilities
+- Predictions
+- Predictive analytics
+- Predictive models
+- Pregnancy
+- Presentations
+- Presenteeism
+- Pressure gradient
+- pressure measurement
+- Prevalence data
+- Prevent
+- Preventing terrorist attacks
+- prevention
+- Prioritisation
+- Prioritization
+- Priority chemicals
+- Priority list
+- Prison
+- Privacy
+- Probabilistic
+- Probability
+- Problem formulation
+- problem solving
+- Problem structuring methods
+- PROCEDURES
+- Procedures (TTPs)
+- proceduresSPECTRUM XXI
+- Processing
+- procurement
+- Production technology
+- Professional Athlete Model
+- Professional military education
+- Professional referral
+- Professional support
+- Prognostics
+- Program development
+- Program evaluation
+- Program implementation
+- Programmable logic device
+- programming
+- Project governance
+- project management
+- projectiles
+- Propaganda
+- propagation
+- Propagation through wall
+- Propagation.
+- propellants
+- Propeller optimization
+- Propeller/rotor noise
+- Prophylaxis
+- propulsion
+- Propulsion and power systems
+- Propulsion system
+- PROSPER
+- Protected
+- Protected core networking
+- Protected Core Networking (PCN)
+- protection
+- Protection concepts
+- Protection of Civilians (PoC)
+- protective clothing
+- protective coatings
+- Protective equipment
+- Protocol
+- Protocols
+- Proton exchange membrane
+- PROTOTYPES
+- Prototyping environment
+- Protuberance
+- proving
+- PRS (Position Reference System)
+- Pseudo-random sequence sampling
+- PSO
+- PSO (Peace Support Operations)
+- Psychological
+- Psychological contract
+- Psychological contract stressors
+- psychological effects
+- Psychological fitness
+- Psychological operations
+- Psychological Operations (PSYOPS)
+- Psychological readiness
+- Psychological stress
+- Psychological support
+- Psychology
+- Psychometric
+- psychometrics
+- PTS (Pointing and Tracking System)
+- Public private partnerships
+- Public provision
+- Publicly available information
+- Publish/subscribe
+- PUF
+- Pulse compression
+- pulse doppler radar
+- Pulsed power
+- PVI (Pilot Vector Interface)
+- Pyrotechnics
+- QoS (Quality of Service)
+- Qualification
+- quality
+- Quality assurance
+- Quality metric
+- Quality of life
+- Quality of service
+- Quality of Service (QoS)
+- Quantitative analysis
+- Quantum dots
+- Quantum wells
+- Quantum-confined structures
+- Quasi-steady
+- Questionnaire
+- Questionnaires
+- R&D (Research and Development)
+- Racism
+- Radar
+- Radar and infrared synergy
+- radar backscatter
+- Radar Cross Section
+- Radar Cross Section (RCS)
+- radar cross sections
+- Radar Cross-Section (RCS)
+- Radar deception
+- Radar decoys
+- RADAR DETECTION
+- radar equipment
+- Radar images
+- radar imaging
+- Radar jamming
+- Radar Noise
+- Radar performance modelling
+- Radar polarimetry
+- Radar propagation
+- Radar receivers
+- Radar signal processing
+- Radar signals
+- Radar signature
+- Radar signature management
+- Radar surveillance
+- RADAR TRACKING
+- Radar transmitters
+- Radar waveforms
+- Radar-embedded communications
+- RADARSAT-2
+- Radial keratotomy
+- Radiation bioeffects
+- radiation hardening
+- Radiation injury assessment
+- Radiation transport
+- Radicalisation
+- Radicalization
+- RADIO COMMUNICATION
+- Radio environment map
+- Radio environmental map
+- radio equipment
+- radio frequencies
+- Radio Frequency
+- radio frequency interference
+- Radio Frequency Weapons
+- Radio Frequency Weapons (RFW)
+- Radio jamming
+- Radio links
+- radio navigation
+- Radio networks
+- Radio propagation
+- Radio systems
+- Radio tomography
+- Radio-protectant
+- Radiofrequency interference
+- radiological
+- Radiology
+- Radiometry
+- Radioprotectant
+- Railroad tracks
+- Raised-pitot
+- Raman chemical imaging
+- Ramjet
+- Ramjet/ram-rocket
+- Random Modulations
+- Random noise
+- Random signals
+- Random walk
+- Range
+- Range gating
+- Range instrumentation
+- Range management and design
+- Range performance models
+- range prediction
+- RANS
+- Rapid
+- Rapid prototyping
+- Rapid reaction engagement
+- Rare earth
+- Rare earth lasers
+- Rarefied flow
+- Raw materials
+- ray tracing
+- RCR
+- RCS
+- RCS modeling
+- RCS prediction codes
+- Re-use
+- Reachback
+- Reaction (psychology)
+- Reactive coatings
+- Readiness
+- Real time operations
+- Real-time intrusion detection
+- Real-time optimization techniques
+- Real-time tracking of multiple mobile objects
+- Reasoning
+- Recognition
+- Recognition and Identification (DRI)
+- Recognition range
+- Recommendation
+- recommendations
+- Reconciliation
+- reconnaissance
+- Reconnaissance (ISR)
+- Reconnaissance and security
+- Reconnaissance Sensor cross cueing
+- Reconnaissance vehicles
+- Recording
+- Records
+- Recovery
+- Recruiting
+- Recruitment
+- Recruitment of women
+- Red teaming
+- Reduced impact
+- Reduced order model
+- Reduced-order modelling
+- Reentry systems
+- Reentry thermophysics
+- Reference architecture
+- Reflectance
+- Reflection
+- Reflective band irradiance
+- Reflectivity
+- Refractive index
+- Regenerative electrical energy storage systems
+- Registration of point clouds
+- Regulation
+- regulations
+- Rehabilitation
+- Release
+- Release mechanisms
+- Reliability
+- Reliability centred maintenance
+- Religiosity
+- Relocatable targets
+- Relocation
+- Remediation
+- remote control
+- Remote Piloted Vehicle (RPV)
+- remote sensing
+- Remote sensing & recognition
+- Remotely operated vehicles
+- Remotely piloted vehicles
+- Repair
+- Replacement
+- Replacements
+- Reporting
+- Reporting Responsibility (R2)
+- Representation
+- Representativeness
+- Request/response
+- Requirement elucidation
+- requirements
+- rescue operations
+- research
+- Research and engineering
+- Research compliance
+- Research framework
+- research management
+- Research programmes of work
+- Research programs
+- research projects
+- Reserve Force
+- Residual life prediction
+- Resilience
+- Resiliency
+- Resistance
+- Resolution
+- Resource discovery
+- Resource management
+- resources
+- Resources repository
+- Resourcing strategies
+- Respiration
+- Respirator
+- Responses
+- Responsiveness
+- REST
+- Retention
+- Retro-reflection
+- Retrogression
+- Reusability
+- Reuse
+- Reuse of M&S Resources
+- reviewing
+- reviews
+- Revolving wing
+- reynolds number
+- Reynolds-averaged Navier-Stokes 0equations Seakeeping
+- RF
+- RF Attack Detection
+- RF Coupling
+- RF front ends
+- RF sensors
+- RF spectrum
+- RFC (Regenerative Fuel Cell)
+- RGPO (Range Gate Pull Off)
+- Right-wing extremism
+- ring lasers
+- risk
+- Risk analysis
+- Risk and uncertainty
+- Risk assessment
+- Risk management
+- Risk mitigation
+- Risk perception
+- Risk tolerance
+- Risk-assessment
+- Risk-based planning
+- Risk-based VV&A
+- road traffic accidents
+- Roadmap
+- roadmaps
+- Robot-robot interaction
+- robotics
+- robots
+- Robustness
+- ROC
+- Rocket engine with gelled propellant
+- Rocket signatures
+- Role 1
+- Role 2
+- Role 3
+- Role specialization
+- Root locus
+- Rosette Scan Seekers (RSS)
+- rotary wing aircraft
+- Rotary-wing aircraft
+- Rotational motion
+- Rotorcraft
+- Roughness
+- Route
+- Route clearance
+- Route search
+- Route threat
+- routing
+- Routing protocol
+- RPAS
+- RSO characterization
+- RTI (Run Time Infrastructure)
+- RTO Task Group
+- Rule of law
+- Runway condition reading
+- Runway friction
+- Russia
+- Russo-Ukraine war
+- S&T Advice
+- Sabotage
+- Safe Distance
+- Safe remaining life
+- Safe-life methodology
+- safety
+- safety engineering
+- Safety Management Systems
+- Safety planning
+- Safety standards
+- Sagnac effect
+- Salafism
+- Salaries
+- Sample preparation
+- sampling
+- Sampling error
+- Sand
+- sands
+- SAR
+- SAR image simulation
+- SAR signatures
+- SATCOM
+- satellite
+- Satellite and sensor protection
+- Satellite Communication (SATCOM)
+- Satellite communications
+- Satellite constellations
+- Satellite navigation
+- Satellite On-The-Move (SOTM)
+- Satellite platform
+- Satellite Sensors
+- Satellite systems
+- Satellites
+- Satisfaction
+- SATRAN
+- SBA (Simulation Based Acquisition)
+- SBES Tip vortex
+- Scalability
+- Scaling effects
+- Scarcity of materials
+- scattering
+- scenario
+- Scenario analysis
+- Scenario development
+- Scenario-based
+- Scenario-based discussion
+- scenarios
+- Scenarios assessments
+- Schedule
+- scheduling and coordination
+- Schema
+- Science
+- Science and Technology
+- Scientific advice
+- Scientific computing
+- Scientist
+- scintillation
+- Scramjets
+- Screening
+- SDR
+- sea clutter
+- Sea dumping
+- sea states
+- Sea Vehicles
+- sea water
+- SEAD
+- SEAD (Suppression of Enemy Air Defence)
+- Seakeeping
+- Search and rescue
+- searching
+- Seasickness
+- Secure
+- Secure communication
+- Secure Networks
+- Securing heterogeneous tactical networks
+- security
+- Security and compliance
+- Security challenges
+- Security governance
+- security studies
+- Sedation
+- Sedentariness
+- Seeker
+- segmentation
+- Seismic
+- Seismic arrays
+- Seismic detection
+- Seismometers
+- SELECTION
+- Selection procedures
+- Selective corrosion
+- Self Propulsion
+- Self protection
+- Self situation assessment
+- Self-care
+- Self-interference cancellation
+- Self-protection ECM
+- Semantic analysis
+- Semantic descriptions
+- Semantic interoperability
+- Semantic Interoperability Logical Framework (SILF)
+- Semantic nets
+- Sense-making
+- Sensemaking
+- Senses
+- Sensing
+- Sensitive equipment
+- sensitivity
+- Sensitivity analysis
+- sensor
+- Sensor characteristics
+- Sensor data
+- Sensor dazzle
+- Sensor dazzle computer modeling
+- Sensor degradations
+- sensor exploitation
+- sensor fusion
+- Sensor integration
+- Sensor management
+- Sensor modelling
+- Sensor performance
+- Sensor selection
+- Sensor simulation
+- Sensor systems
+- sensor technologies
+- sensors
+- Sensory testing
+- Separated flows
+- Separation
+- Separation testing
+- Sequential quadratic programming
+- Service discovery
+- service life
+- Service oriented
+- Service Oriented Architecture (SOA)
+- Service-Level Agreements (SLAs)
+- Service-Oriented
+- Service-Oriented Architecture
+- Service-Oriented Architecture (SOA)
+- Sex
+- Sexual assault
+- Sexual harassment
+- Sexual misconduct in military
+- Sexual violence
+- SFOR (Stabilization Force)
+- SFP
+- Shallow water
+- Shallow water maneuver
+- Shape
+- Shared awareness
+- Shared resilience
+- Shared resources
+- Shared situation awareness
+- Shared-use spectrum management
+- Sharing
+- Sharing of information
+- Shear Stress Transport turbulence model
+- Shielding Flap
+- Ship airwake
+- Ship decks
+- Ship design
+- Ship exhaust
+- Ship hulls
+- Ship maneuvering
+- Ship models
+- Ship motion
+- Ship radar signature
+- Ship radar signature prediction
+- Ship self-defence
+- Ship self-defense
+- Ship signature control
+- Ship signature management
+- Ship signature measurement
+- Ship signature monitoring
+- Ship signature trials
+- Ship signatures
+- Ship susceptibility
+- Ship synthesis model
+- Ship-helicopter operating limitstesting
+- Shipboard landing
+- Shipboard launch and recoveryof helicopters
+- Shipborne helicopter
+- ShipIR
+- ships
+- Shock wave
+- Shock wave boundary layer interaction
+- shock waves
+- Shock-induced separated flow
+- Shocks
+- Shockwave
+- Shockwaves
+- SHOL (Ship Helicopter Operating Limitations)
+- SHOL (Ship HelicopterOperating Limitations)
+- Shooting simulator
+- SHORAD (Short Range Air Defence)
+- SHORAD (Short Range Air Defense)
+- Short Range Air Defence (SHORAD)
+- Short term
+- Short-wave infrared
+- Short-Wave IR/SWIR
+- Shortfalls
+- Shortwave infrared
+- Shortwave infrared.
+- Shot
+- Shot peening
+- Shoulder
+- Sidelobes
+- SIGINT
+- Signal analysis
+- Signal intelligence challenges
+- signal processing
+- Signal processing and fusion algorithms
+- Signal processing.
+- signal-to-noise ratio
+- Signature
+- Signature dynamics
+- Signature management
+- Signature Management System (SMS)
+- Signature measurement
+- Signature measurements
+- Signature modelling
+- Signature reduction
+- signatures
+- Signs and symptoms
+- Silent mobility
+- Silent watch
+- SILF
+- Silicon carbide batteries
+- SIMEDIA
+- Similarities
+- Simple terramechanics
+- Simulation
+- Simulation analysis
+- Simulation Architecture
+- Simulation based acquisition
+- Simulation credibility
+- Simulation Environments
+- Simulation facilities
+- Simulation interoperability
+- Simulation Interoperability Standards Organisation (SISO)
+- Simulation System (SimSys)
+- Simulation Wargaming
+- Simulation-based design optimization
+- Simulation-based training
+- Simulator sickness
+- simulators
+- Simultaneous Localization and Mapping (SLAM)
+- SINEX
+- Single fuel concept
+- Single fuel policy
+- Single source
+- Single-photon detectors
+- Single-photon sources
+- SISO
+- Situation assessment
+- Situation awareness
+- Situational awareness
+- Situational wareness
+- Skill categories
+- Skills
+- Skills and assets
+- Skin (anatomy)
+- Sky wave
+- sleep
+- Sleep and alertness
+- sleep deprivation
+- Slow and Small
+- Slow and Small (LSS)
+- SMADEF
+- Small arms
+- Small calibre.
+- Small craft
+- Small rocket motors
+- Small satellite
+- Small satellites
+- Small UAS
+- Small Unmanned Aircraft
+- Small-arms ranges
+- Smaller scale contingencies
+- Smallsat
+- Smart adversary
+- Smart antennas
+- Smart Defence
+- Smart defence initiative
+- Smart sensors
+- Smart skins
+- Smart textiles
+- smoke
+- Smoke classification
+- Smoke point
+- Smooth-surface separation
+- Sniper
+- Sniper detection
+- SOAP
+- Social
+- Social and behavioral
+- Social and cultural
+- Social computing
+- Social influence
+- Social Media
+- Social networks
+- Social science
+- Societies
+- Socio-economic
+- Socio-technical enterprise
+- Socio-Technical System (STS)
+- Socio-technicalsystem
+- Sociology
+- sociotechnical
+- SOF
+- Soft Body Armour
+- Soft OA
+- Soft operational research
+- Soft OR
+- Soft-skinned vehicles
+- Softkill
+- Software communications architecture
+- Software Communications Architecture (SCA)
+- Software defined
+- Software Defined Radio (SDR)
+- software development
+- software engineering
+- Software engineering process
+- Software management
+- Software radar
+- Software reuse
+- Software-defined radio
+- Soil
+- Soil and water sampling
+- Soil contact model
+- Soil properties
+- Soil sampling
+- Soil tests
+- Soldier cognition
+- Soldier combat effectiveness and efficiency
+- Soldier power
+- Soldier system energy profile
+- Soldier-weapon system
+- Solid fuel ramjet
+- Solid oxide
+- solid propellant rocket engines
+- Solid rocket (single-/multi-pulse)
+- solid rocket propellants
+- Solid rocket propulsion
+- Solid state power amplifiers
+- Solid-state recording
+- Solution Solicitation Sessions
+- Solution strategies
+- sonar
+- Sonobuoys
+- SoSI (System of Systems Integration)
+- Sound diffraction
+- sound localization
+- Sound pressure
+- Sound propagation
+- Sound reflection
+- Sound refraction
+- Sound shielding
+- Sounds Transient
+- Source reliability
+- Space
+- Space advisory group
+- space based radar
+- Space borne SAR-missions
+- Space coverage
+- Space debris
+- Space domain
+- Space domain awareness
+- Space Domain Awareness (SDA)
+- Space environment
+- Space focused
+- Space missions
+- Space object surveillance
+- Space Object Tracking (SOT)
+- Space operation
+- Space operations
+- Space related
+- Space research
+- Space science
+- Space situational awareness
+- Space Situational Awareness SSA
+- Space surveillance
+- Space Surveillance and Tracking
+- Space Surveillance and Tracking (SST)
+- Space systems
+- Space Time Adaptive Processing (STAP)
+- Space weather
+- Space weather effects
+- Space-based radar
+- Space-borne systems
+- Space-time adaptive processing
+- Space-Time Adaptive Processing (STAP)
+- Spaceborne detectors
+- Spaceborne radar
+- spacecraft
+- spacecraft design
+- Spacecraft materials
+- Spacecraft power
+- spacecraft propulsion
+- Spacecraft robotics
+- spacecraft structures
+- Spacecraft systems
+- Spalart-Allmaras turbulence model
+- Spare parts
+- Spark source
+- Sparse aperture arrays
+- Sparse array
+- Sparse signal processing
+- Sparse signal reconstruction
+- Spatial disorientation
+- Spatial information
+- Spatial orientation
+- spatial resolution
+- Speaker recognition
+- Special Forces
+- Special Forces (SF)
+- Special Operations Forces
+- Special Operations Forces (SOF)
+- Special purpose rations
+- specifications
+- Spectral analysis
+- Spectral containment
+- Spectral contrast
+- Spectral efficiency
+- Spectroscopy
+- Spectrum allocation
+- Spectrum allotment
+- Spectrum assignment
+- Spectrum awareness
+- Spectrum Awareness & monitoring
+- Spectrum management
+- Spectrum regulation
+- Spectrum scarcity
+- Spectrum Sharing
+- speech
+- Speech analysis
+- speech recognition
+- Speech technology
+- Speed loss
+- Speed of light weapons
+- spinal cord
+- Spine
+- Spine (anatomy)
+- Spirituality
+- Spoofing
+- Sport psychology
+- Sprains and strains
+- Spread spectrum
+- SQUIRREL
+- SSA
+- SSC (Small Scale Contingency)
+- SST
+- SSTAG
+- Stabilisation
+- stability
+- Stability and control
+- Stability operations
+- Stacks
+- STAD (Soldier Target Audience Description)
+- Staff effectiveness
+- Staff Training
+- Stakeholder engagement
+- Stakeholders
+- Stalling
+- STANAG
+- STANAG 3747
+- STANAG 4285
+- STANAG 4569
+- STANAG 4686
+- Stand-off
+- Stand-off detection
+- Stand-off detection of explosives
+- Stand-off detectors
+- Standard
+- Standard Agreements
+- Standard Compliance Certification
+- Standard performance metrics
+- Standardisation
+- standardization
+- Standardization Agreement (STANAG)
+- Standardization.
+- standards
+- Standards Developing Organization
+- Standards Development
+- Standards Maintenance
+- Standoff detection
+- Stanton number
+- Staring imagers
+- State actors
+- State of charge
+- State of the art reviews
+- statistical analysis
+- Statistical classifiers
+- Statistical data
+- Statistics
+- STB strategic initiative
+- Steady aerodynamics
+- Steady-state testing
+- Stereo camera
+- Stimulus (psychophysiology)
+- Stochastic modeling
+- Stochastic optimization
+- Stockpile management
+- Stockpiles
+- Storage
+- Storage batteries
+- storage stability
+- Storytelling
+- STRADIVARIUS
+- Straight flight
+- Strain sensing
+- Strategic Communications
+- Strategic environment
+- Strategic evacuation planning
+- Strategic foresight
+- Strategic goals
+- Strategic level
+- Strategic operations for the destruction of critically important targets
+- Strategic planning
+- Strategic technology development
+- strategy
+- Strategy map
+- Strategy.
+- Strength
+- Stress (physiological and psychological)
+- stress (physiology)
+- stress (psychology)
+- stress corrosion cracking
+- Stress management
+- Stress reactions
+- Stress-Corrosion Cracking (SCC)
+- stresses
+- Stressors
+- Strike warfare
+- Strippable coating
+- structural analysis
+- structural design
+- Structural Health Monitoring
+- Structural health/life management
+- Structural integrity
+- Structural life
+- Structural similarity index metric
+- structural vibration
+- structural weight
+- Structure
+- Structure deformation
+- Structure integrated antennas
+- Structured analytic techniques
+- Structures
+- Sub-threshold activities
+- Sublimating chemicals
+- Submarine
+- Submarine rescue planning
+- Submarines
+- Substitute materials
+- Substitution Supply chain
+- Successful
+- Suicide
+- Suicide terrorists
+- Sulfur organic compounds
+- Super-resolution
+- Supercontinuum
+- Supercontinuum generation
+- supersonic flow
+- Supervisory Control
+- Supply chain
+- Supply management
+- Supply risks
+- Support Chain
+- Support to operations
+- Supportability
+- Suppression of enemy air defences
+- Suppression of Enemy Air Defences (SEAD)
+- Surface ablation
+- Surface acoustic waves
+- surface properties
+- Surface ships
+- Surface targets
+- Surface temperature modeling
+- Surface temperatures
+- surface to air missiles
+- Surface-ship course keeping
+- Surface-water sampling
+- Surge limit
+- Surrogate modeling
+- surveillance
+- Surveillance and early warning
+- Surveillance and Reconnaissance (ISR)
+- Surveillance drones
+- Surveillance methodologies for energetic materials
+- Surveillance sensing
+- Surveillance systems
+- Surveillance.
+- Survey
+- Survey instrument
+- Survey quality
+- Surveying instruments
+- surveys
+- survivability
+- survival
+- Survival at sea
+- survival equipment
+- Survival training
+- Susceptibility
+- Susceptibility testing
+- Suspicious/anomalous event detection
+- Sustainable aviation
+- Sustainable design
+- Sustainment
+- Swarm
+- Swarm control
+- Swarm networking
+- Swarm operations
+- Swarm system
+- Swarming systems
+- SWATH (Small Water Area Twin Hull)
+- Sweeping jets
+- swept wings
+- SWG/4
+- Swimming failure
+- SWIR
+- SWIR (Shortwave Infrared)
+- SWIR calibration
+- SWIR metrics
+- Swux meter
+- Symbiotic human-RAS teaming
+- Symbology
+- Symbology.
+- symbols
+- Symmetric and Asymmetric Threat Mitigation
+- Synthetic
+- Synthetic aperture antennas
+- synthetic aperture radar
+- Synthetic Aperture Radar (SAR)
+- Synthetic biology
+- Synthetic data generation
+- Synthetic display
+- Synthetic environment
+- Synthetic environment based acquisition
+- Synthetic Environment for Assessment (SEA)
+- Synthetic environments
+- Synthetic imagery
+- Synthetic jet fuel
+- Synthetic training
+- System acquisition
+- System architecture
+- System concepts
+- System design
+- System Engineering
+- System factors and usability
+- System identification
+- System integration laboratories
+- System models
+- System of systems
+- System of systems design
+- System performance
+- System-of-systems
+- Systematic literature review
+- Systems
+- systems analysis
+- Systems analysis and studies
+- Systems biology
+- Systems engineering
+- systems integration
+- Systemsthinking
+- TaaS
+- tacan
+- Tactical
+- Tactical analysis
+- Tactical Ballistic Missile (TBM)
+- Tactical command and control
+- tactical communications
+- Tactical data communication
+- Tactical data link
+- Tactical data systems
+- Tactical Decision Aid
+- Tactical Decision Aid (TDA)
+- Tactical decision aiding
+- Tactical domain
+- Tactical Evaluation
+- Tactical Information Fusion (TIF)
+- Tactical level
+- Tactical levels of mobility
+- Tactical network characteristics
+- Tactical Networks
+- Tactical operations
+- Tactical power production.
+- Tactical radio
+- Tactical situation analysis
+- Tactical warfare
+- tactics
+- Tactile display
+- Tactile displays
+- Tactile modality
+- Tactile sensing
+- Takfir
+- Tanker
+- target acquisition
+- Target classification
+- target detection
+- Target discrimination
+- Target identification
+- Target in the loop
+- target recognition
+- Target signature
+- Target signatures
+- Target task metrics
+- Target tracking/recognition
+- targeting
+- targets
+- Task analysis
+- Task Articulation
+- Task domains
+- Task planning
+- Taxi test
+- Taxonomy
+- TBC health
+- TDA (Tactical Decision Aids)
+- TDL
+- TDOA (Time Difference of Arrival)
+- TDOA systems
+- Team
+- Team effectiveness
+- Team effectiveness.
+- Team modeling
+- Teams (Personnel)
+- Teamwork
+- Technical Evaluations
+- Technical Readiness Assessment
+- Techniques
+- Techniques and Procedures (TTP)
+- Techniques and Procedures (TTPs)
+- Techniques generator
+- Technological and operational
+- Technological change
+- Technological developments
+- technologies
+- Technologies verification
+- technology
+- technology assessment
+- Technology card
+- Technology demonstrations
+- Technology development
+- Technology Focus Areas
+- Technology forecast
+- Technology foresight
+- Technology game card
+- Technology gaps
+- Technology management
+- Technology projection
+- Technology readiness level
+- Technology Readiness Levels (TRLs)
+- Technology Readiness Levels(TRL)
+- Technology reviews
+- technology transfer
+- Technology Watch
+- Tele-textiles
+- telemedicine
+- Telephone systems
+- Telepresence
+- television systems
+- TEMOIN
+- Temperate regions
+- temperature
+- Templates
+- Tempo
+- Terahertz imaging of explosives
+- Terahertz spectroscopy
+- Terahertz time domain spectroscopy
+- terminology
+- terrain
+- Terrain Deformation
+- Terrain Service
+- Terrain types
+- Terramechanics
+- TerraSAR-X
+- Terrestrial Trunked Radio (TETRA)
+- Territorial defence forces
+- Terrorism
+- Terrorist actor description
+- Test and evaluation
+- Test cell instrumentation
+- Test environment
+- test equipment
+- test facilities
+- Test inspector.
+- Test method
+- Test methodology
+- Test procedure
+- Test standards
+- Test techniques
+- Testing
+- Testing and assessment
+- Testing and evaluation
+- Testing methodologies
+- tests
+- Text analytics
+- Textiles
+- Texture
+- TFAs
+- Theater level operations
+- Theatre frequency management cell
+- Theatre missile defence
+- Thematic Analysis
+- Theme-Issue-Capability
+- Therapeutics
+- therapy
+- Thermal imager
+- Thermal imagers
+- Thermal imaging
+- Thermal infrared
+- Thermal injury
+- Thermal Management
+- Thermal manikins
+- Thermal models
+- Thermal protection systems
+- thermal radiation
+- Thermal strain
+- Thermal strain management
+- Thermoelastic
+- Thermoelectric
+- Thermophotovoltaics
+- thermoregulation
+- thorax
+- Threat
+- Threat and risk analysis
+- threat assessment
+- Threat characterization
+- Threat evaluation
+- Threat mitigation
+- Threat networks
+- Threat simulation
+- Threats
+- Three-dimensional (3D) radar
+- Threshold
+- Throttleable ducted rocket
+- Through
+- Through-wall SAR
+- Thrust loss
+- thrust vector control
+- Thrust Vector Control (TVC)
+- THz imaging
+- THz wave
+- THz wave sensing
+- TICNET (Tactical Interoperable Communications Networks)
+- TICs
+- TIF image format
+- Tilt rotor
+- Tiltrotor
+- Time of arrival
+- Time series analysis for exploitation.
+- Time to detection
+- Timeliness
+- Titled configuration
+- Tobacco use
+- TOD
+- TOD (Triangle Orientation Discrimination)
+- tolerances (mechanics)
+- Tolerances (physiology)
+- tomography
+- Tone mapped images
+- Tools
+- Tools.
+- Topology
+- Topology control
+- Torpedo countermeasures
+- Torpedo detection
+- Total costs
+- Total defence
+- Total life-cycle costs
+- Total Ship Systems Engineering (TSSE)
+- Totally Enclosed Motor-Propelled Survival Craft (TEMPSC)
+- Touch
+- towed bodies
+- Towing tank
+- Towing tankWave basin
+- Toxic
+- Toxicity assessments
+- Toxicology
+- TPM
+- Track before detect
+- Track fusion
+- tracking
+- TRACKING (POSITION)
+- Tracking algorithm
+- Tracking algorithms
+- Tracking.
+- Trade off analysis
+- Trade space
+- Trade-off study
+- Trades
+- Traditional Chinese medicine
+- Traffic
+- Trafficability
+- Training
+- Training and education
+- Training and simulation
+- Training measures
+- Training scenarios
+- Trajectography
+- Trajectory Determination
+- Trajectory generation
+- Transaction costs
+- transcranial electrical stimulation
+- transcranial focused ultrasound
+- transcranial magnetic stimulation
+- transcutaneous peripheral nerve stimulation
+- Transfer learning
+- Transformation
+- Transformation products
+- Transformative
+- Transition
+- Transmittance
+- Transmitter localization
+- transmitters
+- Transonic
+- Transonic characteristics
+- transport
+- transport aircraft
+- Transport services
+- Transportation
+- Trauma spectrum response
+- traumatic disorders
+- Travelling Ionospheric Disturbance (TID)
+- Traversing pitot
+- TraversingUnmanned flight simulationWind tunnel testing
+- Treatment
+- Treatment of Battle Wounds
+- Trend analysis
+- trends
+- Triage and diagnosis
+- Trial
+- Trials
+- Trident Javelin
+- Trident juncture
+- Triggers to treat
+- Trimaran
+- TRM3
+- Tropical regions
+- Trucks
+- Trust
+- Trust management
+- TSPI (Time and Space Position Information)
+- Tunable detectors
+- turbine blades
+- Turbine components
+- Turbine cooling blockage
+- Turbine engine instrumentation
+- turbulence
+- Turbulence model
+- Turbulence.
+- Turbulent flow on blunt bodies
+- Turning Circles
+- Turnover
+- Tutorial
+- UAS
+- UAS manoeuvres
+- UAS operations
+- UAS/UAV4
+- uav
+- UAV (Unmanned Aerial Vehicle)
+- UAV (Unmanned Aerial Vehicles)
+- UCATT
+- UCAV
+- UGS
+- UHF Antenna systems for SATCOM applications
+- UK National Risk Assessment
+- Ukraine
+- Ultra-violet
+- Ultrashort pulse lasers
+- Ultraviolet
+- Ultraviolet detection
+- Ultraviolet detectors
+- Ultraviolet radiation
+- Ultraviolet signatures
+- UMV (Uninhabited Military Vehicle)
+- Unattended Ground Sensor (UGS)
+- Unattended sensing
+- Uncertainties
+- uncertainty
+- Uncertainty communication
+- Uncertainty estimation
+- Uncertainty propagation
+- Uncertainty Quantification
+- Unconscious bias
+- Unconventional enemy
+- Unconventional warfare
+- Uncooled imaging infrared detectors
+- Uncrewed
+- Undersampled systems
+- undersea surveillance
+- Undersea warfare
+- Underwater communications
+- Underwater life support systems
+- Underwater light
+- Underwater signatures
+- Underwater tracking
+- Unified performance model
+- Unified Vision 2014
+- Uniform corrosion
+- Uniforms
+- Uninterruptible power supplies
+- Unit climate
+- Unit effectiveness
+- United Nations
+- Universal armaments interface
+- unmanned
+- Unmanned aerial systems
+- unmanned aerial systems (UAS)
+- Unmanned Aerial Vehicle
+- Unmanned Aerial Vehicle (UAV)
+- Unmanned aerial vehicles
+- Unmanned Air Vehicle (UAV)
+- Unmanned air vehicles
+- Unmanned aircraft
+- Unmanned aircraft system
+- Unmanned Aircraft System (UAS)
+- Unmanned autonomous systems
+- Unmanned autonomous vehicles
+- Unmanned Combat Air Vehicle (UCAV)
+- Unmanned Combat Aircraft System (UCAS)
+- Unmanned combat systems
+- Unmanned Ground Systems (UGS)
+- Unmanned ground vehicle
+- Unmanned Ground Vehicle (UGV)
+- Unmanned Ground Vehicles (UGV)
+- Unmanned platform systems
+- Unmanned platforms
+- Unmanned Surface Vehicle (USV)
+- Unmanned Systems
+- Unmanned Underwater Vehicle (UUV)
+- Unmanned vehicles
+- Unpiloted aerial vehicles
+- unsteady aerodynamics
+- Unsteady aerofoil theory
+- Unsteady CFD
+- unsteady flow
+- Unstructured Information Management Architecture (UIMA)
+- Unstructured text information
+- Urban
+- Urban areas
+- Urban clutter
+- Urban Conceptual Framework
+- Urban Environment
+- Urban Operations
+- Urban patrolling
+- Urban pollutants
+- Urban System Concept
+- Urban terrain
+- Urban warfare
+- US space policy
+- USA
+- Usage monitoring
+- Use Case analysis
+- Use Cases
+- Use risk
+- Use risk analysis
+- Use risk identification
+- Use risk mitigation
+- USECT (Understand
+- Useful life of munitions
+- User Interface.
+- user requirements
+- USMC Brute Krulak Center
+- USW (Urban Seminar Wargame)
+- Utility
+- Utilization
+- UWB (Ultra WideBand)
+- V & V (Verification and Validation)
+- V&V (Verification and Validation)
+- validation
+- Validation & Acquisition
+- Validation and Verification
+- Validity
+- Valley of Death
+- Values
+- Values and trade-offs
+- Variable costs
+- Vector
+- Vector data
+- Vector-borne
+- Vegetation
+- vehicle
+- Vehicle cone index
+- Vehicle control point
+- Vehicle detection
+- Vehicle dynamics
+- Vehicle hand-offs
+- Vehicle management systems
+- Vehicle terrain interface
+- Vehicle’s signature
+- velocity measurement
+- Velocity/damping plots
+- Veracity
+- Verification
+- Verification and Certification)
+- Verification and validation
+- Verification inspection
+- Verifying
+- Verilog
+- Versatile Tracking System
+- Versatility
+- Vertebrae
+- Vertical Lift
+- Very high frequencies
+- Vesicant
+- Vesicants
+- Vestibular
+- Veteran.
+- Veterans
+- VGPO (Velocity Gate Pull Off)
+- VHF omnidirectional range
+- VHSIC hardware description language
+- Viable bacteria
+- vibration
+- Vibration analysis
+- Vibration exposure
+- Vibration monitoring
+- Vibration sensors
+- Vibration suppression
+- Vibration testing
+- Vibrology
+- Video analytics.
+- Video quality metrics
+- Video services
+- Video simulation
+- Vignettes
+- Violence
+- Virtual
+- Virtual and Constructive (LVC)
+- Virtual battlespace
+- Virtual environments
+- Virtual laboratory
+- Virtual life cycles
+- Virtual prototypes
+- VIRTUAL REALITY
+- Virtual team performance
+- VIRTUE
+- Virus
+- Visible light
+- Visionic systems
+- Visit-Board-Search-Seizure (VBSS)
+- Visual
+- visual aids
+- Visual analytics
+- Visual Attributes
+- Visual camouflage
+- Visual change detection
+- Visual displays
+- Visual inspection
+- VISUAL PERCEPTION
+- Visual reconnaissance
+- Visual signature suppression
+- Visualisation
+- Visualisation techniques
+- Visualisation technologies
+- Visualization
+- Visualization techniques
+- Visualization technologies
+- Visually induced motion sickness
+- VITER
+- voice communication
+- voice control
+- Voice recognition
+- Volcanic
+- Volcanic ash
+- Volcanic ash maintenance
+- Volcanic cloud damage
+- Volcanic eruptions
+- von Kármán Horizon Scan
+- vortex breakdown
+- Vortex dynamics
+- Vortex Flow
+- Vortex flow breakdown/burst
+- Vortex flow.
+- Vortex flows
+- Vortex interactions
+- Vortex interactions and control
+- Vortex ring state
+- Vortex shedding
+- Vortex stability and breakouts
+- Vortex surfing
+- Vortical flow
+- Vortical flows
+- vortices
+- VPN (Virtual Private Network)
+- VR goggles
+- VTOL
+- vulnerability
+- Vulnerability assessment method
+- VV&A
+- VV&A (Verification
+- VV&A tailoring
+- VV&C (Validation
+- WAAS (Wide Area Augmentation System)
+- wakes
+- WALLS
+- war
+- war games
+- warfare
+- Warfare development
+- Warfighter
+- Warfighter operation
+- Warfighter performance
+- Warfighter systems
+- Wargame
+- Wargame integration
+- Wargames
+- Wargaming
+- Wargaming.
+- warning systems
+- Warship design.
+- Wartime experiences
+- Wash optimization
+- Washdown system
+- Waste disposal
+- Water entry
+- Water separation
+- Water-tunnel tests
+- WAVE PROPAGATION
+- Waveform
+- Waveform design
+- waveform diversity
+- Waveforms
+- Wavelets
+- Way ahead documents
+- Weapon
+- Weapon delivery
+- Weapon design
+- Weapon effect monitoring
+- Weapon engagement simulation
+- Weapon firing
+- Weapon identification
+- Weapon interface standards
+- Weapon localisation
+- Weapon systems
+- weapons
+- Weapons effect
+- Weapons effects
+- Weapons systems
+- wearable
+- Wearable electronics
+- Wearable.
+- weather
+- Weather Service
+- Web Services (WS)
+- WEBMEMS
+- Weight and balance
+- Well-being
+- Wellbeing
+- Wet runway
+- White-out
+- Whole defence workforce
+- Whole force approach
+- Whole-body vibration
+- Wide-angle display
+- Wildfire
+- WiMAX
+- Wind farm
+- Wind power
+- wind shear
+- Wind tunnel
+- Wind tunnel data
+- Wind tunnel test
+- Wind tunnel testing
+- wind tunnel tests
+- Wind Tunnel.
+- wind tunnels
+- Wind turbine
+- Wind-tunnel tests
+- wings
+- Wingships
+- Wingtip vortices.
+- Wireless
+- Wireless communication
+- Wireless communications
+- Wireless network
+- Wireless networks
+- Wireless power transfer
+- Witness plates
+- WLAN
+- WLAN (Wireless Local Area Network)
+- women
+- Women in ground combat
+- Word association
+- Word recognition
+- Words (language)
+- Work load
+- Work measurement
+- Workforce planning
+- Working memory
+- Workload
+- Workload measurement
+- Workloads
+- Workplace layout
+- Workshops
+- Workspace
+- Wound ballistics
+- Wounds
+- Wounds and injuries
+- WPAN (Wireless Personal Area Network)
+- WPS Agenda
+- WS-Notification
+- X-21
+- X-31
+- xDSL
+- Zapad
+- Zeeman effect
+- Zoonosis
