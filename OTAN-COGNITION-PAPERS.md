@@ -24,7 +24,7 @@ Esses documentos servem como referência para governos, forças armadas, pesquis
 
 ### :pushpin:**Documento/relatório intitulado The 21st‑Century Game Changer: Cognitive Warfare** (emitido pelo NATO Joint Warfare Centre)
 
--   Este relatório afirma que “o campo de batalha do século XXI” poderá incluir o que chamam de “cognitive dimension” como um novo domínio de guerra — ao lado de domínios tradicionais. [jwc.nato.int](https://www.jwc.nato.int/application/files/7216/9804/8564/CognitiveWarfare.pdf?utm_source=chatgpt.com)
+-   Este relatório afirma que “o campo de batalha do século XXI” poderá incluir o que chamam de “cognitive dimension” como um novo domínio de guerra — ao lado de domínios tradicionais. [jwc.nato.int]([https://www.jwc.nato.int/application/files/7216/9804/8564/CognitiveWarfare.pdf?utm_source=chatgpt.com](https://www.jwc.nato.int/wp-content/uploads/2024/12/selects-klaauw.pdf))
     
 -   Argumenta que a guerra cognitiva pode ser usada para atingir indivíduos, grupos ou sociedades inteiras. E que os efeitos podem não ser cinéticos, mas disruptivos em termos de coesão social, tomada de decisão, confiança institucional etc. [jwc.nato.int](https://www.jwc.nato.int/application/files/7216/9804/8564/CognitiveWarfare.pdf?utm_source=chatgpt.com)
     
