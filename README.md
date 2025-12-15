@@ -4,6 +4,7 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 
 ---
 
+### 🔹 NATO - STO (Science and Technology Organization)
 ### 🔹 DEW (Direct Energy Weapons)
 ### 🔹 HPM (High Power Microwave)
 ### 🔹 MASER (Microwave Amplification by Stimulated Emission of Radiation)
