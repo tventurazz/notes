@@ -15,7 +15,7 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ### 🔹 Frey Effect
 ### 🔹 Síndrome de Havana ou Anomalous Health Incidents (AHIs)
 ### 🔹 Imagined Auditory Phenomena
-### 🔹 Selective Auditory Phenomena
+### 🔹 Selective Auditory Attention
 ### 🔹 Necrose Térmica
 
 
