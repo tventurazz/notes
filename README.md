@@ -5,6 +5,15 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ---
 
 ### 🔹 NATO - STO (Science and Technology Organization)
+
+A NATO STO (Science and Technology Organization) é a principal agência de pesquisa científica e tecnológica da OTAN (Organização do Tratado do Atlântico Norte). Criada para promover a inovação e a colaboração científica entre os países membros, a STO atua como um ponto central para o desenvolvimento de tecnologias que apoiem capacidades militares e de defesa, garantindo que os aliados mantenham vantagem tecnológica em um ambiente global em constante evolução.
+
+O papel da STO inclui coordenação de pesquisas avançadas em áreas como sistemas de defesa, comunicações, inteligência, segurança cibernética, simulação e modelagem, bem como novos materiais e sensores. A organização não apenas conduz pesquisas próprias, mas também facilita a colaboração entre laboratórios nacionais, universidades e indústrias de defesa, promovendo a troca de conhecimento e evitando duplicação de esforços entre os países aliados.
+
+Além disso, a STO atua como um conselheiro científico da OTAN, fornecendo análises baseadas em evidências sobre tecnologias emergentes e tendências científicas. Isso permite que a aliança planeje estratégias de defesa de longo prazo, avalie ameaças tecnológicas e desenvolva capacidades militares de forma coordenada. Programas específicos da STO incluem conferências, workshops e grupos de trabalho especializados que permitem aos cientistas e engenheiros aliados compartilhar descobertas e acelerar a inovação.
+
+A relevância da STO se reflete também na sua capacidade de adaptar-se a novas ameaças, como guerra cibernética, inteligência artificial aplicada à defesa, e tecnologias disruptivas que podem impactar a segurança internacional. Por meio de sua atuação, a organização fortalece a interoperabilidade entre as forças aliadas e garante que a OTAN permaneça na vanguarda tecnológica, mantendo sua eficácia operacional e sua capacidade de resposta frente a desafios contemporâneos e futuros.
+
 ### 🔹 DEW (Direct Energy Weapons)
 ### 🔹 HPM (High Power Microwave)
 ### 🔹 MASER (Microwave Amplification by Stimulated Emission of Radiation)
