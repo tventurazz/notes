@@ -45,6 +45,17 @@ Por fim, o Efeito Frey representa um exemplo fascinante da interação entre rad
 
 ### 🔹 Síndrome de Havana ou Anomalous Health Incidents (AHIs)
 ### 🔹 Imagined Auditory Phenomena
+
+O conceito de Imagined Auditory Phenomena (IAP), ou Fenômenos Auditivos Imaginados, refere-se à experiência cognitiva de “ouvir” sons ou palavras internamente, sem que haja um estímulo auditivo externo real. Trata-se de uma forma de percepção auditiva interna que envolve tanto processos de memória quanto de imaginação, podendo se manifestar como palavras, frases, músicas ou outros sons reconhecíveis pela mente. Apesar de se assemelhar a ouvir sons reais, esses fenômenos são completamente gerados pelo cérebro e não dependem de estímulos do ambiente.
+
+Esses fenômenos são frequentemente estudados no contexto da psicologia cognitiva e neurociência, pois envolvem a ativação de regiões cerebrais ligadas à percepção auditiva, como o córtex auditivo primário e secundário. Durante a experiência de IAP, pesquisas de neuroimagem mostram padrões de ativação similares aos observados quando um som real é ouvido, embora a intensidade e a conectividade neuronal sejam geralmente menores. Isso sugere que a mente utiliza circuitos sensoriais reais para criar a sensação de som imaginado, mas de forma endógena, sem entrada externa.
+
+No âmbito clínico, os Imagined Auditory Phenomena podem se diferenciar de alucinações auditivas, que são percebidas como reais pelo indivíduo e muitas vezes associadas a condições psiquiátricas, como esquizofrenia. Nos IAP, o indivíduo geralmente reconhece que os sons são imaginados, mantendo consciência de sua origem interna. Por isso, eles são estudados também no contexto da linguagem interna ou inner speech, onde pensamentos verbais se manifestam como “voz interna” sem produção sonora externa.
+
+Além disso, os IAP desempenham um papel significativo em processos cognitivos normais, como memória auditiva, planejamento e criatividade. Por exemplo, músicos frequentemente utilizam IAP para ensaiar mentalmente peças musicais, e escritores podem “ouvir” diálogos internamente enquanto elaboram textos. Estudos sugerem que a habilidade de gerar esses fenômenos varia entre indivíduos e está relacionada a fatores como experiência musical, capacidade de visualização mental e controle executivo do cérebro.
+
+Por fim, a investigação sobre Imagined Auditory Phenomena contribui para a compreensão de como o cérebro integra percepção, memória e imaginação, oferecendo insights sobre a plasticidade neural e o funcionamento da consciência auditiva interna. Essa área continua a ser explorada para melhor diferenciar processos normais de percepção interna de manifestações patológicas, além de investigar como essa capacidade pode ser utilizada em treinamento cognitivo e desenvolvimento de habilidades criativas.
+
 ### 🔹 Selective Auditory Attention
 ### 🔹 Necrose Térmica
 
