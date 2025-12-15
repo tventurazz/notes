@@ -17,5 +17,5 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ### 🔹 Imagined Auditory Phenomena
 ### 🔹 Selective Auditory Attention
 ### 🔹 Necrose Térmica
-
+### 🔹 Inner Speech
 
