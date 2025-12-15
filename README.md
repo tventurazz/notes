@@ -5,3 +5,17 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ---
 
 ### 🔹 DEW (Direct Energy Weapons)
+### 🔹 HPM (High Power Microwave)
+### 🔹 MASER (Microwave Amplification by Stimulated Emission of Radiation)
+### 🔹 CogWar (Cognitive Warfare)
+### 🔹 SAR (Synthetic Aperture Radar)
+### 🔹 IR (Infrared)
+### 🔹 HIS (Hyperspectral Sensor)
+### 🔹 MicroWave/Photonics
+### 🔹 Frey Effect
+### 🔹 Síndrome de Havana ou Anomalous Health Incidents (AHIs)
+### 🔹 Imagined Auditory Phenomena
+### 🔹 Selective Auditory Phenomena
+### 🔹 Necrose Térmica
+
+
