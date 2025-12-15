@@ -32,6 +32,17 @@ As aplicações do SAR são amplas e diversificadas. No campo militar e de segur
 ### 🔹 HIS (Hyperspectral Sensor)
 ### 🔹 MicroWave/Photonics
 ### 🔹 Frey Effect
+
+O Efeito Frey, também conhecido como efeito auditivo por micro-ondas, é um fenômeno no qual a exposição a pulsos de radiação eletromagnética na faixa de micro-ondas induz a percepção de sons diretamente no ouvido humano, sem a necessidade de ondas sonoras mecânicas convencionais. Descoberto pelo cientista Allan H. Frey na década de 1960, esse efeito demonstrou que os seres humanos podem perceber sons quando expostos a certas frequências de micro-ondas moduladas em intensidade, mesmo na ausência de um estímulo acústico tradicional.
+
+O mecanismo subjacente ao Efeito Frey envolve a interação da radiação eletromagnética com os tecidos biológicos. Quando os pulsos de micro-ondas atingem a cabeça, eles provocam uma rápida expansão e contração do tecido cerebral e das estruturas próximas ao ouvido interno, gerando pequenas ondas de pressão que são interpretadas pelo cérebro como som. Esse som geralmente é descrito como um estalo, clique ou zumbido, dependendo da modulação da frequência e da intensidade do pulso de micro-ondas. A sensação sonora pode ocorrer em um ou ambos os ouvidos e é percebida como originária de dentro da própria cabeça, e não do ambiente externo.
+
+Estudos indicam que a frequência portadora das micro-ondas e a taxa de modulação são fatores cruciais para a percepção do efeito. Frequências na faixa de 300 MHz a 3 GHz são tipicamente associadas ao fenômeno, enquanto a modulação em torno de 10 a 20 Hz parece ser particularmente eficaz em produzir a sensação auditiva. Apesar de o efeito ser geralmente percebido como não doloroso, exposições mais intensas podem causar desconforto, sensação de pressão ou perturbações auditivas temporárias.
+
+Além do interesse científico fundamental, o Efeito Frey também gerou discussões sobre suas implicações em segurança e aplicações militares. Alguns estudos exploraram a possibilidade de utilizar micro-ondas direcionadas como uma forma de comunicação sem fio ou, teoricamente, como arma não letal para produzir sons percebidos por indivíduos sem o uso de dispositivos tradicionais de som. Contudo, os efeitos biológicos de exposições prolongadas ou intensas ainda não são completamente compreendidos, e a pesquisa continua sendo limitada devido a questões éticas e de segurança.
+
+Por fim, o Efeito Frey representa um exemplo fascinante da interação entre radiação eletromagnética e fisiologia humana, desafiando a concepção tradicional de como percebemos o som. Ele evidencia que os limites sensoriais humanos podem ser influenciados por estímulos não convencionais e que o corpo humano pode converter energia eletromagnética em percepção sensorial de maneiras surpreendentes, abrindo espaço para pesquisas em neurociência, bioengenharia e segurança.
+
 ### 🔹 Síndrome de Havana ou Anomalous Health Incidents (AHIs)
 ### 🔹 Imagined Auditory Phenomena
 ### 🔹 Selective Auditory Attention
