@@ -18,6 +18,24 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ### 🔹 Imagined Auditory Phenomena
 ### 🔹 Selective Auditory Attention
 ### 🔹 Necrose Térmica
+
+Necrose térmica por radiação térmica por micro-ondas é um tipo específico de lesão celular e tecidual resultante da exposição a micro-ondas, uma forma de radiação eletromagnética que possui uma frequência intermediária entre as ondas de rádio e a radiação infravermelha. A interação das micro-ondas com o corpo humano gera calor, o que pode resultar em necrose térmica se a intensidade ou a duração da exposição forem suficientes para ultrapassar os limites de tolerância térmica dos tecidos. Este tipo de necrose é amplamente estudado em contextos de queimaduras por micro-ondas, ablação de tecidos tumorais e efeitos biológicos em exposições acidentais.
+
+Mecanismo de Ação das Micro-ondas nos Tecidos
+
+As micro-ondas interagem com as moléculas polares, como as moléculas de água, presentes nos tecidos biológicos. Ao penetrar nos tecidos, a radiação micro-ondas excita essas moléculas, fazendo com que elas se movam rapidamente e gerem calor por meio de fricção molecular. Este processo é conhecido como aquecimento dielétrico. Como os tecidos humanos são compostos em grande parte por água, eles são especialmente susceptíveis a essa interação. A temperatura local aumenta progressivamente, causando a distorção das estruturas celulares e a desnaturação de proteínas essenciais para a função celular. À medida que as células sofrem danos, a integridade das membranas celulares é comprometida, levando à perda de função e morte celular.
+
+Alterações Celulares e Teciduais
+
+O aumento da temperatura celular devido à exposição às micro-ondas pode atingir níveis suficientes para causar danos irreversíveis. Temperaturas superiores a 43°C são capazes de causar o início do processo de necrose, e a partir de 60°C, a destruição celular torna-se praticamente imediata. O calor gerado pelas micro-ondas leva à desnaturação de proteínas, impedindo seu funcionamento adequado e interferindo em processos vitais como a síntese de ATP (energia celular). Além disso, as membranas celulares podem se romper, liberando conteúdo intracelular e causando inflamação local. Em níveis mais profundos de exposição, ocorre a coagulação das proteínas e a formação de uma massa celular compacta, mas irreversivelmente danificada, característica da necrose por coagulação.
+
+Quando a exposição é excessiva ou prolongada, podem ocorrer lesões de liquefação, com a formação de um fluido viscoso e rico em enzimas proteolíticas que facilitam a autólise dos tecidos. Além disso, a morte celular devido ao calor intenso pode prejudicar a circulação sanguínea local, resultando em isquemia (falta de oxigênio nos tecidos) e piorando ainda mais a necrose.
+
+Profundidade da Lesão
+
+A profundidade da necrose térmica causada por micro-ondas depende de vários fatores, como a intensidade da radiação, a duração da exposição e as propriedades térmicas dos tecidos. Tecidos superficiais, como a pele e as camadas mais externas da derme, são geralmente mais suscetíveis à radiação de micro-ondas, devido à sua menor condutividade térmica e maior densidade de água. No entanto, micro-ondas de alta intensidade ou exposições prolongadas podem penetrar nas camadas mais profundas do tecido, incluindo músculos, ossos e órgãos internos. Em casos de exposições muito intensas, a necrose pode atingir estruturas profundas, como nervos e vasos sanguíneos, prejudicando gravemente a função desses órgãos.
+
+
 ### 🔹 Inner Speech
 ### 🔹 MRI (Magnetic Ressonace Image)
 
