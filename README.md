@@ -66,6 +66,35 @@ A profundidade da necrose térmica causada por micro-ondas depende de vários fa
 
 
 ### 🔹 Inner Speech
+
+O termo **“inner speech”** (ou fala interior) refere-se à experiência subjetiva de “falar consigo mesmo” internamente, sem emitir sons audíveis. É um fenômeno cognitivo central na linguagem, no pensamento e na regulação do comportamento. Dentro do contexto de **Imagined Auditory Phenomena (IAP)** — fenômenos auditivos imaginados, ou seja, experiências auditivas que ocorrem sem estímulo sonoro externo — o *inner speech* é considerado uma forma específica de percepção auditiva interna.
+
+Aqui estão os pontos detalhados:
+
+1. **Natureza do inner speech**
+
+   * O *inner speech* é tipicamente a voz interna que usamos para formular pensamentos verbalmente, planejar ações ou auto-monitorar comportamentos.
+   * Ele envolve ativação de regiões cerebrais associadas à produção e compreensão da fala, incluindo áreas como **Broca, Wernicke, giro temporal superior e córtex pré-frontal**.
+
+2. **Relação com Imagined Auditory Phenomena**
+
+   * Dentro de IAP, *inner speech* é entendido como uma experiência auditiva interna que simula ouvir palavras ou frases sem som externo.
+   * Diferentemente de alucinações auditivas patológicas, *inner speech* normalmente é voluntário, controlável e reconhecível como uma produção própria.
+   * É uma forma de “audição imaginada”, em que o cérebro recria experiências auditivas a partir da memória ou da linguagem interna.
+
+3. **Funções cognitivas**
+
+   * Ajuda no **planejamento e resolução de problemas**, permitindo “ensaiar” verbalmente cenários antes de agir.
+   * Contribui para **autorregulação emocional** e **memória de trabalho**, pois permite organizar pensamentos de forma sequencial.
+   * Está associado à **consciência e reflexão**, funcionando como uma ponte entre pensamento abstrato e linguagem verbal.
+
+4. **Distinções importantes**
+
+   * *Inner speech* versus alucinação auditiva: o primeiro é reconhecido como próprio, o segundo é percebido como externo e muitas vezes involuntário.
+   * Pode variar em “claridade” e vividez: algumas pessoas o experimentam quase como ouvir sua própria voz externamente, outras de forma mais abstrata.
+
+Dentro do modelo de **Imagined Auditory Phenomena**, o *inner speech* é um tipo de experiência auditiva interna voluntária que contribui para pensamento, planejamento e monitoramento interno, representando uma simulação auditiva do próprio discurso.
+
 ### 🔹 MRI (Magnetic Ressonace Image)
 
 A Imagem por Ressonância Magnética (IRM) é uma técnica de diagnóstico por imagem não invasiva que utiliza campos magnéticos intensos e ondas de rádio para gerar imagens detalhadas de estruturas internas do corpo, especialmente tecidos moles, sem expor o paciente à radiação ionizante. O princípio físico baseia-se nos prótons do hidrogênio presentes na água e nos tecidos: quando expostos a um campo magnético forte, esses prótons se alinham com o campo. Pulsos de radiofrequência desviam os prótons desse alinhamento, e ao retornarem ao estado original, eles emitem sinais de rádio que são captados por receptores e processados por um computador para formar imagens em cortes axiais, coronais ou sagitais, podendo ser reconstruídas em 3D.
