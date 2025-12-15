@@ -10,6 +10,15 @@ Este glossário visa fornecer definições claras e concisas dos termos mais rel
 ### 🔹 MASER (Microwave Amplification by Stimulated Emission of Radiation)
 ### 🔹 CogWar (Cognitive Warfare)
 ### 🔹 SAR (Synthetic Aperture Radar)
+
+O SAR (Synthetic Aperture Radar) é um tipo de radar avançado utilizado para gerar imagens de alta resolução da superfície terrestre ou de objetos, independentemente das condições de iluminação ou climáticas. Ao contrário de radares convencionais, que dependem de antenas físicas grandes para obter boa resolução, o SAR cria uma “abertura sintética” combinando sinais refletidos ao longo do movimento do radar, simulando uma antena muito maior. Esse princípio permite que ele capture detalhes precisos mesmo com antenas relativamente pequenas.
+
+O funcionamento do SAR baseia-se na emissão de pulsos de micro-ondas que, ao atingirem o alvo, retornam como ecos. Esses ecos são coletados continuamente enquanto o radar se desloca — seja em satélites, aeronaves ou drones — e processados de forma a reconstruir imagens detalhadas. Esse processamento avançado é o que possibilita a alta resolução espacial característica do SAR, tornando-o eficaz em situações onde radares tradicionais seriam limitados.
+
+Entre suas principais vantagens, destacam-se a capacidade de operar independentemente da luz solar, permitindo observações tanto de dia quanto de noite, e a habilidade de penetrar nuvens, chuva e fumaça, graças ao uso de micro-ondas. Além disso, técnicas específicas, como a interferometria SAR (InSAR), permitem medir deslocamentos do solo com precisão milimétrica, oferecendo ferramentas valiosas para monitoramento geológico e ambiental.
+
+As aplicações do SAR são amplas e diversificadas. No campo militar e de segurança, ele é utilizado para vigilância e detecção de estruturas ou veículos ocultos. Na geologia e monitoramento de desastres naturais, permite acompanhar terremotos, deslizamentos e inundações. Setores como agricultura e florestas se beneficiam de sua capacidade de avaliar cobertura vegetal e umidade do solo, enquanto a oceanografia utiliza o SAR para monitorar correntes, ondas e icebergs.
+
 ### 🔹 IR (Infrared)
 ### 🔹 HIS (Hyperspectral Sensor)
 ### 🔹 MicroWave/Photonics
