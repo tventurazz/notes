@@ -15,7 +15,17 @@ Além disso, a STO atua como um conselheiro científico da OTAN, fornecendo aná
 A relevância da STO se reflete também na sua capacidade de adaptar-se a novas ameaças, como guerra cibernética, inteligência artificial aplicada à defesa, e tecnologias disruptivas que podem impactar a segurança internacional. Por meio de sua atuação, a organização fortalece a interoperabilidade entre as forças aliadas e garante que a OTAN permaneça na vanguarda tecnológica, mantendo sua eficácia operacional e sua capacidade de resposta frente a desafios contemporâneos e futuros.
 
 ### 🔹 DEW (Direct Energy Weapons)
+
+As armas de energia direcionada (DEWs) são sistemas capazes de emitir energia concentrada em forma de laser, micro-ondas ou partículas subatômicas para danificar, incapacitar ou destruir alvos a distância. Quando embarcadas em satélites, essas armas podem operar em órbita terrestre ou além, proporcionando capacidades estratégicas de ataque e defesa sem depender de projeção física tradicional, como mísseis. O princípio fundamental é converter energia elétrica em um feixe de energia altamente direcionado, capaz de atingir alvos com precisão extrema.
+
+Do ponto de vista operacional, satélites com DEWs podem ser usados para interferir em comunicações, desabilitar sensores eletrônicos, danificar satélites inimigos ou até incapacitar sistemas terrestres de alta tecnologia. Um satélite equipado com laser de alta energia, por exemplo, poderia cegar sensores ópticos de outro satélite ou danificar painéis solares, enquanto feixes de micro-ondas direcionados poderiam desestabilizar eletrônicos sensíveis em estações terrestres ou veículos aéreos. A versatilidade da energia direcionada permite ataques quase instantâneos sem o atraso de trajetórias balísticas.
+
+No âmbito estratégico e legal, o desenvolvimento e o uso de DEWs espaciais são objeto de intenso debate internacional. Tratados como o Tratado do Espaço Exterior (1967) proíbem a colocação de armas nucleares em órbita e estabelecem que o espaço deve ser usado para fins pacíficos. Embora o tratado não mencione especificamente DEWs convencionais, seu uso ofensivo no espaço gera preocupações sobre escalada militar, armamentismo orbital e risco de detritos espaciais, já que ataques podem danificar satélites de terceiros de forma irreversível.
+
+Em síntese, DEWs embarcadas em satélites representam uma tecnologia de ponta com capacidade de alterar significativamente o equilíbrio militar e espacial. Elas combinam alta precisão, rapidez de ação e versatilidade, mas também trazem enormes desafios de engenharia, logística e regulamentação internacional. A vigilância, regulação e desenvolvimento responsável dessas tecnologias são cruciais para evitar conflitos e preservar a segurança do espaço como um ambiente compartilhado.
+
 ### 🔹 HPM (High Power Microwave)
+
 ### 🔹 MASER (Microwave Amplification by Stimulated Emission of Radiation)
 ### 🔹 CogWar (Cognitive Warfare)
 ### 🔹 SAR (Synthetic Aperture Radar)
