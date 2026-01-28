@@ -103,6 +103,19 @@ Propõe um novo framework — chamado HMS‑HI — para superar limitações dos
 
 [paper](https://github.com/tventurazz/notes/blob/main/Human%20Machine%20Social%20Hybrid%20Intelligence%20A%20Collaborative%20Decision%20Making%20Framework%20for%20Large%20Model%20Agent%20Groups%20and%20Human%20Experts.pdf)
 
+
+### 📌 Microwave Auditory Effects Among U.S. Government Personnel Reporting Directional Audible and Sensory Phenomena in Havana
+
+Examina relatos de funcionários do governo dos EUA destacados em Havana que ouviram sons intensos, direcionalmente localizados e de tonalidade alta associados a fenômenos sensoriais inexplicados (com relatos de o som cessar ao mudar de posição e a tampões de ouvido não alterarem a percepção), e argumenta que essas experiências — muitas vezes ligadas à chamada Havana Syndrome — podem ser interpretadas à luz do efeito auditivo de micro‑ondas (o Frey effect), um fenômeno físico documentado em que pulsos de micro‑ondas induzem percepções sonoras via mecanismos acústicos dentro do ouvido sem necessidade de som externo tradicional, sugerindo que as características dos relatos (incluindo direção, qualidade e variabilidade das experiências) são compatíveis com explicações baseadas em micro‑ondas pulsadas direcionadas, embora o estudo não estabeleça conclusivamente a causa e discuta alternativas e limitações de interpretação científica.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Microwave_Auditory_Effects_Havana.pdf.pdf)
+
+### 📌 Cognitive Radar
+
+Trata-se de um technical ou research publication que trata da tecnologia de radares cognitivos, sistemas de sensoriamento avançado capazes de adaptar dinamicamente seus parâmetros de transmissão e processamento com base no ambiente operacional e no feedback recebido, superando os limites dos radares tradicionais ao incorporar elementos de percepção, aprendizagem e tomada de decisão automatizada para otimizar desempenho em ambientes contestados e espectros congestionados; esses radares usam ciclos de percepção‑ação que integram métodos de inteligência artificial e algoritmos de aprendizado para ajustar waveforms, gestão de recursos e resposta a interferências em tempo real, com aplicações que incluem melhor rastreamento de alvos desafiadores, resistência a contramedidas eletrônicas e maior eficácia em detecção e classificação, e o trabalho da STO inclui delinear definições técnicas, estados da arte e direções futuras de desenvolvimento colaborativo para esses sistemas dentro do contexto científico e tecnológico da OTAN.
+
+[documento](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Cognitive%20Radar%20%5BTR-SET-227%5D.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
