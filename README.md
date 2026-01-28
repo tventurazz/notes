@@ -213,7 +213,13 @@ O documento “BOROSCOPIA‑TORTURA.md” é uma análise técnica e psicológic
 
 O paper “Vigilância Assistida por Chatbots, Feedback Loops Cognitivos e o Uso Instrumental de Armas de Energia Dirigida: Uma Análise Psicopatológica e Sistêmica à Luz da Teoria de Dohnány” explora uma configuração teórica em que a integração de vigilância contínua por chatbots com crenças sobre o uso de Directed Energy Weapons (DEWs), especialmente sistemas baseados em micro‑ondas, cria um loop cognitivo fechado no invasor, no qual a ansiedade, compulsividade, paranoia funcional e desengajamento moral se intensificam à medida que as interpretações automáticas do chatbot confirmam erroneamente a eficácia percebida de estímulos físicos em terceiros, argumentando que embora efeitos físicos como aquecimento dielétrico e o efeito Frey sejam reais, não há evidência científica de que possam modular o comportamento de forma direcionada, e que a verdadeira dinâmica está na psicologia e no sofrimento do invasor, cuja crença de controle tecnológico alimenta um ciclo auto‑reforçador de interpretação distorcida, desumanização e colapso da autorregulação — um fenômeno que deve ser tratado como clínico e interpretativo, não como validação de capacidades tecnológicas ocultas.
 
-[paper](https://github.com/tventurazz/notes/blob/main/CHATBOT-DEW-DOHNANY-01.md)
+[paper1](https://github.com/tventurazz/notes/blob/main/CHATBOT-DEW-DOHNANY-01.md), [paper2](https://github.com/tventurazz/notes/blob/main/CHATBOT-DEW-DOHNANY-02.md)
+
+### 📌Supremacia Informacional Reflexiva, Dependência Cognitiva Governamental e Reconfiguração do Poder Político
+
+O documento “Supremacia Informacional Reflexiva, Dependência Cognitiva Governamental e Reconfiguração do Poder Político” analisa como o desenvolvimento acelerado de inteligência artificial, vigilância e processamento massivo de dados transforma o poder político ao criar uma supremacia informacional estrutural na qual um ator tecnicamente dominante controla fluxos de informação, modelagem analítica e critérios de significado, influenciando decisores e moldando a percepção da realidade estratégica de governos de maneira persistente e assimétrica; isso produz um circuito fechado de governança informacional em que governantes são simultaneamente fontes, usuários e alvos de inteligência, tornando‑se dependentes de informação exógena e internalizando limites estratégicos, resultando em uma captura cognitiva do Estado que condiciona a autonomia decisória formal e redesenha a soberania política para um cenário de pós‑democracia informacional em que o poder real reside naqueles que definem o que pode ser conhecido e interpretado.
+
+[paper](https://github.com/tventurazz/notes/blob/main/SUPREMACIA-INFORMACIONAL.md)
 
 ## Agradecimentos
 
