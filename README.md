@@ -48,6 +48,12 @@ Apresenta a guerra cognitiva como um componente integral e emergente da guerra h
 
 [paper](https://github.com/tventurazz/notes/blob/main/Cognitive%20Warfare%20in%20the%20Modern%20Architecture%20of%20Hybrid%20Warfare.pdf)
 
+### 📌 Decoding Imagined Auditory Pitch Phenomena with an Autoencoder Based Temporal Convolutional Architecture
+
+Apresenta um estudo de neurodecodificação que utiliza sinais de fMRI associados a tarefas de audição e imaginação de pitch (altura sonora) para demonstrar que um modelo de aprendizado de máquina baseado em autoencoder com arquitetura temporal convolucional pode mitigar a escassez de dados rotulados extraindo informação de dados não rotulados, melhorar a performance de classificadores que decodificam pitch ouvido e imaginado e revelar evidências significativas de caminhos neurais tanto separados quanto sobrepostos para processamento de pitch percebido versus imaginado, aprofundando a compreensão da representação auditiva no cérebro e mostrando o potencial de técnicas avançadas de codificação de padrões para superar limitações de dados em tarefas de decodificação cognitiva complexa.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Decoding%20Imagined%20Auditory%20Pitch%20Phenomena.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
