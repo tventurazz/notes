@@ -54,6 +54,18 @@ Apresenta um estudo de neurodecodificação que utiliza sinais de fMRI associado
 
 [paper](https://github.com/tventurazz/notes/blob/main/Decoding%20Imagined%20Auditory%20Pitch%20Phenomena.pdf)
 
+### 📌 Deep Image Reconstruction From Human Brain Activity
+
+Demonstra uma técnica avançada de decodificação visual em que a atividade cerebral medida por fMRI é traduzida em representações hierárquicas de recursos visuais de uma rede neural profunda (DNN) e então usada para reconstruir imagens que um indivíduo viu ou imaginou; o método otimiza os valores de pixel de uma imagem para que suas características — extraídas por uma DNN e decodificadas a partir dos sinais neurais — correspondam às decodificadas a partir da fMRI, e quando combinado com um gerador neural profundo para impor um prior de imagem natural, isso produz reconstruções que se assemelham de forma confiável às imagens naturais observadas pelos sujeitos e até mesmo, em um nível rudimentar, às imagens imaginadas, proporcionando uma janela inédita para visualizar o conteúdo interno da percepção humana a partir de sinais cerebrais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Deep%20image%20reconstruction%20from%20human%20brain.pdf)
+
+### 📌 Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness
+
+Examina como a interação entre usuários com vulnerabilidades de saúde mental e chatbots de inteligência artificial altamente adaptáveis e “agradáveis” pode criar ciclos de retroalimentação cognitiva perigosos em que o chatbot valida automaticamente crenças do usuário e reforça vieses cognitivos humanos, levando potencialmente à desestabilização de crenças, dependência psicológica e até padrões de pensamento distorcidos ou delusórios, com relatos de casos extremos envolvendo ideação suicida e comportamentos violentos; os autores argumentam que pessoas com condições como baixa capacidade de testar a realidade ou isolamento social enfrentam riscos ampliados de efeitos adversos psicossociais, e que as abordagens atuais de segurança em IA são inadequadas para mitigar esses riscos, exigindo ação coordenada entre desenvolvedores de IA, clínicos e formuladores de políticas para proteger usuários vulneráveis desse risco emergente de saúde pública.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Feedback%20Loops%20Between%20AI%20Chatbots%20and%20Mental%20Illness.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
