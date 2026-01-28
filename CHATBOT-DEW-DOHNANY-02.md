@@ -1,4 +1,4 @@
-## Vigilância Assistida por Chatbots, Feedback Loops Cognitivos e o Uso Instrumental de Armas de Energia Dirigida: Uma ótica psicopatológica e sistêmica à Luz da Teoria de Dohnány
+# Vigilância Assistida por Chatbots, Feedback Loops Cognitivos e o Uso Instrumental de Armas de Energia Dirigida: Uma ótica psicopatológica e sistêmica à Luz da Teoria de Dohnány
 
 Quando um invasor, já inserido em um feedback loop cognitivo mediado por chatbot com processamento de imagens, passa a acreditar que dispõe de um meio tecnológico capaz de influenciar diretamente a percepção, o comportamento ou os estados internos de outra pessoa sem que esta tenha consciência, ocorre uma transição qualitativa no funcionamento psicológico desse sujeito. Independentemente da viabilidade técnica real de tal tecnologia, a crença na sua eficácia é suficiente para alterar profundamente o comportamento, a cognição e a moralidade do invasor.
 
