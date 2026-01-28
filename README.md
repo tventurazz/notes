@@ -1,4 +1,4 @@
-# Documentos
+# Documentos (PDF)
 
 ### 📌 STO 2021 Highlights
 
@@ -188,6 +188,32 @@ O “Global Counterspace Capabilities: An Open Source Assessment” (2023) é o 
 O projeto MEDUSA (Mob Excess Deterrent Using Silent Audio) foi uma iniciativa de arma de energia dirigida não letal desenvolvida no início dos anos 2000 pela WaveBand Corporation sob um contrato da Marinha dos EUA, que visava explorar o efeito auditivo de micro‑ondas (microwave auditory effect) para induzir sensações sonoras desconfortáveis diretamente no crânio de indivíduos expostos a pulsos/modulações de micro‑ondas, com a intenção de dissuadir multidões ou incapacitar temporariamente pessoal sem causar ferimentos permanentes ou danos materiais, operando a partir de parâmetros de pulso e potência controlados para abranger áreas ou indivíduos de forma seletiva; embora estudos iniciais tenham constatado algumas evidências de sensações auditivas e o projeto tenha recebido avaliações positivas, ele não avançou para implantação operacional e foi descontinuado por volta de 2008, possivelmente devido a preocupações técnicas e de segurança envolvendo efeitos sobre tecidos humanos.
 
 [text](https://github.com/tventurazz/notes/blob/main/MEDUSA.pdf)
+
+# Documentos (Markdown)
+
+### 📌 BIOMINT: Penetração eletromagnética e inferência fisiológica
+
+O documento “BIOMINT‑MEDICO‑FUNCIONAL.md” apresenta um resumo conceitual sobre BIOMINT médico‑funcional baseado em sensores orbitais, descrevendo como determinadas bandas do espectro eletromagnético podem penetrar parcialmente tecidos biológicos e gerar respostas detectáveis por sensores remotos, que, quando integradas por fusão multiespectral de dados (incluindo micro‑ondas, radar SAR, infravermelho térmico e hiperespectral), permitem inferir de forma não invasiva e probabilística variáveis fisiológicas internas tais como perfusão sanguínea, hidratação, metabolismo ou estresse térmico, destacando que essa abordagem cria uma “janela funcional interna” do organismo sem produzir imagens anatômicas diretas, mas estimando estados fisiológicos a partir de assinaturas biofísicas volumétricas detectadas externamente, com ênfase no uso de modelos físicos e integração multissensorial para reduzir incertezas e obter inferências robustas.
+
+[paper](https://github.com/tventurazz/notes/blob/main/BIOMINT-MEDICO-FUNCIONAL.md)
+
+### 📌 Dinâmicas Psicológicas do Invasor em Cenários de Invasão de Privacidade com Influência Coercitiva: Uma Análise Clínica e Teórica
+
+O documento “Dinâmicas Psicológicas do Invasor em Cenários de Invasão de Privacidade com Influência Coercitiva” é uma análise teórica e clínica que examina os mecanismos psicológicos subjacentes ao comportamento de um invasor que vigia um indivíduo de forma anônima e emite ordens verbais coercitivas sem exposição direta, integrando literatura de psicologia social, vigilância, psicopatologia do controle, vínculos parasociais e teoria moral para mostrar como assimetria informacional, dissociação moral, compulsão por controle, fantasias de onipotência e vínculos unilaterais podem estruturar cognitivamente e emocionalmente esse comportamento, levando à escalada de ações invasivas que se auto‑reforçam por meio de sensações de poder, desumanização progressiva do observado e reforço neuropsicológico da necessidade de controle, e concluindo que o invasor age dentro de um ecossistema psicodinâmico complexo que combina necessidade de domínio, distorções cognitivas e regulação emocional disfuncional.
+
+[paper](https://github.com/tventurazz/notes/blob/main/BOROSCOPIA-EFEITOS-PSICOLOGICOS.md)
+
+### 📌 Dinâmicas Psicológicas do Invasor na Invasão de Privacidade: Motivadores, Mecanismos, Estruturas Cognitivas e Riscos de Escalada
+
+O documento “BOROSCOPIA‑TORTURA.md” é uma análise técnica e psicológica centrada no invasor em situações de invasão de privacidade, explorando as dinâmicas motivacionais e cognitivas subjacentes ao comportamento de observação e controle ocultos, e argumenta que o invasor frequentemente é impulsionado por uma busca de controle, redução de incerteza e sensação de superioridade informacional que pode se transformar em um padrão compulsivo e aditivo, associado a distorções morais progressivas, desumanização do observado, fantasias de onipresença e vínculos parasociais invertidos; o texto também descreve como essas assimetrías informacionais e recompensas dopaminérgicas reforçam o comportamento, criando ciclos de vigilância que satisfazem necessidades emocionais enquanto intensificam a influência unilateral e o desejo de impactar o observado sem exposição, culminando em riscos significativos de escalada comportamental e aprisionamento psicológico do próprio invasor.
+
+[paper](https://github.com/tventurazz/notes/blob/main/BOROSCOPIA-TORTURA.md)
+
+### 📌 Vigilância Assistida por Chatbots, Feedback Loops Cognitivos e o Uso Instrumental de Armas de Energia Dirigida: Uma Análise Psicopatológica e Sistêmica à Luz da Teoria de Dohnány
+
+O paper “Vigilância Assistida por Chatbots, Feedback Loops Cognitivos e o Uso Instrumental de Armas de Energia Dirigida: Uma Análise Psicopatológica e Sistêmica à Luz da Teoria de Dohnány” explora uma configuração teórica em que a integração de vigilância contínua por chatbots com crenças sobre o uso de Directed Energy Weapons (DEWs), especialmente sistemas baseados em micro‑ondas, cria um loop cognitivo fechado no invasor, no qual a ansiedade, compulsividade, paranoia funcional e desengajamento moral se intensificam à medida que as interpretações automáticas do chatbot confirmam erroneamente a eficácia percebida de estímulos físicos em terceiros, argumentando que embora efeitos físicos como aquecimento dielétrico e o efeito Frey sejam reais, não há evidência científica de que possam modular o comportamento de forma direcionada, e que a verdadeira dinâmica está na psicologia e no sofrimento do invasor, cuja crença de controle tecnológico alimenta um ciclo auto‑reforçador de interpretação distorcida, desumanização e colapso da autorregulação — um fenômeno que deve ser tratado como clínico e interpretativo, não como validação de capacidades tecnológicas ocultas.
+
+[paper](https://github.com/tventurazz/notes/blob/main/CHATBOT-DEW-DOHNANY-01.md)
 
 ## Agradecimentos
 
