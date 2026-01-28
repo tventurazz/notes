@@ -159,6 +159,30 @@ O paper “Sound reconstruction from human brain activity via a generative model
 
 [paper](https://github.com/tventurazz/notes/blob/main/Sound%20reconstruction%20from%20human%20brain%20activity_compressed.pdf)
 
+### 📌 The Microwave Auditory Effect
+
+O paper “The Microwave Auditory Effect” (às vezes associado a capítulos técnicos ou artigos de revisão de James C. Lin e outros sobre o Frey effect) descreve um fenômeno neurofisiológico no qual pulsos de radiação de micro‑ondas pulsados ou modulados podem ser percebidos como sons por humanos e animais sem a necessidade de um receptor acústico externo, produzindo percepções como cliques, estalos, zumbidos ou tons audíveis diretamente no crânio; o mecanismo mais aceito é a expansão termoelástica rápida no tecido mole do crânio quando absorve energia de micro‑ondas, gerando uma onda de pressão acústica que se propaga até a cóclea via condução óssea e ativa os receptores auditivos normalmente envolvidos na audição convencional, um efeito relatado em experimentos desde os anos 1960 e documentado em estudos fisiológicos sobre limiares, parâmetros de pulso e respostas psicofísicas, embora sua aplicabilidade prática e potenciais riscos à saúde ainda sejam debatidos na literatura científica.
+
+[paper](https://github.com/tventurazz/notes/blob/main/The_Microwave_Auditory_Effect.pdf)
+
+### 📌 X‑37B Space Plane’s Microwave Power Beam Experiment Is a Way Bigger Deal Than It Seems
+
+O artigo “X‑37B Space Plane’s Microwave Power Beam Experiment Is a Way Bigger Deal Than It Seems” analisa um dos poucos experimentos divulgados publicamente na missão OTV‑6 do avião espacial não tripulado X‑37B, que transporta um módulo experimental do Naval Research Laboratory (NRL) projetado para capturar energia solar no espaço, convertê‑la em eletricidade e, em princípio, transmitir essa energia de volta à Terra como um feixe de micro‑ondas; embora os detalhes sejam limitados, essa tecnologia de power‑beaming (transmissão de energia sem fio) tem implicações potenciais muito amplas — incluindo a possibilidade de alimentar veículos aéreos não tripulados por longos períodos ou fornecer energia a estações remotas sem infraestrutura terrestre tradicional — e representa um passo significativo na avaliação da viabilidade técnica e operacional de sistemas de energia solar espacial e transmissão de energia por micro‑ondas para aplicações militares e civis futuras.
+
+[paper](https://github.com/tventurazz/notes/blob/main/X-37B-Microwave-Power-Beam-US.pdf)
+
+### 📌 Cognitive Warfare — NATO Chief Scientist Research Report (2025)
+
+O documento “Cognitive Warfare — NATO Chief Scientist Research Report” é um relatório da NATO Science & Technology Organization (STO) publicado em 2025 sob a direção do Chief Scientist que analisa o fenômeno emergente da guerra cognitiva como um desafio estratégico e de ciência e tecnologia para a Aliança, observando que conflitos modernos — especialmente abaixo dos limiares de confronto armado — estão se movendo para um terreno em que percepção, interpretação e tomada de decisão humanas são alvos primários de influência e manipulação por atores adversários; o relatório explica como adversários usam narrativas, tecnologias digitais e mediação social para moldar comportamentos e crenças, destaca que essa forma de guerra opera em níveis biológico, psicológico e social e ressalta a necessidade de que a OTAN desenvolva capacidades para degradar capacidades adversárias, fortalecer resiliência de aliados e melhorar tanto a cognição humana quanto as capacidades tecnológicas de proteção, integrando pesquisa interdisciplinar, inteligência cognitiva e práticas operacionais no planejamento e defesa coletivos.
+
+[report](https://github.com/tventurazz/notes/blob/main/chief-scientist-report-cognitive-warfare-4.pdf)
+
+### 📌 Global Counterspace Capabilities: An Open Source Assessment 2023
+
+O “Global Counterspace Capabilities: An Open Source Assessment” (2023) é o relatório anual da Secure World Foundation que fornece uma visão abrangente, baseada em fontes públicas, sobre como Estados‑nação estão desenvolvendo capacidades de contrapeso espacial (counterspace) para interferir, degradar ou destruir sistemas espaciais, organizando essas tecnologias em categorias como armas de ascensão direta (direct‑ascent), sistemas co‑orbitais, guerra eletrônica, energia dirigida e operações cibernéticas, avaliando tanto o estado atual quanto o potencial militar futuro de cada um desses tipos de capacidades em países como Estados Unidos, China, Rússia, Índia e uma série de outros atores em ascensão; o relatório destaca a proliferação de ferramentas não destrutivas como jamming, spoofing e intrusões cibernéticas, observa a maturidade crescente dessas tecnologias em várias nações e sublinha os riscos de escalada, vulnerabilidade de infraestruturas críticas de satélites e a necessidade urgente de normas internacionais de comportamento responsável no espaço para evitar conflitos e preservar a sustentabilidade orbital.
+
+[relatorio](https://github.com/tventurazz/notes/blob/main/swf_global_counterspace_capabilities_2023.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
