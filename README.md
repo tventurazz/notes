@@ -91,6 +91,18 @@ Analisa como a República Popular da China (PRC) está priorizando o desenvolvim
 
 [paper](https://github.com/tventurazz/notes/blob/main/High-powered%20Microwave%20Warfare-PRC.pdf)
 
+### 📌 High-resolution image reconstruction with latent diffusion models from human brain activity
+
+Apresenta um método inovador para reconstruir imagens visualizadas por um sujeito a partir de sinais de fMRI usando um modelo de difusão latente — especificamente o Stable Diffusion — que opera em um espaço latente de baixa dimensão para reduzir custos computacionais enquanto preserva alta qualidade gerativa, e demonstra que essa abordagem pode produzir reconstruções de imagem de alta resolução e fidelidade sem necessidade de treinamento adicional de modelos complexos, mapeando diretamente a atividade cerebral para as representações internas do modelo e permitindo, além da síntese de imagens, uma interpretação quantitativa de como diferentes componentes do modelo se relacionam com funções cerebrais distintas, oferecendo assim um framework promissor para entender tanto a codificação neural da visão quanto as capacidades dos modelos de difusão em tarefas de decodificação cognitiva.
+
+[paper](https://github.com/tventurazz/notes/blob/main/High-resolution_image_reconstruction_with_latent_d.pdf)
+
+### 📌 Human-Machine Social Hybrid Intelligence: A Collaborative Decision-Making Framework for Large Model Agent Groups and Human Experts
+
+Propõe um novo framework — chamado HMS‑HI — para superar limitações dos modelos tradicionais Human‑in‑the‑Loop (HiTL) integrando grupos de agentes de IA baseados em grandes modelos (LLM) e especialistas humanos em um processo colaborativo profundo de tomada de decisão, estruturado em três pilares centrais: (1) um Shared Cognitive Space que consolida conhecimento multimodal e percepção situacional, (2) um módulo Dynamic Role and Task Allocation que distribui tarefas de forma adaptativa com base nas capacidades e cargas de trabalho de cada agente (humano ou IA), e (3) um protocolo Cross‑Species Trust Calibration que fomenta transparência, responsabilidade e adaptação mútua por meio de feedbacks explicáveis; validado em uma simulação de resposta de emergência urbana, o HMS‑HI reduziu significativamente a carga cognitiva e melhorou a qualidade e eficiência das decisões em comparação com abordagens tradicionais, destacando que confiança projetada e contexto compartilhado são fundamentais para colaboração humano‑IA eficaz em cenários complexos.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Human%20Machine%20Social%20Hybrid%20Intelligence%20A%20Collaborative%20Decision%20Making%20Framework%20for%20Large%20Model%20Agent%20Groups%20and%20Human%20Experts.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
