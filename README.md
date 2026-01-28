@@ -30,6 +30,18 @@ Auditory Effects of Microwave Radiation é um livro técnico de 2021 editado por
 
 [book](https://github.com/tventurazz/notes/blob/main/Auditory%20Effects%20of%20Microwave%20Radiation.pdf)
 
+### 📌 Bioeffects of Selected Nonlethal Weapons
+
+O documento “Bioeffects of Selected Nonlethal Weapons” (um addendum ao estudo Nonlethal Technologies – Worldwide, originalmente produzido pelo Departamento do Exército dos EUA e desclassificado em dezembro de 2006) é um relatório técnico de cerca de 17 páginas que resume evidências experimentais e observações fisiológicas sobre como certas tecnologias de armas não letais podem produzir efeitos biológicos em humanos, abordando categorias como fenômenos de laser e outras radiações ópticas, energia dirigida por radiofrequência e bioefeitos aurais, e descrevendo tanto mecanismos físicos de interação (por exemplo, aquecimento por micro‑ondas, efeitos auditivos induzidos por micro‑ondas e efeitos de energia acústica) quanto respostas biológicas observadas (incluindo alterações comportamentais, alterações motoras e potenciais incapacitações temporárias), além de discutir brevemente a tecnologia de geradores/aiming devices, alcance, tempo de início do efeito e questões de segurança e recuperação associadas a esses dispositivos não letais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/BioeffectsNonLethalWeapons.pdf)
+
+### 📌 The Cognitive Warfare Concept
+
+O paper “The Cognitive Warfare Concept” (geralmente associado ao trabalho de Bernard Claverie e François du Cluzel) articula cognitive warfare como uma forma emergente e distinta de conflito em que a mente humana e os processos cognitivos (percepção, interpretação, decisão e ação) tornam‑se o principal campo de batalha, utilizando ferramentas tecnológicas, operações cibernéticas, desinformação e técnicas de influência para alterar o pensamento, explorar vieses mentais e influenciar comportamentos tanto em indivíduos quanto em coletivos, com o objetivo de obter vantagem estratégica sobre um oponente ao corroer sua confiança, coerência social e eficácia decisória, posicionando assim a guerra cognitiva como um novo domínio ou dimensão de competição que requer respostas integradas para fortalecer resiliência cognitiva e capacidades de defesa no contexto de segurança contemporânea.
+
+[paper](https://github.com/tventurazz/notes/blob/main/CW-article-Claverie-du-Cluzel-final_0.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
