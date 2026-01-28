@@ -221,6 +221,14 @@ O documento “Supremacia Informacional Reflexiva, Dependência Cognitiva Govern
 
 [paper](https://github.com/tventurazz/notes/blob/main/SUPREMACIA-INFORMACIONAL.md)
 
+
+### 📌 SCREENS – Vigilância digital multimodal
+
+O paper “SCREENS – Vigilância digital multimodal” descreve uma modalidade ilícita de vigilância e exfiltração de dados em dispositivos móveis comprometidos, na qual o invasor transforma smartphones e similares em sensores remotos persistentes e repositórios exploráveis, aproveitando um acesso inicial por meio de equipamento militar sensível extraviado, a instrumentalização clandestina de software legítimo (como o Jitsi‑Meet) para captura contínua de áudio, vídeo e tela, e mercantilização desses acessos em um mercado clandestino de espionagem; esse modelo permite tanto vigilância em tempo real quanto exfiltração de arquivos locais e dados sensíveis, implicando crimes graves como exploração sexual infantil e chantagem/coação de vítimas, extensão a agentes públicos e corporativos para obstrução de justiça e espionagem industrial, e configura uma ameaça híbrida complexa que combina capacidades militares, software civil comum e organização criminosa para subverter instituições, roubar informações estratégicas e neutralizar ações legais contra os perpetradores.
+
+[paper](https://github.com/tventurazz/notes/blob/main/SCREENS-UMV.md)
+
+
 ## Agradecimentos
 
 ### Aos meus Filhos
