@@ -116,6 +116,16 @@ Trata-se de um technical ou research publication que trata da tecnologia de rada
 
 [documento](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Cognitive%20Radar%20%5BTR-SET-227%5D.pdf)
 
+### 📌 Mitigating and Responding to Cognitive Warfare [STO‑TR‑HFM‑ET‑356]
+
+O documento “Mitigating and Responding to Cognitive Warfare” (STO‑TR‑HFM‑ET‑356) é um relatório técnico publicado em março de 2023 pela NATO Science and Technology Organization que documenta o trabalho da Exploratory Team 356 da comissão de Human Factors and Medicine (HFM) para avaliar as ciências e tecnologias necessárias para mitigar e defender a Aliança contra a chamada cognitive warfare — um conceito de conflito onde adversários usam a convergência de tecnologias avançadas (como IA, machine learning, TIC, neurociência e biotecnologias) e fatores humanos para explorar e influenciar a cognição, percepção, sensemaking, consciência situacional e tomada de decisão de indivíduos e coletivos, representando um risco amplo à segurança e à resiliência das nações aliadas; o relatório propõe uma “House Model” como base de uma folha de rota em ciência e tecnologia — vinculada ao ciclo de decisão OODA (Observe, Orient, Decide, Act) — que identifica sete áreas de conhecimento interdependentes (pilares: cognitive neuroscience, cognitive and behavioral science, social and cultural science; e fatores transversais: situational awareness & sensemaking, cognitive effects, modus operandi, technology & force multipliers) para orientar pesquisas, investimentos e desenvolvimento de contramedidas defensivas integradas para fortalecer a vantagem cognitiva e a resiliência da OTAN frente a esse tipo de ameaça no contexto de operações futuras.
+
+[documento1](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Mitigating%20and%20Responding%20to%20Cognitive%20Warfare%20%5BSTO-TR-HFM-ET-356%5D.pdf), [documento2](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Mitigating%20and%20Responding%20to%20Cognitive%20Warfare%20%5BTR-HFM-ET-356%5D.pdf)
+
+
+
+### 📌
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
