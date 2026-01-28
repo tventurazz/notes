@@ -42,6 +42,12 @@ O paper “The Cognitive Warfare Concept” (geralmente associado ao trabalho de
 
 [paper](https://github.com/tventurazz/notes/blob/main/CW-article-Claverie-du-Cluzel-final_0.pdf)
 
+### 📌 Cognitive Warfare in the Modern Architecture of Hybrid Warfare
+
+Apresenta a guerra cognitiva como um componente integral e emergente da guerra híbrida contemporânea, argumentando que os conflitos atuais — exemplificados pelo confronto entre Rússia e Ucrânia — evoluíram para operações multi‑domínio nas quais as dimensões física, cibernética e informacional estão interligadas e a esfera cognitiva (percepção, moral, crenças e tomada de decisão humana) se tornou uma parte essencial da estratégia militar; o texto sustenta que a supremacia no campo de batalha moderno exige adaptação rápida a novas realidades e integração de abordagens convencionais e não convencionais, identifica a “esfera cognitiva” como um subsistema crítico dentro da guerra híbrida que pode ser explorado para influenciar adversários e populações, e enfatiza que a compreensão e coordenação dos elementos dessa arquitetura híbrida — incluindo percepção, informação e moral — é fundamental para operar e vencer em ambientes de conflito multifacetados.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Cognitive%20Warfare%20in%20the%20Modern%20Architecture%20of%20Hybrid%20Warfare.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
