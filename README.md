@@ -122,9 +122,30 @@ O documento “Mitigating and Responding to Cognitive Warfare” (STO‑TR‑HFM
 
 [documento1](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Mitigating%20and%20Responding%20to%20Cognitive%20Warfare%20%5BSTO-TR-HFM-ET-356%5D.pdf), [documento2](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Mitigating%20and%20Responding%20to%20Cognitive%20Warfare%20%5BTR-HFM-ET-356%5D.pdf)
 
+### 📌 Neuroenhancement in Military Personnel: Conceptual and Methodological Promises and Challenges” [STO‑TR‑HFM‑311]
+
+O documento da OTAN intitulado “Neuroenhancement in Military Personnel: Conceptual and Methodological Promises and Challenges” (STO‑TR‑HFM‑311) é um relatório técnico da Science and Technology Organization publicado em setembro de 2024 que avalia o estado da arte e as perspectivas de neuroenhancement cognitivo aplicado a militares, examinando como técnicas não invasivas e tecnologias emergentes — como **neuromodulação (por exemplo, estimulação magnética transcraniana, estimulação elétrica e ultrassônica focada), neurofeedback com EEG/fMRI/fNIRS e biossensores assistidos por aprendizado de máquina — podem potencialmente manter, otimizar ou melhorar o desempenho cognitivo de pessoal em operações prolongadas e ambientes complexos, ao mesmo tempo em que discute desafios conceituais e metodológicos relacionados à pesquisa, desenvolvimento e interpretação de resultados, incluindo limitações técnicas, variabilidade individual e considerações éticas, e aponta direções futuras como modelagem preditiva, estimulação profunda não invasiva e integração homem‑máquina para suportar seleção, treinamento, operações e recuperação de combatentes.
+
+[paper](https://github.com/tventurazz/notes/blob/main/NATO%20-%20Neuroenhancement%20in%20Military%20Personnel%20%5BTR-HFM-311%5D.pdf)
+
+### 📌 Cognitive Warfare: The Advent of the Concept of Cognitics in the Field of Warfare
+
+O paper “Cognitive Warfare: The Advent of the Concept of Cognitics in the Field of Warfare” (por Bernard Claverie e François du Cluzel) apresenta cognitive warfare como um novo conceito teórico e operacional que vai além de operações psicológicas convencionais e guerra de informação tradicionais ao posicionar a cognição humana — os processos de percepção, processamento e tomada de decisão — como um campo de batalha central, argumentando que atores adversários podem explorar vieses cognitivos e capacidades tecnológicas para influenciar representações mentais, decisões e comportamentos de indivíduos e grupos como parte de estratégias militares e híbridas, com cognitics — a disciplina que combina ciências cognitivas, neuropsicologia e técnicas informacionais — fornecendo a base para entender, modelar, aplicar e defender contra tais operações, e ao mesmo tempo destacando a necessidade de resiliência cognitiva e preparação defensiva no contexto de conflitos modernos.
+
+[paper](https://github.com/tventurazz/notes/blob/main/NATO-CSO-CW%202022-03-01%20(US)%20Claverie%20DuCluzel.pdf)
 
 
-### 📌
+### 📌 Cognitive Warfare (Commander Cornelis van der Klaauw)
+
+O documento “Cognitive Warfare” de Commander Cornelis van der Klaauw — publicado na revista interna da OTAN The Three Swords (Issue 39, 2023) pelo NATO Joint Warfare Centre — apresenta o conceito emergente de guerra cognitiva como um novo nível de competição estratégica em que o alvo principal não é território físico nem apenas informação, mas a cognição humana, definindo esse tipo de guerra como uma abordagem estruturada para afetar a cognição, tomada de decisão e comportamentos de indivíduos, grupos e sociedades por meio de influências e manipulações que exploram vieses, emoções e mecanismos subconscientes, integrando e explorando tecnologias avançadas (incluindo neurociência, biotecnologia, nanotecnologia e TIC) para amplificar efeitos, e enfatizando que a OTAN deve compreender, preparar‑se e desenvolver resiliência cognitiva como parte de sua estratégia para manter vantagem e credibilidade em ambientes de conflito futuros em que a mente humana se torna campo central de batalha.
+
+[paper](https://github.com/tventurazz/notes/blob/main/OTAN-selects-klaauw.pdf)
+
+### 📌 Guerra Cognitiva e militarização da neurociência: programas de pesquisa em neurotecnologias dos Estados Unidos e da China
+
+O paper “Guerra Cognitiva e militarização da neurociência: programas de pesquisa em neurotecnologias dos Estados Unidos e da China” analisa o conceito de guerra cognitiva e o processo de militarização da neurociência à luz dos esforços de grandes potências em desenvolver neurotecnologias com aplicações militares, observando que a OTAN passou a sugerir a adoção de um “domínio cognitivo” como um novo espaço de operação onde o cérebro humano se tornaria um dos principais campos de batalha do século XXI, e que tanto os Estados Unidos quanto a China estão investindo de forma acelerada em programas científicos civis e militares que impulsionam avanços na neurociência e no desenvolvimento de tecnologias capazes tanto de aumentar o desempenho físico e cognitivo de combatentes e comandantes quanto de potencialmente degradar as funções cerebrais de adversários, implicando que essas neurotecnologias podem ser disruptivas em conflitos operacionais, táticos e até estratégicos, refletindo uma correlação entre pesquisa científica de ponta e objetivos militares de supremacia cognitiva.
+
+[paper](https://github.com/tventurazz/notes/blob/main/RBED-v111n1-FINAL_art06%2B(1).pdf)
 
 # Glossário
 
