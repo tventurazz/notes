@@ -183,6 +183,12 @@ O “Global Counterspace Capabilities: An Open Source Assessment” (2023) é o 
 
 [relatorio](https://github.com/tventurazz/notes/blob/main/swf_global_counterspace_capabilities_2023.pdf)
 
+### 📌 MEDUSA - Mob Excess Deterrent Using Silent Audio
+
+O projeto MEDUSA (Mob Excess Deterrent Using Silent Audio) foi uma iniciativa de arma de energia dirigida não letal desenvolvida no início dos anos 2000 pela WaveBand Corporation sob um contrato da Marinha dos EUA, que visava explorar o efeito auditivo de micro‑ondas (microwave auditory effect) para induzir sensações sonoras desconfortáveis diretamente no crânio de indivíduos expostos a pulsos/modulações de micro‑ondas, com a intenção de dissuadir multidões ou incapacitar temporariamente pessoal sem causar ferimentos permanentes ou danos materiais, operando a partir de parâmetros de pulso e potência controlados para abranger áreas ou indivíduos de forma seletiva; embora estudos iniciais tenham constatado algumas evidências de sensações auditivas e o projeto tenha recebido avaliações positivas, ele não avançou para implantação operacional e foi descontinuado por volta de 2008, possivelmente devido a preocupações técnicas e de segurança envolvendo efeitos sobre tecidos humanos.
+
+[text](https://github.com/tventurazz/notes/blob/main/MEDUSA.pdf)
+
 ## Agradecimentos
 
 ### Aos meus Filhos
