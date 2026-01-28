@@ -66,6 +66,31 @@ Examina como a interação entre usuários com vulnerabilidades de saúde mental
 
 [paper](https://github.com/tventurazz/notes/blob/main/Feedback%20Loops%20Between%20AI%20Chatbots%20and%20Mental%20Illness.pdf)
 
+### 📌 Russian and Chinese development of radiofrequency directed energy weapons (RF DEW) for counterspace
+
+Analisa como Rússia e China investigam e desenvolvem armas de energia dirigida por radiofrequência (RF DEW) — tipicamente na forma de micro‑ondas de alta potência (High‑Power Microwave – HPM) ou ultra‑wideband (UWB) — com o objetivo de neutralizar ou danificar sistemas espaciais inimigos, incluindo satélites e eletrônica orbital, como armas anti‑espaço (counterspace); o texto destaca que a Rússia já lançou um satélite (Kosmos 2558 / Numizmat) considerado um possível RF DEW com cargas UWB e HPM, ressalta os desafios técnicos e o impacto potencial desses sistemas no funcionamento de satélites e infraestrutura espacial, e observa que a China desenvolve tecnologia semelhante (incluindo amplificadores de alta potência capazes de gerar pulsos HPM suficientes para afetar eletrônica sensível), embora com menos evidência pública de lançamentos orbitais, além de comentar a lacuna de inteligência sobre o grau de cooperação entre os dois países e a possibilidade de aceleração mútua de capacidades RF DEW em um cenário de competição espacial militarizada.
+
+[artigo](https://github.com/tventurazz/notes/blob/main/HPM-DEW-CH-RU.pdf)
+
+### 📌 Here are a few of the experiments hitching a ride on the Air Force’s secret space plane
+
+Descreve parte das cargas científicas e tecnológicas que a espaçonave secreta X‑37B — um veículo espacial reutilizável e não tripulado operado pelos Estados Unidos (originalmente pela Força Aérea, hoje pela Space Force) — leva em suas missões orbitais, destacando que a missão em questão (programada para maio de 2020) transportaria mais experimentos do que em qualquer voo anterior, incluindo um teste do projeto Space Solar Power Incremental Demonstrations and Research (SSPIDR) para capturar energia solar no espaço e transmitir para a Terra via micro‑ondas, um satélite educacional FalconSat‑8 com múltiplas cargas experimentais e dois experimentos da NASA para estudar os efeitos da radiação espacial em sementes e outros materiais, apoiados por um módulo de serviço adicional para ampliar a capacidade de experimentação do veículo — embora muitos detalhes permaneçam classificados e a Força Aérea e a Space Force divulguem informações limitadas sobre a totalidade das cargas úteis e objetivos orbitais.
+
+[artigo](https://github.com/tventurazz/notes/blob/main/HPM-DEW-USA.pdf)
+
+
+### 📌 Pulsed Microwave Attacks on US, Canadian, Embassy and Security Personnel: The Havana Syndrome
+
+Elaborado pela STOPEG Foundation (um grupo independente que compila e comenta relatórios e notícias públicas sobre a chamada Síndrome de Havana), apresenta uma síntese de eventos, relatos e evidências de mídia mainstream relacionados ao fenômeno conhecido como Havana Syndrome, descrevendo incidentes que afetaram diplomatas, pessoal de segurança e outros funcionários — incluindo sintomas neurológicos inexplicados — com uma narrativa que atribui esses eventos a ataques com armas de energia direcionada (especialmente pulsos de micro‑ondas) e critica abordagens oficiais que negam ou minimizam essa ligação; o documento inclui cronologias de casos, listas de sintomas relatados, alegações de encobrimento por agências governamentais, referências a audiências no Congresso dos EUA e pedidos por tratados que regulem armas de energia dirigida, sustentando que tais ataques são reais e têm ocorrido por décadas apesar da falta de consenso científico e das posições oficiais de agências de inteligência que consideram explicações não‑adversárias mais prováveis.
+
+[documento](https://github.com/tventurazz/notes/blob/main/Havana_Syndrome_STOPEG_20240912.pdf)
+
+### 📌 Weaponizing the Electromagnetic Spectrum: The PRC’s High-powered Microwave Warfare Ambitions
+
+Analisa como a República Popular da China (PRC) está priorizando o desenvolvimento de armas de micro‑ondas de alta potência (High‑Power Microwave – HPM) como parte de sua estratégia para dominar o espectro eletromagnético dentro de uma doutrina integrada de guerra “ciber‑eletromagnética”, destacando que o Exército de Libertação Popular (PLA) já exibiu várias plataformas móveis baseadas em HPM — como os sistemas anti‑drones Hurricane 2000/3000 e o FK‑4000 — projetadas para desabilitar eletronicamente sistemas adversários e reforçar capacidades assimétricas; o texto enfatiza que a PRC combina essa ênfase em HPMs com o conceito de informatized warfare, busca sincronizar ataques HPM com operações cibernéticas para paralisar redes críticas (como C4ISR) em conflitos futuros — incluindo cenários como uma contingência em Taiwan — e que o rápido avanço tecnológico e o grande volume de patentes ligadas a HPM refletem a intenção chinesa de obter uma vantagem operacional significativa no domínio eletromagnético.
+
+[paper](https://github.com/tventurazz/notes/blob/main/High-powered%20Microwave%20Warfare-PRC.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
