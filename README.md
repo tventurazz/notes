@@ -147,6 +147,18 @@ O paper “Guerra Cognitiva e militarização da neurociência: programas de pes
 
 [paper](https://github.com/tventurazz/notes/blob/main/RBED-v111n1-FINAL_art06%2B(1).pdf)
 
+### 📌 Reconstructing Visual Experiences from Brain Activity Evoked by Natural Movies
+
+O paper “Reconstructing Visual Experiences from Brain Activity Evoked by Natural Movies” (Nishimoto, Vu, Naselaris, Benjamini, Yu & Gallant, Current Biology, 2011) demonstra que é possível decodificar e reconstruir imagens em movimento que um sujeito está assistindo a partir de atividade cerebral medida por fMRI; utilizando um modelo de codificação baseado em energia de movimento para descrever a relação entre estímulos visuais naturais e os sinais BOLD no córtex visual occipitotemporal, os autores treinaram esse modelo voxel a voxel e depois integraram‑no a um decodificador bayesiano com um grande conjunto de filmes naturais como prior, permitindo reconstruções surpreendentemente fiéis dos filmes vistos, apesar da baixa velocidade temporal do fMRI, demonstrando pela primeira vez que a atividade dinâmica do cérebro sob condições naturalistas pode ser decodificada para produzir estimativas visuais do conteúdo percebido.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Reconstructing%20Visual%20Experiences%20from%20Brain%20Activity%20Evoked%20by%20Natural%20Movies.pdf)
+
+### 📌 Sound reconstruction from human brain activity via a generative model with brain-like auditory features
+
+O paper “Sound reconstruction from human brain activity via a generative model with brain‑like auditory features” (Park, Tsukamoto, Tanaka & Kamitani, 2023) propõe um método inovador de reconstruir sons percebidos a partir de sinais de fMRI ao combinar a decodificação de características auditivas hierárquicas — extraídas por um modelo de rede neural profunda (deep neural network, DNN) que espelha a hierarquia do processamento auditivo no cérebro — com um modelo gerador de áudio (transformer) que traduz essas características em formas de onda de som; os resultados mostram que o uso de features hierárquicos do DNN supera abordagens espectro‑temporais clássicas, permitindo reconstruições de alta fidelidade de sons naturais (incluindo categorias não vistas durante o treino) e que, em experimentos com atenção seletiva, as reconstruções tendem a refletir mais o som atendido pelo sujeito, destacando tanto a natureza distribuída da representação auditiva no cérebro quanto o potencial dessa abordagem para externalizar experiências auditivas subjetivas a partir da atividade neural.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Sound%20reconstruction%20from%20human%20brain%20activity_compressed.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
