@@ -1,3 +1,35 @@
+# Documentos
+
+### 📌 STO 2021 Highlights
+
+No documento 2021 STO Highlights – Science and Technology Organization da OTAN, a seção intitulada “Cognitive Domain” apresenta essa área como um novo espaço de competição que vai além dos domínios tradicionais (terra, mar, ar, cibernético e espacial) e trata da guerra cognitiva como um tipo de conflito que mobiliza um amplo conjunto de estratégias, ferramentas e técnicas para otimizar as capacidades cognitivas humanas e obter vantagem sobre um adversário ou situação, envolvendo pesquisa científica e tecnológica para compreender melhor esses fenômenos e desenvolver contramedidas; a organização está engajada através de painéis como Human Factors and Medicine e Information Systems Technology, que conduzem atividades sobre temas como neuro‑aperfeiçoamento cognitivo e exploração de mídias sociais para operações no ambiente informacional, com o objetivo de contribuir para a proteção de indivíduos e grupos contra ataques ao domínio cognitivo e fortalecer a resiliência das Forças Aliadas frente a essas ameaças emergentes.
+
+[documento](https://github.com/tventurazz/notes/blob/main/2021-NATO-STO-Highlights-web.pdf)
+
+### 📌 DEFENSE AGAINST THE DARK ARTS IN SPACE - Protecting Space Systems from Counterspace Weapons
+
+É um relatório analítico de fevereiro de 2021 do CSIS Aerospace Security Project, elaborado por Todd Harrison, Kaitlyn Johnson e Makena Young, que examina a proliferação global de armas anti‑espaço (counterspace weapons) e as formas de proteger satélites e infraestruturas espaciais críticas contra essas ameaças; o documento identifica e classifica uma ampla gama de defesas ativas e passivas — desde técnicas arquiteturais e operacionais até defesas físicas e técnicas — avaliando vantagens e limitações, explora cenários plausíveis de defesa em diferentes contextos (incluindo incursões de adversários e proteção de sistemas comerciais), e conclui com recomendações estratégicas e políticas direcionadas a formuladores para fortalecer resiliência espacial e priorizar capacidades de dissuasão e proteção diante de capacidades emergentes de ataques no domínio espacial.
+
+[documento](https://github.com/tventurazz/notes/blob/main/A%20Report%20of%20the%20CSIS%20Aerospace%20Security%20Project%20(Feb-2021).pdf)
+
+### 📌 Advancements and implications of semantic reconstruction of continuous language from non-invasive brain recordings
+
+Apresenta o estado‑da‑arte em interfaces cérebro‑computador que usam sinais neurais não invasivos — especialmente fMRI — para reconstruir linguagem contínua com significado a partir da atividade cerebral, indo além de identificações de palavras isoladas e gerando sequências de palavras inteligíveis que capturam o conteúdo semântico de fala ou pensamentos percebidos e imaginados; a abordagem descrita combina modelos de codificação e decodificação de significado capazes de aplicar um único decodificador a diferentes formas de estímulo (fala percebida, fala imaginada e vídeos silenciosos), demonstra que múltiplas regiões corticais codificam linguagem de forma redundante e consistente, e aborda implicações práticas e éticas — como a necessidade de cooperação do sujeito e preocupações de privacidade mental — ao estabelecer que interfaces desse tipo são viáveis e têm aplicações potenciais significativas em comunicação assistida, neurociência cognitiva e tecnologias de BCI, mas também levantam questões sobre privacidade e limites do decodificador em contextos reais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Advancements%20and%20implications%20of%20semantic%20reconstruction.pdf)
+
+### 📌 An Introduction to Multisensor Data Fusion
+
+O paper “An Introduction to Multisensor Data Fusion” de David L. Hall e James Llinas (publicado no Proceedings of the IEEE, 1997) é um artigo tutorial seminal que introduz a tecnologia e a teoria da fusão de dados de múltiplos sensores, definindo o campo, suas aplicações militares e civis — como reconhecimento automatizado de alvos, vigilância de campo de batalha, controle de veículos autônomos, diagnóstico médico e monitoramento de sistemas complexos — e discutindo modelos de processo, arquiteturas e técnicas aplicáveis que combinam métodos de inteligência artificial, reconhecimento de padrões e estimativa estatística para produzir estimativas mais precisas e robustas a partir de informações heterogêneas de sensores; o artigo também comenta o estado‑da‑arte da fusão de dados, oferecendo uma base para entender como técnicas de fusão aumentam a confiabilidade, reduzem a incerteza e melhoram a avaliação situacional em sistemas distribuídos de sensoriamento.
+
+[paper](https://github.com/tventurazz/notes/blob/main/An_introduction_to_multisensor_data_fusion_IEEE.pdf)
+
+### 📌 Auditory Effects of Microwave Radiation
+
+Auditory Effects of Microwave Radiation é um livro técnico de 2021 editado por James C. Lin que apresenta uma análise multidisciplinar abrangente dos efeitos auditivos sobre humanos causados por exposição a pulsos direcionados de micro‑ondas de alta potência, combinando teorias físicas, modelos biológicos, fisiologia auditiva e estudos computacionais para explicar como a energia de micro‑ondas interage com tecidos biológicos, incluindo a percepção de sons internos (o chamado microwave auditory effect), mecanismos de conversão de energia, ondas de pressão induzidas e os respectivos processos de dosimetria e absorção; o texto também discute aplicações e implicações práticas — abordando desde os fundamentos da interação micro‑ondas‑tecido até casos como “síndrome de Havana” e potenciais usos em técnicas de tomografia termoacústica — tornando‑o uma referência para pesquisadores, engenheiros biomédicos, profissionais de saúde e formuladores interessados nos impactos de micro‑ondas no sistema auditivo e na fisiologia humana.
+
+[book](https://github.com/tventurazz/notes/blob/main/Auditory%20Effects%20of%20Microwave%20Radiation.pdf)
+
 # Glossário
 
 Este glossário visa fornecer definições claras e concisas dos termos mais relevantes que serão utilizados ao longo do projeto, facilitando a comunicação e o entendimento dos documentos elaborados.
