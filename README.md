@@ -213,6 +213,36 @@ O paper “Biological Effects of Directed Energy” (relatório final de novembr
 
 [paper](https://github.com/tventurazz/notes/blob/main/Biological%20Effects%20Of%20Directed%20Energy.pdf)
 
+### 📌 A Possible Mechanism for the Influence of Electromagnetic Radiation on Neuroelectric Potentials
+
+O paper “A Possible Mechanism for the Influence of Electromagnetic Radiation on Neuroelectric Potentials” discute um mecanismo biofísico plausível pelo qual campos eletromagnéticos (EM) de baixa intensidade poderiam influenciar a atividade elétrica neural sem recorrer a efeitos térmicos, propondo que interações eletrodinâmicas sutis entre campos EM externos e estruturas neuronais — em especial membranas celulares, canais iônicos dependentes de voltagem e gradientes eletroquímicos — poderiam modular potenciais de membrana e padrões de disparo sináptico; o trabalho enfatiza a sensibilidade não linear do sistema nervoso, argumentando que pequenas perturbações de campo, se acopladas a frequências ou geometrias específicas, poderiam alterar a dinâmica dos potenciais neuroelétricos por mecanismos de ressonância, retificação ou sincronização, levantando implicações teóricas para a compreensão de neuromodulação eletromagnética, limites de exposição e possíveis efeitos funcionais em contextos ambientais, tecnológicos e experimentais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/A%20Possible%20Mechanism%20for%20the%20Influence%20of%20Electromagnetic%20Radiation%20on%20Neuroelectric%20Potentials.pdf)
+
+### 📌 Holographic Assessment of a Hypothesized Microwave Hearing Mechanism
+
+O paper “Holographic Assessment of a Hypothesized Microwave Hearing Mechanism” analisa, por meio de técnicas de holografia e modelagem físico-acústica, a plausibilidade do chamado efeito auditivo por micro-ondas (efeito Frey), no qual pulsos de radiação eletromagnética na faixa de micro-ondas poderiam ser percebidos como sons devido à geração de ondas de pressão no interior da cabeça; o estudo avalia se a rápida expansão termoelástica dos tecidos cranianos, induzida por absorção transitória de energia eletromagnética, seria suficiente para produzir deslocamentos mecânicos compatíveis com a estimulação da cóclea, utilizando medições holográficas para estimar amplitudes, padrões espaciais e coerência dessas vibrações, e conclui que, embora o mecanismo seja fisicamente consistente sob certas condições experimentais, seus efeitos permanecem extremamente sutis, dependentes de parâmetros específicos do pulso e mais relevantes para a compreensão de interações biofísicas do que como um fenômeno auditivo convencional em contextos ambientais comuns.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Holographic%20Assessment%20ofa%20Hypothesized%20Microwave%20Hearing%20Mechanism.pdf)
+
+### 📌 Mechanism of Low-Level Microwave Radiation Effect on Nervous System
+
+O paper “Mechanism of Low-Level Microwave Radiation Effect on Nervous System” investiga hipóteses biofísicas pelas quais radiações de micro-ondas em níveis não térmicos poderiam influenciar o sistema nervoso, focando em mecanismos indiretos e não destrutivos, como alterações na dinâmica de membranas neuronais, modulação de canais iônicos sensíveis à voltagem, redistribuição de íons cálcio e interferência em processos eletrofisiológicos dependentes de campo; o trabalho argumenta que, devido à natureza altamente não linear e autorregulada do tecido neural, campos eletromagnéticos fracos poderiam atuar como perturbações moduladoras, afetando padrões de excitabilidade, sincronização neural e transmissão sináptica sem provocar aquecimento mensurável, situando esses efeitos no domínio da neuromodulação eletromagnética e discutindo implicações para limites de exposição, interpretação de estudos experimentais e compreensão dos limiares funcionais entre efeitos físicos, fisiológicos e comportamentais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Mechanism%20of%20low-level%20microwave%20radiation%20effect%20on%20nervous%20system.pdf)
+
+### 📌 Microwave Auditory Effect – A Comparison of Some Possible Transduction Mechanisms
+
+O paper “Microwave Auditory Effect – A Comparison of Some Possible Transduction Mechanisms” realiza uma análise comparativa crítica dos principais mecanismos propostos para explicar o efeito auditivo por micro-ondas (efeito Frey), examinando hipóteses como a expansão termoelástica rápida dos tecidos cranianos, a condução mecânica via fluídos intracranianos e possíveis acoplamentos diretos eletromagnéticos a estruturas neurais; o estudo avalia cada mecanismo à luz de critérios físicos, fisiológicos e experimentais — incluindo eficiência de transdução, coerência temporal com pulsos de micro-ondas e compatibilidade com limiares auditivos conhecidos — e conclui que a explicação termoelástica permanece a mais consistente com os dados disponíveis, embora ressalte limitações experimentais e incertezas quantitativas, situando o fenômeno como um caso particular de transdução eletromecânica indireta, relevante sobretudo para a compreensão das interações biofísicas entre campos eletromagnéticos pulsados e sistemas sensoriais.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Microwave%20Auditory%20Effect%20-%20A%20Comparison%20of%20Some%20Possible%20Transduction%20Mechanisms.pdf)
+
+### 📌 Microwave radiation has modulation frequency dependent stimulating effect on human EEG rhythms
+
+O paper “Microwave Radiation Has Modulation Frequency Dependent Stimulating Effect on Human EEG Rhythms” investiga experimentalmente a hipótese de que a radiação de micro-ondas, em níveis não térmicos, pode modular a atividade cerebral humana de maneira dependente da frequência de modulação do sinal, analisando alterações nos ritmos eletroencefalográficos (EEG) como alfa, beta e teta; os autores relatam que determinadas frequências de modulação produzem efeitos estimulantes ou moduladores seletivos sobre esses ritmos, sugerindo um acoplamento funcional entre parâmetros temporais do campo eletromagnético e a dinâmica oscilatória do sistema nervoso central, interpretado à luz de mecanismos não lineares, ressonância funcional e sensibilidade do cérebro a perturbações periódicas fracas, com implicações teóricas para a neuromodulação eletromagnética, a interpretação de estudos de bioeletromagnetismo e a definição de critérios mais refinados para avaliação de efeitos biológicos além do aquecimento.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Microwave%20radiation%20has%20modulation%20frequency%20dependent%20stimulating%20effect%20on%20human%20EEG%20rhythms.pdf)
+
 # Documentos (Markdown)
 
 ### 📌 BIOMINT: Penetração eletromagnética e inferência fisiológica
