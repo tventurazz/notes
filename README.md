@@ -254,6 +254,24 @@ O paper “Microwave Radiation Has Modulation Frequency Dependent Stimulating Ef
 
 [paper](https://github.com/tventurazz/notes/blob/main/Microwave%20radiation%20has%20modulation%20frequency%20dependent%20stimulating%20effect%20on%20human%20EEG%20rhythms.pdf)
 
+## 📌 Detection of Neural Activity of Brain Functional Site Based on Microwave Scattering Principle
+
+O paper "Detection of Neural Activity of Brain Functional Site Based on Microwave Scattering Principle" (IEEE Access, 2019) apresenta uma abordagem teórica e experimental para reconhecer atividade neuronal funcional através da retroespalhabilidade de micro-ondas, fundamentada na ideia de que a permittividade do tecido cerebral muda com a ativação neural devido às variações de concentração iônica no fluido extracelular, e que estas mudanças modicam a fase e/ou amplitude das micro-ondas espalhadas de forma detectável; o artigo discute o modelo físico dessa interação eletromagnética e demonstra, em esquema experimental, que sinais de micro-ondas podem ser explorados para identificar sítios funcionais no cérebro com base no princípio de espalhamento de micro-ondas.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Detection_of_Neural_Activity_of_Brain_Functional_Site_Based_on_Microwave_Scattering_Principle.pdf)
+
+## 📌 Microwave Technology for Brain Activities Detection of Rats
+
+O artigo “Microwave Technology for Brain Activities Detection of Rats” (publicado em conferência, pp. 918–920, 2016) propõe uma nova abordagem baseada na transmissão de micro-ondas para detectar alterações associadas à atividade neuronal em cérebros de ratos, partindo da hipótese de que mudanças dielétricas locais associadas à atividade cerebral modulam a fase e/ou amplitude das micro-ondas espalhadas; o texto apresenta um modelo simplificado do campo eletromagnético e simulações para investigar a distribuição de energia e a variação de fase resultante da variação de permissividade no sítio funcional e argumenta que tais variações podem ser exploradas para inferir atividade neuronal, sugerindo a viabilidade conceitual do uso de micro-ondas para monitoramento da atividade cerebral em ratos.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Microwave%20Technology%20for%20Brain%20Activities%20Detection%20of%20Rats.pdf)
+
+## 📌 Microwave Transmission Approach for Human Neuronal Activities Detection
+
+O artigo “Microwave Transmission Approach for Human Neuronal Activities Detection” (IEEE ICMMT 2016) propõe um método teórico para detectar atividade neuronal humana utilizando transmissão de micro-ondas, fundamentado na hipótese de que mudanças dielétricas no tecido cerebral associadas à atividade eletrofisiológica alteram a fase e/ou amplitude do sinal de micro-ondas transmitido através da cabeça, e demonstra por meio de modelagem e simulações eletromagnéticas em um modelo tridimensional da cabeça que as variações na permissividade do tecido funcional podem ser inferidas a partir da variação de fase do coeficiente de transmissão do sinal, sugerindo a viabilidade conceitual de monitorar sinais neurais através de técnicas de micro-ondas não invasivas e analisando aspectos de segurança como a taxa de absorção específica (SAR).
+
+[paper](https://github.com/tventurazz/notes/blob/main/Microwave%20Transmission%20Approach%20for%20Human%20Neuronal%20Activities%20Detection.pdf)
+
 # Documentos (Markdown)
 
 ## 📌 BIOMINT: Penetração eletromagnética e inferência fisiológica
