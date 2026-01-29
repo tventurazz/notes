@@ -189,6 +189,30 @@ O projeto MEDUSA (Mob Excess Deterrent Using Silent Audio) foi uma iniciativa de
 
 [text](https://github.com/tventurazz/notes/blob/main/MEDUSA.pdf)
 
+### 📌 The Active Denial System – Obstacles and Promise
+
+O paper “The Active Denial System – Obstacles and Promise” de Benjamin Buch e Katherine Mitchell é um policy brief que examina a tecnologia ADS — um sistema de arma não-letal baseado em energia direcional de ondas milimétricas — não apenas em termos de sua eficácia técnica, mas principalmente dos obstáculos políticos, psicológicos, sociológicos e legais à sua adoção operacional; os autores argumentam que, apesar do potencial do ADS para fornecer capacidades de dissuasão sem letalidade e minimizar dano humano, barreiras de aceitação (como preconceitos contra tecnologia baseada em radiação, preocupações de direitos humanos e potenciais usos abusivos) e complexidades em contextos de proteção de populações civis limitam sua implementação, recomendando abordagens integradas, melhores regras de engajamento e medidas de transparência para mitigar esses desafios enquanto se preserva sua promessa como ferramenta de controle não letal.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Active%20Denial%20System%20-%20Obstacles%20And%20Promisse.pdf)
+
+### 📌 Cooking Protestors Alive: The Excessive-Force Implications of the Active Denial System
+
+O paper “Cooking Protestors Alive: The Excessive-Force Implications of the Active Denial System” de Brad Turner (publicado no Duke Law & Technology Review) argumenta que o Active Denial System (ADS) — um dispositivo de controle de multidões que usa um feixe de energia de ondas milimétricas para induzir uma intensa sensação de calor e fazer pessoas recuarem — apresenta um paradoxo jurídico e constitucional significativo nos EUA porque, apesar de ser projetado como uma ferramenta de dispersão menos letal, sua natureza invisível e inaudível pode gerar alegações de uso excessivo de força sob a Quarta Emenda, desafiando os princípios legais existentes de razoabilidade, igualdade e livre expressão; Turner alerta que sem legislação específica, o corpo jurídico americano pode não estar preparado para adjudicar eficientemente disputas emergentes envolvendo tecnologias de policiamento de próxima geração como o ADS.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Cooking%20Protestors%20Alive_%20The%20Excessive-Force%20Implications%20of%20the%20ADS.pdf)
+
+### 📌 Thermal Effects of the Active Denial System
+
+O paper “Thermal Effects of the Active Denial System”, por Hong Zhou e colaboradores (incluindo Hongyun Wang e Wesley A. Burgei), analisa de forma técnica como o feixe de energia milimétrica usado pelo Active Denial System (ADS) é absorvido pela pele humana e causa um rápido aumento de temperatura superficial, o que ativa nociceptores térmicos (receptores de dor) e induz uma reflexão de retirada do alvo sem dano profundo aos tecidos; o estudo descreve que a energia electromagnética de alta potência acarreta um aquecimento localizado na camada epidérmica (~0,4 mm de profundidade), explica os mecanismos físico-térmicos de transferência de calor que levam à sensação de dor e discute os limites operacionais nos quais os efeitos térmicos permanecem controlados para evitar lesões térmicas graves, caracterizando os parâmetros que determinam a resposta humana ao ADS.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Thermal%20effects%20of%20the%20Active%20Denial%20System.pdf)
+
+### 📌 Biological Effects of Directed Energy
+
+O paper “Biological Effects of Directed Energy” (relatório final de novembro de 2002) é um estudo técnico contratado pela Air Force Research Laboratory e conduzido por pesquisadores da Veridian Engineering que sintetiza cinco anos de pesquisa sobre os efeitos biológicos de energia dirigida (especialmente radiação de radiofrequência e micro-ondas) em suporte à avaliação de sistemas como o Active Denial System e outras tecnologias de armas não-letais; o documento organiza as investigações em áreas como ADS, saúde e segurança relacionadas à radiação de RF, pesquisa de efeitos biológicos de armas não-letais e atividades do Joint Non-Lethal Weapons Human Effects Center of Excellence, descrevendo objetivos, métodos e relevância para o Departamento de Defesa (incluindo dados sobre absorção de energia pelo tecido, respostas térmicas e critérios de segurança) com o propósito de orientar padrões de exposição e uso operacional seguro dessas tecnologias. Do ponto de vista epistemológico e metodológico, o estudo “Biological Effects of Directed Energy” pode ser considerado suscetível a viés, em razão direta da natureza institucional, do financiamento e do propósito aplicado da Veridian Engineering. Trata-se de um relatório técnico contratado pelo Departamento de Defesa dos EUA, produzido por uma empresa privada com interesse comercial explícito na validação, certificação de segurança e viabilidade operacional de tecnologias de energia dirigida, o que introduz riscos clássicos de sponsorship bias (seleção de métricas favoráveis, enquadramento conservador de riscos, ênfase em efeitos reversíveis e sub-relato de incertezas de longo prazo); embora isso não invalide automaticamente os dados experimentais, limita sua neutralidade interpretativa, sobretudo no que se refere a extrapolações sobre segurança, efeitos cumulativos e impactos subclínicos, tornando metodologicamente necessário confrontar suas conclusões com estudos independentes, revisões por pares acadêmicos, literatura biomédica não militar e análises produzidas fora do complexo militar-industrial para que o corpo de evidência seja considerado cientificamente robusto.
+
+[paper](https://github.com/tventurazz/notes/blob/main/Biological%20Effects%20Of%20Directed%20Energy.pdf)
+
 # Documentos (Markdown)
 
 ### 📌 BIOMINT: Penetração eletromagnética e inferência fisiológica
@@ -227,7 +251,6 @@ O documento “Supremacia Informacional Reflexiva, Dependência Cognitiva Govern
 O paper “SCREENS – Vigilância digital multimodal” descreve uma modalidade ilícita de vigilância e exfiltração de dados em dispositivos móveis comprometidos, na qual o invasor transforma smartphones e similares em sensores remotos persistentes e repositórios exploráveis, aproveitando um acesso inicial por meio de equipamento militar sensível extraviado, a instrumentalização clandestina de software legítimo (como o Jitsi‑Meet) para captura contínua de áudio, vídeo e tela, e mercantilização desses acessos em um mercado clandestino de espionagem; esse modelo permite tanto vigilância em tempo real quanto exfiltração de arquivos locais e dados sensíveis, implicando crimes graves como exploração sexual infantil e chantagem/coação de vítimas, extensão a agentes públicos e corporativos para obstrução de justiça e espionagem industrial, e configura uma ameaça híbrida complexa que combina capacidades militares, software civil comum e organização criminosa para subverter instituições, roubar informações estratégicas e neutralizar ações legais contra os perpetradores.
 
 [paper](https://github.com/tventurazz/notes/blob/main/SCREENS-UMV.md)
-
 
 ## Agradecimentos
 
