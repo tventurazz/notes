@@ -168,7 +168,7 @@ O paper “Reconstructing Visual Experiences from Brain Activity Evoked by Natur
 
 O paper “Sound reconstruction from human brain activity via a generative model with brain‑like auditory features” (Park, Tsukamoto, Tanaka & Kamitani, 2023) propõe um método inovador de reconstruir sons percebidos a partir de sinais de fMRI ao combinar a decodificação de características auditivas hierárquicas — extraídas por um modelo de rede neural profunda (deep neural network, DNN) que espelha a hierarquia do processamento auditivo no cérebro — com um modelo gerador de áudio (transformer) que traduz essas características em formas de onda de som; os resultados mostram que o uso de features hierárquicos do DNN supera abordagens espectro‑temporais clássicas, permitindo reconstruições de alta fidelidade de sons naturais (incluindo categorias não vistas durante o treino) e que, em experimentos com atenção seletiva, as reconstruções tendem a refletir mais o som atendido pelo sujeito, destacando tanto a natureza distribuída da representação auditiva no cérebro quanto o potencial dessa abordagem para externalizar experiências auditivas subjetivas a partir da atividade neural.
 
-[paper](https://github.com/tventurazz/notes/blob/main/Sound%20reconstruction%20from%20human%20brain%20activity_compressed.pdf)
+[paper](https://github.com/tventurazz/notes/blob/main/Sound%20reconstruction%20from%20human%20brain%20activity%20via%20a%20generative%20model%20with%20brain-like%20auditory%20features.pdf)
 
 ## 📌 The Microwave Auditory Effect
 
@@ -276,85 +276,79 @@ O artigo “Microwave Transmission Approach for Human Neuronal Activities Detect
 
 Este survey oferece uma revisão abrangente e sistematizada das técnicas de decodificação cerebral baseadas em fMRI voltadas à reconstrução de estímulos multimodais, incluindo imagens, sons, linguagem e combinações entre essas modalidades. O artigo analisa a evolução histórica dos métodos, desde abordagens lineares clássicas de mapeamento voxel–feature até arquiteturas profundas e modelos generativos modernos, como GANs e diffusion models. Também discute estratégias de fusão multimodal, problemas de alinhamento semântico entre sinais neurais e representações latentes, limitações impostas pela baixa resolução temporal da fMRI e desafios de generalização intersujeitos, além de abordar implicações éticas e epistemológicas associadas à inferência de conteúdo mental a partir de sinais não invasivos.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/A%20Survey%20on%20fMRI-based%20Brain%20Decoding%20for%20Reconstructing%20Multimodal%20Stimuli.pdf)
 
 ## 📌 Coherent Language Reconstruction from Brain Recordings with Flexible Multi-Modal Input Stimuli
 
 Este trabalho propõe um framework para reconstrução coerente de linguagem natural a partir de registros cerebrais, explorando explicitamente a integração de estímulos multimodais flexíveis, como texto, áudio e imagens. O modelo utiliza espaços latentes compartilhados para alinhar representações neurais com embeddings linguísticos de alto nível, permitindo capturar dependências semânticas e sintáticas de longo alcance. Os resultados indicam que a incorporação de contexto multimodal melhora significativamente a fluidez textual, a coerência discursiva e a robustez do sistema frente à variabilidade neural, sugerindo que a linguagem no cérebro é fortemente modulada por representações semânticas multimodais.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Coherent%20Language%20Reconstruction%20from%20Brain%20Recordings%20with%20Flexible%20Multi-Modal%20Input%20Stimuli.pdf)
 
 ## 📌 Decoding the Multimodal Mind – Generalizable Brain-to-Text Translation via Multimodal Alignment and Adaptive Routing
 
 Este paper apresenta uma abordagem de tradução cérebro-para-texto orientada à generalização, baseada em mecanismos de alinhamento multimodal e roteamento adaptativo de informação. A proposta busca superar a dependência excessiva de modelos treinados para sujeitos ou estímulos específicos, ao aprender correspondências abstratas entre padrões neurais e representações semânticas compartilhadas entre modalidades. O uso de roteamento adaptativo permite selecionar dinamicamente caminhos de processamento conforme o tipo de estímulo e a região cerebral envolvida, resultando em melhor desempenho na reconstrução textual e maior transferibilidade entre tarefas e indivíduos.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Decoding%20the%20Multimodal%20Mind%20-%20Generalizable%20Brain-to-Text%20Translation%20via%20Multimodal%20Alignment%20and%20Adaptive%20Routing.pdf)
 
 ## 📌 fMRI-based Decoding of Visual Information from Human Brain Activity: A Brief Review
 
 Esta revisão concisa sintetiza os principais avanços na decodificação de informação visual a partir de atividade cerebral medida por fMRI. O artigo discute métodos de identificação de características visuais codificadas no córtex visual, desde atributos de baixo nível, como orientação e frequência espacial, até representações semânticas de alto nível. São analisadas abordagens baseadas em regressão, redes neurais profundas e modelos generativos, bem como as limitações inerentes à fMRI, incluindo ruído, latência hemodinâmica e baixa resolução temporal, que impactam a fidelidade das reconstruções visuais.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/fMRI-based%20Decoding%20of%20Visual%20Information%20from%20Human%20Brain%20Activity%20A%20Brief%20Review.pdf)
 
 ## 📌 Hyperrealistic Neural Decoding for Reconstructing Faces from fMRI Activations via the GAN Latent Space
 
 Este estudo demonstra a reconstrução hiper-realista de faces humanas a partir de ativações de fMRI por meio do mapeamento direto para o espaço latente de redes adversariais generativas. Ao explorar manifolds latentes previamente treinados em grandes bases de dados de rostos, o modelo consegue preservar identidade, estrutura facial e atributos semânticos relevantes. Os resultados evidenciam uma correspondência notável entre padrões neurais no córtex visual e dimensões latentes de modelos generativos, levantando questões importantes sobre privacidade mental e biometria neural.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Hyperrealistic%20neural%20decoding%20for%20reconstructing%20faces%20from%20fMRI%20activations%20via%20the%20GAN%20latent%20space.pdf)
 
 ## 📌 Improving Visual Image Reconstruction from Human Brain Activity Using Latent Diffusion Models via Multiple Decoded Inputs
 
 Este paper investiga o uso de modelos de difusão latente para aprimorar a reconstrução de imagens a partir de atividade cerebral humana. A abordagem combina múltiplos sinais decodificados da fMRI, como descrições semânticas, mapas estruturais e atributos perceptuais, que são utilizados como condicionantes no processo de difusão. Essa estratégia reduz ambiguidades e instabilidades comuns em modelos generativos, produzindo imagens mais nítidas, semanticamente alinhadas e visualmente consistentes com o estímulo original.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Improving%20visual%20image%20reconstruction%20from%20human%20brain%20activity%20using%20latent%20diffusion%20models%20via%20multiple%20decoded%20inputs.pdf)
 
 ## 📌 Mind Reader – Reconstructing Complex Images from Brain Activities
 
 O trabalho intitulado *Mind Reader* apresenta um sistema de decodificação neural baseado em aprendizado profundo capaz de reconstruir imagens complexas a partir de padrões de atividade cerebral. O modelo aprende associações diretas entre sinais neurais e representações visuais de alto nível, permitindo a recuperação de estruturas globais e detalhes locais de cenas naturais. O estudo demonstra a viabilidade de reconstruções visuais mesmo diante do alto ruído e da variabilidade intersujeitos inerentes aos dados de neuroimagem.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Mind%20Reader%20-%20Reconstructing%20complex%20images%20from%20brain%20activities.pdf)
 
 ## 📌 Modeling the Repetition-Based Recovery of Acoustic and Visual Sources with Dendritic Neurons
 
 Este estudo propõe um modelo computacional inspirado em neurônios com processamento dendrítico para explicar a recuperação progressiva de fontes acústicas e visuais baseada na repetição de estímulos. O trabalho sugere que mecanismos dendríticos não lineares podem desempenhar papel central na segregação sensorial e no reforço representacional observado em tarefas multimodais. O modelo fornece uma ponte entre evidências neurofisiológicas e abordagens computacionais modernas para percepção multisensorial.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Modeling%20the%20Repetition-Based%20Recovery%20of%20Acoustic%20and%20Visual%20Sources%20with%20Dendritic%20Neurons.pdf)
 
 ## 📌 NeuroClips – Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
 
 O NeuroClips introduz uma abordagem inovadora para reconstrução contínua de vídeo a partir de sinais de fMRI, abordando explicitamente a dimensão temporal dos estímulos dinâmicos. O método combina modelagem temporal com redes generativas condicionadas, permitindo reconstruções com maior fidelidade visual e transições suaves entre quadros. Os resultados representam um avanço significativo em relação a reconstruções quadro-a-quadro independentes, aproximando a decodificação neural de experiências visuais contínuas.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/NeuroClips%20-%20Towards%20High-fidelity%20and%20Smooth%20fMRI-to-Video%20Reconstruction.pdf)
 
 ## 📌 Perception-to-Image – Reconstructing Natural Images from the Brain Activity of Visual Perception
 
 Este trabalho propõe um pipeline completo de percepção-para-imagem, no qual a atividade cerebral evocada pela percepção visual é mapeada para espaços latentes visuais utilizados por modelos generativos. A abordagem permite reconstruir imagens naturais que preservam o conteúdo semântico do estímulo percebido, ainda que com limitações em detalhes finos. O estudo reforça a noção de que o cérebro codifica representações visuais em níveis hierárquicos compatíveis com modelos de visão computacional profunda.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Perception-to-Image%20-%20Reconstructing%20Natural%20Images%20from%20the%20Brain%20Activity%20of%20Visual%20Perception.pdf)
 
 ## 📌 Reconstructing Seen Image from Brain Activity by Visually-guided Cognitive Representation and Adversarial Learning
 
 O paper combina representações cognitivas guiadas visualmente com aprendizado adversarial para reconstrução de imagens vistas a partir de fMRI. Ao incorporar restrições perceptuais e semânticas no processo de treinamento, o modelo melhora a coerência estrutural e a qualidade visual das imagens reconstruídas. A abordagem demonstra que a integração entre cognição guiada e técnicas adversariais pode reduzir artefatos e ambiguidades na decodificação visual neural.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Reconstructing%20Seen%20Image%20from%20Brain%20Activity%20by%20Visually-guided%20Cognitive%20Representation%20and%20Adversarial%20Learning.pdf)
 
 ## 📌 Reconstructing the Spectrotemporal Modulations of Real-life Sounds from fMRI Response Patterns
 
 Este estudo foca na reconstrução de modulações espectrotemporais de sons do mundo real a partir de padrões de resposta em fMRI. Os autores demonstram que regiões do córtex auditivo codificam informações acústicas dinâmicas de forma suficientemente estruturada para permitir a recuperação de características temporais e espectrais por meio de modelos computacionais. O trabalho contribui para a compreensão de como sons complexos são representados neuralmente.
 
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Reconstructing%20the%20spectrotemporal%20modulations%20of%20real-life%20sounds%20from%20fMRI%20response%20patterns.pdf)
 
 ## 📌 Semantic Reconstruction of Continuous Language from Non-invasive Brain Recordings Input Stimuli
 
 Este paper aborda a reconstrução semântica contínua da linguagem a partir de registros cerebrais não invasivos, enfatizando a decodificação de significado em escala discursiva, e não apenas a identificação de palavras isoladas. O modelo captura representações semânticas de longo alcance alinhadas com embeddings de linguagem, permitindo inferir o conteúdo conceitual geral do que está sendo ouvido ou imaginado pelo indivíduo. O estudo representa um avanço em direção à leitura semântica abstrata da atividade cerebral.
 
-[paper]()
-
-## 📌 Sound Reconstruction from Human Brain Activity via a Generative Model with Brain-like Auditory Features
-
-Este trabalho propõe um modelo generativo para reconstrução sonora que incorpora características auditivas inspiradas na organização funcional do sistema auditivo humano. Ao alinhar representações neurais com descritores acústicos biologicamente plausíveis, o modelo consegue reconstruir sons com maior fidelidade perceptual. Os resultados sugerem que a incorporação de princípios neurobiológicos no design de modelos generativos é crucial para melhorar a qualidade da decodificação auditiva cerebral.
-
-[paper]()
+[paper](https://github.com/tventurazz/notes/blob/main/Semantic%20reconstruction%20of%20continuous%20language%20from%20non-invasive%20brain%20recordings%20Input%20Stimuli.pdf)
 
 # Documentos (Markdown)
 
