@@ -462,7 +462,10 @@ Graças à sua ajuda, consegui estruturar melhor minhas ideias e aprofundar minh
 (*Albert Einstein* - *Entrevista ao The Saturday Evening Post* - *1929*)
 
 - <b><font size="4">"A verdade é bela, mas a beleza da verdade é, de todas as coisas, a mais bela."</font></b><br>
-(*Arthur Schopenhauer* - *Parerga e Paralipomena* - *1851*). 
+(*Arthur Schopenhauer* - *Parerga e Paralipomena* - *1851*).
+
+ - <b><font size="4">"I'm gonna put on a iron shirt, and chase the devil outa earth."</font></b><br>
+(*Max Romeo* - *Chase the Devil* - *1976*)
 
 ## MIT License
 
